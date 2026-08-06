@@ -1,0 +1,219 @@
+{
+  "id": "2026-07-18-a-life-bigger-than-yourself-live-it-out",
+  "date": "2026-07-18",
+  "seriesTitle": "Mission In Motion",
+  "sermonTitle": "A Life Bigger Than Yourself",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [
+    {
+      "displayText": "Ephesians 2:1-10",
+      "references": [
+        {
+          "book": "Ephesians",
+          "bookId": "EPH",
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 10
+        }
+      ]
+    },
+    {
+      "displayText": "Proverbs 8:13",
+      "references": [
+        {
+          "book": "Proverbs",
+          "bookId": "PRO",
+          "chapter": 8,
+          "verseStart": 13
+        }
+      ]
+    },
+    {
+      "displayText": "Psalm 44:6-7",
+      "references": [
+        {
+          "book": "Psalms",
+          "bookId": "PSA",
+          "chapter": 44,
+          "verseStart": 6,
+          "verseEnd": 7
+        }
+      ]
+    },
+    {
+      "displayText": "Galatians 6:14",
+      "references": [
+        {
+          "book": "Galatians",
+          "bookId": "GAL",
+          "chapter": 6,
+          "verseStart": 14
+        }
+      ]
+    }
+  ],
+  "introduction": null,
+  "sections": [
+    {
+      "id": "sec-live-it-out",
+      "title": "LIVE IT OUT",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-live-it-out-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What do you tend to boast in besides Jesus?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Jeremiah 9:23-24",
+              "reference": {
+                "book": "Jeremiah",
+                "bookId": "JER",
+                "chapter": 9,
+                "verseStart": 23,
+                "verseEnd": 24
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nWe all look for things that give us confidence and worth. It may be our career, accomplishments, intelligence, appearance, ministry role, or reputation. What are you most tempted to build your identity around? How would your outlook change if your deepest confidence came from being known and loved by God rather than what you achieve?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Where has God shown you undeserved grace?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Titus 3:4-7",
+              "reference": {
+                "book": "Titus",
+                "bookId": "TIT",
+                "chapter": 3,
+                "verseStart": 4,
+                "verseEnd": 7
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nPaul reminds us that salvation is not earned but given through God's mercy. Think about your story. Where have you experienced grace when you didn't deserve it? How does remembering God's kindness toward you shape the way you treat people who are struggling, failing, or far from God?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who do you have difficulty seeing with compassion?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 9:36",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 9,
+                "verseStart": 36
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nJesus looked at hurting and broken people with compassion instead of judgment. Are there certain people or groups you find yourself avoiding, criticizing, or dismissing? What might change if you intentionally saw them through the eyes of Christ?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How has forgetting your past affected your present?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "1 Timothy 1:15-16",
+              "reference": {
+                "book": "1 Timothy",
+                "bookId": "1TI",
+                "chapter": 1,
+                "verseStart": 15,
+                "verseEnd": 16
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nPaul never forgot that God rescued him. Remembering where we came from keeps us humble and compassionate. Have you become comfortable with your faith in a way that has caused you to lose urgency for people who don't know Jesus? What helps you remember the difference God's grace has made in your life?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is your mindset walking into a new room or even a worship setting?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 2:3-4",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 2,
+                "verseStart": 3,
+                "verseEnd": 4
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nBefore entering a room, a conversation, or a gathering, many of us instinctively think, \"What can I get?\" Paul challenges believers to consider the needs of others instead. When you enter most situations, are you focused on being served or serving others? What would it look like to intentionally look for one person to encourage this week?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-6",
+          "order": 6,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What \"mark\" do you want your life to leave?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "John 13:34-35",
+              "reference": {
+                "book": "John",
+                "bookId": "JHN",
+                "chapter": 13,
+                "verseStart": 34,
+                "verseEnd": 35
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nJesus said the world would recognize His followers by their love. When people think about your life years from now, what do you hope they remember? Are you currently investing your energy in things that will have eternal value, or in things that will eventually fade away?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale"
+}

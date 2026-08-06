@@ -1,0 +1,194 @@
+{
+  "id": "2026-08-01-you-have-it-too-live-it-out",
+  "date": "2026-08-01",
+  "seriesTitle": "Mission In Motion",
+  "sermonTitle": "You Have It Too",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [
+    {
+      "displayText": "Hebrews 12:2",
+      "references": [
+        {
+          "book": "Hebrews",
+          "bookId": "HEB",
+          "chapter": 12,
+          "verseStart": 2
+        }
+      ]
+    },
+    {
+      "displayText": "Ephesians 2:8-10",
+      "references": [
+        {
+          "book": "Ephesians",
+          "bookId": "EPH",
+          "chapter": 2,
+          "verseStart": 8,
+          "verseEnd": 10
+        }
+      ]
+    }
+  ],
+  "introduction": null,
+  "sections": [
+    {
+      "id": "sec-live-it-out",
+      "title": "LIVE IT OUT",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-live-it-out-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What has been one of your favorite memories of generosity?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Acts 20:35",
+              "reference": {
+                "book": "Acts",
+                "bookId": "ACT",
+                "chapter": 20,
+                "verseStart": 35
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nJesus reminds us that \"it is more blessed to give than to receive.\" Some of life's most meaningful stories involve someone stepping in to meet a need. Generosity reflects the heart of God, and often the greatest blessing isn't what is given, but seeing a life impacted through it. How has giving (or receiving) generosity shaped the way you see God's heart? What opportunity might God be placing before you this week?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "As you have grown in your faith, what challenge seems to rise against it?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 4:5-7",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 4,
+                "verseStart": 5,
+                "verseEnd": 7
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nAs our faith grows, new battles often arise. As peace grows, anxiety attacks. As generosity grows, pride follows. As courage grows, fear whispers us back into comfort. God's Spirit grows good fruit in us, but we must be intentional about uprooting the weeds. What fruit of the Spirit is God growing in your life? What has been trying to steal it in this season?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is one outward expression that reflects an inward change in your life?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 12:34-35",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 12,
+                "verseStart": 34,
+                "verseEnd": 35
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nJesus teaches that what fills our hearts eventually flows into our words and actions. As Christ transforms us inwardly, that change becomes visible to those around us. A changed heart naturally reflects the life of Jesus. Where have others seen God changing you? Is there an area where your outward life isn't yet reflecting what God is doing within you?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is one area where you can allow faith to spur you into action this week?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "James 2:17-18",
+              "reference": {
+                "book": "James",
+                "bookId": "JAS",
+                "chapter": 2,
+                "verseStart": 17,
+                "verseEnd": 18
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nJames reminds us that faith without action is dead. We don't do good works to earn God's love, we do them because we have already received it. As faith grows, courage follows. Courage leads to obedience, and obedience allows God to work through us. Where is God inviting you to step out in faith this week? What fear or hesitation do you need to surrender?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How do you know when you are living as a new creation?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 4:19",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 4,
+                "verseStart": 19
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nWhen Jesus called His first disciples, they seemed ordinary to everyone else. But Jesus saw who they could become. As they followed Him, their identity, purpose, and mission were transformed. Following Jesus always changes the direction of our lives. Looking back, what has changed most since you began following Jesus? How is your life different today because you belong to Him?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-6",
+          "order": 6,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How does knowing God prepared good works for you in advance influence the way you pray?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Ephesians 2:10",
+              "reference": {
+                "book": "Ephesians",
+                "bookId": "EPH",
+                "chapter": 2,
+                "verseStart": 10
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nGod has already gone before you, preparing opportunities to reflect His love. Prayer aligns our hearts with His purposes and helps us recognize where He is already at work. Rather than asking God to bless our plans, we learn to join His. How would your perspective change if you entered each day believing God had already prepared something for you to do? How can you stay attentive to His leading this week?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale"
+}

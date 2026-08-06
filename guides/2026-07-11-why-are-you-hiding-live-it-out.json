@@ -1,0 +1,242 @@
+{
+  "id": "2026-07-11-why-are-you-hiding-live-it-out",
+  "date": "2026-07-11",
+  "seriesTitle": "Why Are You Hiding?",
+  "sermonTitle": "Why Are You Hiding?",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [
+    {
+      "displayText": "Genesis 3:9",
+      "references": [
+        {
+          "book": "Genesis",
+          "bookId": "GEN",
+          "chapter": 3,
+          "verseStart": 9
+        }
+      ]
+    },
+    {
+      "displayText": "Romans 5:8",
+      "references": [
+        {
+          "book": "Romans",
+          "bookId": "ROM",
+          "chapter": 5,
+          "verseStart": 8
+        }
+      ]
+    },
+    {
+      "displayText": "Luke 15:4-7",
+      "references": [
+        {
+          "book": "Luke",
+          "bookId": "LUK",
+          "chapter": 15,
+          "verseStart": 4,
+          "verseEnd": 7
+        }
+      ]
+    },
+    {
+      "displayText": "Romans 5:12-17",
+      "references": [
+        {
+          "book": "Romans",
+          "bookId": "ROM",
+          "chapter": 5,
+          "verseStart": 12,
+          "verseEnd": 17
+        }
+      ]
+    }
+  ],
+  "introduction": null,
+  "sections": [
+    {
+      "id": "sec-live-it-out",
+      "title": "LIVE IT OUT",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-live-it-out-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What are you tempted to hide from God or others?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Genesis 3:8-10",
+              "reference": {
+                "book": "Genesis",
+                "bookId": "GEN",
+                "chapter": 3,
+                "verseStart": 8,
+                "verseEnd": 10
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nAfter Adam and Eve sinned, their first response was to hide. Shame often convinces us that staying hidden is safer than being known. Is there an area of your life where you have been hiding instead of being honest? What would it look like to bring that area into the light?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is your relationship with conviction and shame?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Romans 8:1",
+              "reference": {
+                "book": "Romans",
+                "bookId": "ROM",
+                "chapter": 8,
+                "verseStart": 1
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nConviction draws us back to God, while shame pushes us away from Him. How can you tell the difference between the two in your own life? Have there been moments when shame kept you from receiving God's grace?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How does God's pursuit of you change the way you see Him?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Romans 5:8",
+              "reference": {
+                "book": "Romans",
+                "bookId": "ROM",
+                "chapter": 5,
+                "verseStart": 8
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nGod didn't wait for us to get everything together before He loved us. He pursued us while we were still sinners. How does knowing God actively pursues you impact your relationship with Him today?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What does \"joy in trials\" mean to you?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "James 1:2-4",
+              "reference": {
+                "book": "James",
+                "bookId": "JAS",
+                "chapter": 1,
+                "verseStart": 2,
+                "verseEnd": 4
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nJames teaches that God can use trials to produce maturity and perseverance in our lives. How is biblical joy different from happiness, and how do you find joy in the Lord when the storm is still raging around you?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What keeps you from asking for help?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Galatians 6:2",
+              "reference": {
+                "book": "Galatians",
+                "bookId": "GAL",
+                "chapter": 6,
+                "verseStart": 2
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nJust as God often uses community to help us, we were never meant to carry every burden alone. What makes it difficult for you to reach out when you're struggling? Who might God be inviting you to trust with your story?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-6",
+          "order": 6,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Do you feel like you have to hide in plain sight?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 23:27-28",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 23,
+                "verseStart": 27,
+                "verseEnd": 28
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nIt's possible to look healthy on the outside while struggling internally. Have there been times when you've focused more on appearances than on genuine connection with God? What would authenticity look like in this season?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-7",
+          "order": 7,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Where is God asking you to come out of hiding?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "1 John 1:5-9",
+              "reference": {
+                "book": "1 John",
+                "bookId": "1JN",
+                "chapter": 1,
+                "verseStart": 5,
+                "verseEnd": 9
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nWalking in the light requires honesty, vulnerability, and trust. Is there a conversation, confession, decision, or step of faith that God may be prompting you to take?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale"
+}

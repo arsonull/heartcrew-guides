@@ -1,0 +1,270 @@
+{
+  "id": "2026-07-04-this-is-why-you-re-stuck-live-it-out",
+  "date": "2026-07-04",
+  "seriesTitle": "This Is Why You're Stuck",
+  "sermonTitle": "This Is Why You're Stuck",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [
+    {
+      "displayText": "2 Timothy 4:7-8",
+      "references": [
+        {
+          "book": "2 Timothy",
+          "bookId": "2TI",
+          "chapter": 4,
+          "verseStart": 7,
+          "verseEnd": 8
+        }
+      ]
+    },
+    {
+      "displayText": "Romans 5:3-5",
+      "references": [
+        {
+          "book": "Romans",
+          "bookId": "ROM",
+          "chapter": 5,
+          "verseStart": 3,
+          "verseEnd": 5
+        }
+      ]
+    },
+    {
+      "displayText": "1 Peter 1:14-16",
+      "references": [
+        {
+          "book": "1 Peter",
+          "bookId": "1PE",
+          "chapter": 1,
+          "verseStart": 14,
+          "verseEnd": 16
+        }
+      ]
+    },
+    {
+      "displayText": "Romans 8:18",
+      "references": [
+        {
+          "book": "Romans",
+          "bookId": "ROM",
+          "chapter": 8,
+          "verseStart": 18
+        }
+      ]
+    },
+    {
+      "displayText": "Job 2:9-10",
+      "references": [
+        {
+          "book": "Job",
+          "bookId": "JOB",
+          "chapter": 2,
+          "verseStart": 9,
+          "verseEnd": 10
+        }
+      ]
+    },
+    {
+      "displayText": "Matthew 7:7-8",
+      "references": [
+        {
+          "book": "Matthew",
+          "bookId": "MAT",
+          "chapter": 7,
+          "verseStart": 7,
+          "verseEnd": 8
+        }
+      ]
+    }
+  ],
+  "introduction": null,
+  "sections": [
+    {
+      "id": "sec-live-it-out",
+      "title": "LIVE IT OUT",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-live-it-out-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is shaping you most right now?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Romans 12:1-2",
+              "reference": {
+                "book": "Romans",
+                "bookId": "ROM",
+                "chapter": 12,
+                "verseStart": 1,
+                "verseEnd": 2
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nPaul teaches that transformation happens as our minds are renewed by God rather than shaped by the world. What influence or habit is currently shaping you more than you thought? How can you intentionally create space for Him to transform you?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Where might God be building endurance in your life?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Hebrews 12:1-3",
+              "reference": {
+                "book": "Hebrews",
+                "bookId": "HEB",
+                "chapter": 12,
+                "verseStart": 1,
+                "verseEnd": 3
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nThe writer of Hebrews points us to Jesus as the ultimate example of perseverance. What challenge in your life today could God be using to strengthen your faith or character?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is the difference between comfort and peace?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 4:11-13",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 4,
+                "verseStart": 11,
+                "verseEnd": 13
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nPaul learned contentment regardless of his circumstances because Christ was his source of strength. Have you ever experienced God's peace during an uncomfortable season? What made the difference?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What does \"joy in trials\" mean to you?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "James 1:2-4",
+              "reference": {
+                "book": "James",
+                "bookId": "JAS",
+                "chapter": 1,
+                "verseStart": 2,
+                "verseEnd": 4
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nJames teaches that God can use trials to produce maturity and perseverance in our lives. How is biblical joy different from happiness, and how do you find joy in the Lord when the storm is still raging around you?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What have you seen as shame that God may see as a testimony?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "2 Corinthians 1:3-7",
+              "reference": {
+                "book": "2 Corinthians",
+                "bookId": "2CO",
+                "chapter": 1,
+                "verseStart": 3,
+                "verseEnd": 7
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nGod often comforts us in our struggles so that we can comfort others with the same comfort we have received. Is there a part of your story that you once wanted to hide but that God could now use to encourage someone else?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-6",
+          "order": 6,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Why are we often surprised by suffering?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "1 Peter 4:12-19",
+              "reference": {
+                "book": "1 Peter",
+                "bookId": "1PE",
+                "chapter": 4,
+                "verseStart": 12,
+                "verseEnd": 19
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nPeter reminds believers not to be surprised by trials but to trust God and remain faithful through them. How would your response to hardship change if you viewed trials as opportunities for God to refine you rather than interruptions to your life?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-7",
+          "order": 7,
+          "segments": [
+            {
+              "type": "text",
+              "text": "The sermon taught that resilient disciples find Someone more important than their comfort. When you think about your current season, how is Jesus inviting you to trust Him more than your desire for comfort?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 3:7-8",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 3,
+                "verseStart": 7,
+                "verseEnd": 8
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nPaul considered everything else a loss compared to the surpassing worth of knowing Christ. What comfort, convenience, or preference might God be asking you to surrender so you can experience more of Him?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale"
+}

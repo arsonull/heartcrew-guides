@@ -1,0 +1,235 @@
+{
+  "id": "2026-07-25-why-can-t-i-move-on-live-it-out",
+  "date": "2026-07-25",
+  "seriesTitle": "Mission In Motion",
+  "sermonTitle": "Why Can't I Move On?",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [
+    {
+      "displayText": "Ephesians 2:1-10",
+      "references": [
+        {
+          "book": "Ephesians",
+          "bookId": "EPH",
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 10
+        }
+      ]
+    },
+    {
+      "displayText": "Romans 8:37, 8",
+      "references": [
+        {
+          "book": "Romans",
+          "bookId": "ROM",
+          "chapter": 8,
+          "verseStart": 37
+        },
+        {
+          "book": "Romans",
+          "bookId": "ROM",
+          "chapter": 8,
+          "verseStart": 8
+        }
+      ]
+    },
+    {
+      "displayText": "Ephesians 4:23",
+      "references": [
+        {
+          "book": "Ephesians",
+          "bookId": "EPH",
+          "chapter": 4,
+          "verseStart": 23
+        }
+      ]
+    },
+    {
+      "displayText": "2 Corinthians 4:8-9",
+      "references": [
+        {
+          "book": "2 Corinthians",
+          "bookId": "2CO",
+          "chapter": 4,
+          "verseStart": 8,
+          "verseEnd": 9
+        }
+      ]
+    },
+    {
+      "displayText": "Philippians 4:4-8",
+      "references": [
+        {
+          "book": "Philippians",
+          "bookId": "PHP",
+          "chapter": 4,
+          "verseStart": 4,
+          "verseEnd": 8
+        }
+      ]
+    }
+  ],
+  "introduction": null,
+  "sections": [
+    {
+      "id": "sec-live-it-out",
+      "title": "LIVE IT OUT",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-live-it-out-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "When was the last time a masterpiece in God's creation caused you to stop and worship?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Psalm 19:1",
+              "reference": {
+                "book": "Psalms",
+                "bookId": "PSA",
+                "chapter": 19,
+                "verseStart": 1
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nAn unexpected moment of awe can change our hearts forever. The intricate beauty of creation points to the intentional craftsmanship of the Creator. How has something you've witnessed in creation shaped the way you see God as your Creator?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "If someone asked why you follow Jesus, what story would you tell?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "1 Peter 3:15",
+              "reference": {
+                "book": "1 Peter",
+                "bookId": "1PE",
+                "chapter": 3,
+                "verseStart": 15
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nPeter encourages believers to always be ready to explain the hope they have in Christ. Beyond the moment of salvation, how has Jesus continued to transform your life, your relationships, your thinking, or your priorities?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What story are you rehearsing more often-the story of what happened to you or the story of what Christ has done in you?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Revelation 12:11",
+              "reference": {
+                "book": "Revelation",
+                "bookId": "REV",
+                "chapter": 12,
+                "verseStart": 11
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nA stuck story sounds like: \"I would be further along, except for ____________.\" A gratitude testimony sounds like: \"I am further along than I was because Christ has given me victory in ___________.\" Christ calls us to live as victors, not victims. What is one testimony you can share that shifts the conversation away from the enemy and toward Christ?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Where have you been tempted to ask, \"Why is this happening to me?\" How might God be inviting you to ask instead, \"How can He use this?\"\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 1:3-11",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 1,
+                "verseStart": 3,
+                "verseEnd": 11
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nPaul's imprisonment didn't stop God's work, it became a platform for it. In fact, some of his most inspired theological work was authored in confinement. Ephesians, Philippians, Colossians, and Philemon are called the prison epistles. They served as a powerful encouragement and exhortation to gathering of believers. Looking at your current season, where might God be producing something deeper than what you can presently see?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What helps you remember God's faithfulness when life feels overwhelming?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Lamentations 3:21-24",
+              "reference": {
+                "book": "Lamentations",
+                "bookId": "LAM",
+                "chapter": 3,
+                "verseStart": 21,
+                "verseEnd": 24
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nJeremiah found hope not because his circumstances changed, but because he intentionally remembered God's character. What rhythms help you slow down, reflect, and recognize what God is doing? What tends to keep you from making those rhythms a priority?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-6",
+          "order": 6,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What has been your response to our mission statement?\nRead: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 2:1-5",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 2,
+                "verseStart": 1,
+                "verseEnd": 5
+              }
+            },
+            {
+              "type": "text",
+              "text": "\nOur mission is Together, becoming like Jesus for the sake of others. Spiritual growth isn't just for our own benefit; it should overflow into the lives of those around us. How has God been shaping you recently, and how has that transformation impacted someone else?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale"
+}
