@@ -1,0 +1,206 @@
+{
+  "id": "2026-08-08-what-s-controlling-you-live-it-out",
+  "date": "2026-08-08",
+  "seriesTitle": "What's Controlling You?",
+  "sermonTitle": "What's Controlling You?",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": null,
+  "sections": [
+    {
+      "id": "sec-live-it-out",
+      "title": "LIVE IT OUT",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-live-it-out-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What has been sitting at the center of your life lately? Whether  it's  fear,  disappointment,  control,  doubt,  or  sheer exhaustion from doing life at a crazy pace, how has it been shaping your thoughts, emotions, and decisions? Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Colossians 3:2",
+              "reference": {
+                "book": "Colossians",
+                "bookId": "COL",
+                "chapter": 3,
+                "verseStart": 2
+              }
+            },
+            {
+              "type": "text",
+              "text": ": \"Set your minds on things above, not on earthly things.\""
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What  is  one  area  of  your  life  God  is  inviting  you  to surrender instead of control? What would it look like to put His throne above your \"thorn\" this week? Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Hebrews 12:2",
+              "reference": {
+                "book": "Hebrews",
+                "bookId": "HEB",
+                "chapter": 12,
+                "verseStart": 2
+              }
+            },
+            {
+              "type": "text",
+              "text": ". \"Fixing our eyes on Jesus, the author and perfecter of faith...\""
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What's one practical way you can recenter your heart on God this week? What specific habit will help keep God at the center? (For example: worship during your commute, praying when anxiety rises, or opening your Bible app before scrolling) Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Colossians 3:16",
+              "reference": {
+                "book": "Colossians",
+                "bookId": "COL",
+                "chapter": 3,
+                "verseStart": 16
+              }
+            },
+            {
+              "type": "text",
+              "text": ". \"Let the message of Christ dwell among you richly... singing to God with gratitude in your hearts.\""
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-out-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who might be impacted by the way you worship through this season? Worship declares that God is still worthy, even when life is hard. How might your faithful response encourage someone else to trust God and glorify Him? Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 5:16",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 5,
+                "verseStart": 16
+              }
+            },
+            {
+              "type": "text",
+              "text": ". \"Let your light shine before others, that they  may  see  your  good  deeds  and  glorify  your  Father  in heaven.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-god-at-the-center",
+      "title": "GOD AT THE CENTER",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-god-at-the-center-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "SERMON REFLECTION GUIDE FOR WEEK OF AUG 5/6 "
+            },
+            {
+              "type": "scripture",
+              "displayText": "PSALMS 34:1-8",
+              "reference": {
+                "book": "Psalms",
+                "bookId": "PSA",
+                "chapter": 34,
+                "verseStart": 1,
+                "verseEnd": 8
+              }
+            },
+            {
+              "type": "text",
+              "text": " AND 42:5, "
+            },
+            {
+              "type": "scripture",
+              "displayText": "ROMANS 12:1",
+              "reference": {
+                "book": "Romans",
+                "bookId": "ROM",
+                "chapter": 12,
+                "verseStart": 1
+              }
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "scripture",
+              "displayText": "JOHN 4:23-24",
+              "reference": {
+                "book": "John",
+                "bookId": "JHN",
+                "chapter": 4,
+                "verseStart": 23,
+                "verseEnd": 24
+              }
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "scripture",
+              "displayText": "2 CORINTHIANS 12:8-9",
+              "reference": {
+                "book": "2 Corinthians",
+                "bookId": "2CO",
+                "chapter": 12,
+                "verseStart": 8,
+                "verseEnd": 9
+              }
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "scripture",
+              "displayText": "ACTS 16:25-26",
+              "reference": {
+                "book": "Acts",
+                "bookId": "ACT",
+                "chapter": 16,
+                "verseStart": 25,
+                "verseEnd": 26
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale"
+}

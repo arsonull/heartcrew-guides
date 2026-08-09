@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-08T13:55:55.201Z",
+  "generatedAt": "2026-08-09T13:57:47.361Z",
   "guides": [
+    {
+      "id": "2026-08-08-what-s-controlling-you-peoria-crew-guide",
+      "sermonLinkId": 1301,
+      "sermonId": 530,
+      "linkTypeId": 8,
+      "linkTypeKey": "peoria-crew-guide",
+      "campus": "Peoria",
+      "kind": "crew-guide",
+      "sermonDate": "2026-08-08",
+      "sermonTitle": "What's Controlling You?",
+      "sermonSubtitle": null,
+      "seriesTitle": "What's Controlling You?",
+      "thumbnailUrl": "https://phc.events/api/mp/files/2683fba4-e416-4d62-be20-ded60da31ad9",
+      "warnings": 9
+    },
+    {
+      "id": "2026-08-08-what-s-controlling-you-live-it-out",
+      "sermonLinkId": 1300,
+      "sermonId": 530,
+      "linkTypeId": 6,
+      "linkTypeKey": "live-it-out",
+      "campus": "Glendale",
+      "kind": "sermon-notes",
+      "sermonDate": "2026-08-08",
+      "sermonTitle": "What's Controlling You?",
+      "sermonSubtitle": null,
+      "seriesTitle": "What's Controlling You?",
+      "thumbnailUrl": "https://phc.events/api/mp/files/2683fba4-e416-4d62-be20-ded60da31ad9",
+      "warnings": 5
+    },
     {
       "id": "2026-08-01-you-have-it-too-live-it-out",
       "sermonLinkId": 1296,
@@ -150,36 +180,6 @@
       "seriesTitle": "The Advocate",
       "thumbnailUrl": "https://phc.events/api/mp/files/45eef706-e52f-4b77-bdbe-c7137498801e",
       "warnings": 1
-    },
-    {
-      "id": "2026-06-06-you-re-not-alone-live-it-out",
-      "sermonLinkId": 1264,
-      "sermonId": 521,
-      "linkTypeId": 6,
-      "linkTypeKey": "live-it-out",
-      "campus": "Glendale",
-      "kind": "sermon-notes",
-      "sermonDate": "2026-06-06",
-      "sermonTitle": "You're Not Alone",
-      "sermonSubtitle": "Week 2",
-      "seriesTitle": "The Advocate",
-      "thumbnailUrl": "https://phc.events/api/mp/files/fdee51a7-492b-482c-806b-9ca1dd2139c3",
-      "warnings": 4
-    },
-    {
-      "id": "2026-05-30-stop-waiting-for-a-sign-live-it-out",
-      "sermonLinkId": 1260,
-      "sermonId": 520,
-      "linkTypeId": 6,
-      "linkTypeKey": "live-it-out",
-      "campus": "Glendale",
-      "kind": "sermon-notes",
-      "sermonDate": "2026-05-30",
-      "sermonTitle": "Stop Waiting For A Sign",
-      "sermonSubtitle": "Week 1",
-      "seriesTitle": "The Advocate",
-      "thumbnailUrl": "https://phc.events/api/mp/files/10a6e7c2-161b-4b02-aa9b-5cfa3501a737",
-      "warnings": 8
     }
   ],
   "failed": []
