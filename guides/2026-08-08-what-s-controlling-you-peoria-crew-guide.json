@@ -23,18 +23,19 @@
             },
             {
               "type": "scripture",
-              "displayText": "2 KINGS 6:24-7",
+              "displayText": "2 KINGS 6:24-7:16",
               "reference": {
                 "book": "2 Kings",
                 "bookId": "2KI",
                 "chapter": 6,
                 "verseStart": 24,
-                "verseEnd": 7
+                "verseEnd": 16,
+                "chapterEnd": 7
               }
             },
             {
               "type": "text",
-              "text": ":16 AND "
+              "text": " AND "
             },
             {
               "type": "scripture",
