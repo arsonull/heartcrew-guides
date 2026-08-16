@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-15T13:43:15.097Z",
+  "generatedAt": "2026-08-16T13:44:28.301Z",
   "guides": [
+    {
+      "id": "2026-08-15-busy-but-going-nowhere-heart-crew-guide",
+      "sermonLinkId": 1305,
+      "sermonId": 531,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-08-15",
+      "sermonTitle": "Busy... But Going Nowhere?",
+      "sermonSubtitle": "Week 1",
+      "seriesTitle": "In Focus",
+      "thumbnailUrl": "https://phc.events/api/mp/files/f9226222-5574-4213-a389-30f26d8eeb5a",
+      "warnings": 1
+    },
     {
       "id": "2026-08-08-what-s-controlling-you-peoria-crew-guide",
       "sermonLinkId": 1301,
@@ -164,21 +179,6 @@
       "sermonSubtitle": null,
       "seriesTitle": "God Never Said This",
       "thumbnailUrl": "https://phc.events/api/mp/files/cfaf0de0-f871-481f-ae1b-af032ddc03d2",
-      "warnings": 1
-    },
-    {
-      "id": "2026-06-13-when-you-re-smiling-outside-but-hurting-inside-live-it-out",
-      "sermonLinkId": 1268,
-      "sermonId": 522,
-      "linkTypeId": 6,
-      "linkTypeKey": "live-it-out",
-      "campus": "Glendale",
-      "kind": "sermon-notes",
-      "sermonDate": "2026-06-13",
-      "sermonTitle": "When You’re Smiling Outside but Hurting Inside",
-      "sermonSubtitle": "Week 3",
-      "seriesTitle": "The Advocate",
-      "thumbnailUrl": "https://phc.events/api/mp/files/45eef706-e52f-4b77-bdbe-c7137498801e",
       "warnings": 1
     }
   ],
