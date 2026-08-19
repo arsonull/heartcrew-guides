@@ -53,7 +53,15 @@
                 "bookId": "ACT",
                 "chapter": 20,
                 "verseStart": 35
-              }
+              },
+              "references": [
+                {
+                  "book": "Acts",
+                  "bookId": "ACT",
+                  "chapter": 20,
+                  "verseStart": 35
+                }
+              ]
             },
             {
               "type": "text",
@@ -78,7 +86,16 @@
                 "chapter": 4,
                 "verseStart": 5,
                 "verseEnd": 7
-              }
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 4,
+                  "verseStart": 5,
+                  "verseEnd": 7
+                }
+              ]
             },
             {
               "type": "text",
@@ -103,7 +120,16 @@
                 "chapter": 12,
                 "verseStart": 34,
                 "verseEnd": 35
-              }
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 12,
+                  "verseStart": 34,
+                  "verseEnd": 35
+                }
+              ]
             },
             {
               "type": "text",
@@ -128,7 +154,16 @@
                 "chapter": 2,
                 "verseStart": 17,
                 "verseEnd": 18
-              }
+              },
+              "references": [
+                {
+                  "book": "James",
+                  "bookId": "JAS",
+                  "chapter": 2,
+                  "verseStart": 17,
+                  "verseEnd": 18
+                }
+              ]
             },
             {
               "type": "text",
@@ -152,7 +187,15 @@
                 "bookId": "MAT",
                 "chapter": 4,
                 "verseStart": 19
-              }
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 4,
+                  "verseStart": 19
+                }
+              ]
             },
             {
               "type": "text",
@@ -176,7 +219,15 @@
                 "bookId": "EPH",
                 "chapter": 2,
                 "verseStart": 10
-              }
+              },
+              "references": [
+                {
+                  "book": "Ephesians",
+                  "bookId": "EPH",
+                  "chapter": 2,
+                  "verseStart": 10
+                }
+              ]
             },
             {
               "type": "text",

@@ -102,7 +102,16 @@
                 "chapter": 12,
                 "verseStart": 1,
                 "verseEnd": 2
-              }
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 12,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                }
+              ]
             },
             {
               "type": "text",
@@ -127,7 +136,16 @@
                 "chapter": 12,
                 "verseStart": 1,
                 "verseEnd": 3
-              }
+              },
+              "references": [
+                {
+                  "book": "Hebrews",
+                  "bookId": "HEB",
+                  "chapter": 12,
+                  "verseStart": 1,
+                  "verseEnd": 3
+                }
+              ]
             },
             {
               "type": "text",
@@ -152,7 +170,16 @@
                 "chapter": 4,
                 "verseStart": 11,
                 "verseEnd": 13
-              }
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 4,
+                  "verseStart": 11,
+                  "verseEnd": 13
+                }
+              ]
             },
             {
               "type": "text",
@@ -177,7 +204,16 @@
                 "chapter": 1,
                 "verseStart": 2,
                 "verseEnd": 4
-              }
+              },
+              "references": [
+                {
+                  "book": "James",
+                  "bookId": "JAS",
+                  "chapter": 1,
+                  "verseStart": 2,
+                  "verseEnd": 4
+                }
+              ]
             },
             {
               "type": "text",
@@ -202,7 +238,16 @@
                 "chapter": 1,
                 "verseStart": 3,
                 "verseEnd": 7
-              }
+              },
+              "references": [
+                {
+                  "book": "2 Corinthians",
+                  "bookId": "2CO",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 7
+                }
+              ]
             },
             {
               "type": "text",
@@ -227,7 +272,16 @@
                 "chapter": 4,
                 "verseStart": 12,
                 "verseEnd": 19
-              }
+              },
+              "references": [
+                {
+                  "book": "1 Peter",
+                  "bookId": "1PE",
+                  "chapter": 4,
+                  "verseStart": 12,
+                  "verseEnd": 19
+                }
+              ]
             },
             {
               "type": "text",
@@ -252,7 +306,16 @@
                 "chapter": 3,
                 "verseStart": 7,
                 "verseEnd": 8
-              }
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 3,
+                  "verseStart": 7,
+                  "verseEnd": 8
+                }
+              ]
             },
             {
               "type": "text",

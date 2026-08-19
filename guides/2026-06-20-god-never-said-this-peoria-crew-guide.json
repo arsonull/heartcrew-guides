@@ -75,7 +75,16 @@
                 "chapter": 115,
                 "verseStart": 1,
                 "verseEnd": 8
-              }
+              },
+              "references": [
+                {
+                  "book": "Psalms",
+                  "bookId": "PSA",
+                  "chapter": 115,
+                  "verseStart": 1,
+                  "verseEnd": 8
+                }
+              ]
             },
             {
               "type": "text",
@@ -99,7 +108,15 @@
                 "bookId": "JHN",
                 "chapter": 17,
                 "verseStart": 3
-              }
+              },
+              "references": [
+                {
+                  "book": "John",
+                  "bookId": "JHN",
+                  "chapter": 17,
+                  "verseStart": 3
+                }
+              ]
             },
             {
               "type": "text",
@@ -124,7 +141,16 @@
                 "chapter": 10,
                 "verseStart": 38,
                 "verseEnd": 42
-              }
+              },
+              "references": [
+                {
+                  "book": "Luke",
+                  "bookId": "LUK",
+                  "chapter": 10,
+                  "verseStart": 38,
+                  "verseEnd": 42
+                }
+              ]
             },
             {
               "type": "text",
@@ -147,7 +173,14 @@
                 "book": "Exodus",
                 "bookId": "EXO",
                 "chapter": 34
-              }
+              },
+              "references": [
+                {
+                  "book": "Exodus",
+                  "bookId": "EXO",
+                  "chapter": 34
+                }
+              ]
             },
             {
               "type": "text",
@@ -162,7 +195,16 @@
                 "chapter": 34,
                 "verseStart": 6,
                 "verseEnd": 8
-              }
+              },
+              "references": [
+                {
+                  "book": "Exodus",
+                  "bookId": "EXO",
+                  "chapter": 34,
+                  "verseStart": 6,
+                  "verseEnd": 8
+                }
+              ]
             },
             {
               "type": "text",

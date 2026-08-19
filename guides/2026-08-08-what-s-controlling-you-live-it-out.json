@@ -29,7 +29,15 @@
                 "bookId": "COL",
                 "chapter": 3,
                 "verseStart": 2
-              }
+              },
+              "references": [
+                {
+                  "book": "Colossians",
+                  "bookId": "COL",
+                  "chapter": 3,
+                  "verseStart": 2
+                }
+              ]
             },
             {
               "type": "text",
@@ -53,7 +61,15 @@
                 "bookId": "HEB",
                 "chapter": 12,
                 "verseStart": 2
-              }
+              },
+              "references": [
+                {
+                  "book": "Hebrews",
+                  "bookId": "HEB",
+                  "chapter": 12,
+                  "verseStart": 2
+                }
+              ]
             },
             {
               "type": "text",
@@ -77,7 +93,15 @@
                 "bookId": "COL",
                 "chapter": 3,
                 "verseStart": 16
-              }
+              },
+              "references": [
+                {
+                  "book": "Colossians",
+                  "bookId": "COL",
+                  "chapter": 3,
+                  "verseStart": 16
+                }
+              ]
             },
             {
               "type": "text",
@@ -101,7 +125,15 @@
                 "bookId": "MAT",
                 "chapter": 5,
                 "verseStart": 16
-              }
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 5,
+                  "verseStart": 16
+                }
+              ]
             },
             {
               "type": "text",
@@ -133,7 +165,22 @@
                 "chapter": 34,
                 "verseStart": 1,
                 "verseEnd": 8
-              }
+              },
+              "references": [
+                {
+                  "book": "Psalms",
+                  "bookId": "PSA",
+                  "chapter": 34,
+                  "verseStart": 1,
+                  "verseEnd": 8
+                },
+                {
+                  "book": "Psalms",
+                  "bookId": "PSA",
+                  "chapter": 42,
+                  "verseStart": 5
+                }
+              ]
             },
             {
               "type": "text",
@@ -147,7 +194,15 @@
                 "bookId": "ROM",
                 "chapter": 12,
                 "verseStart": 1
-              }
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 12,
+                  "verseStart": 1
+                }
+              ]
             },
             {
               "type": "text",
@@ -162,7 +217,16 @@
                 "chapter": 4,
                 "verseStart": 23,
                 "verseEnd": 24
-              }
+              },
+              "references": [
+                {
+                  "book": "John",
+                  "bookId": "JHN",
+                  "chapter": 4,
+                  "verseStart": 23,
+                  "verseEnd": 24
+                }
+              ]
             },
             {
               "type": "text",
@@ -177,7 +241,16 @@
                 "chapter": 12,
                 "verseStart": 8,
                 "verseEnd": 9
-              }
+              },
+              "references": [
+                {
+                  "book": "2 Corinthians",
+                  "bookId": "2CO",
+                  "chapter": 12,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ]
             },
             {
               "type": "text",
@@ -192,7 +265,16 @@
                 "chapter": 16,
                 "verseStart": 25,
                 "verseEnd": 26
-              }
+              },
+              "references": [
+                {
+                  "book": "Acts",
+                  "bookId": "ACT",
+                  "chapter": 16,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                }
+              ]
             }
           ]
         }

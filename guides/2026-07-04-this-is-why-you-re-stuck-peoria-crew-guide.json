@@ -110,7 +110,16 @@
                 "chapter": 12,
                 "verseStart": 7,
                 "verseEnd": 10
-              }
+              },
+              "references": [
+                {
+                  "book": "2 Corinthians",
+                  "bookId": "2CO",
+                  "chapter": 12,
+                  "verseStart": 7,
+                  "verseEnd": 10
+                }
+              ]
             },
             {
               "type": "text",
@@ -135,7 +144,16 @@
                 "chapter": 2,
                 "verseStart": 12,
                 "verseEnd": 16
-              }
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 2,
+                  "verseStart": 12,
+                  "verseEnd": 16
+                }
+              ]
             },
             {
               "type": "text",
@@ -160,7 +178,16 @@
                 "chapter": 42,
                 "verseStart": 5,
                 "verseEnd": 6
-              }
+              },
+              "references": [
+                {
+                  "book": "Psalms",
+                  "bookId": "PSA",
+                  "chapter": 42,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                }
+              ]
             },
             {
               "type": "text",
@@ -174,7 +201,15 @@
                 "bookId": "HEB",
                 "chapter": 6,
                 "verseStart": 19
-              }
+              },
+              "references": [
+                {
+                  "book": "Hebrews",
+                  "bookId": "HEB",
+                  "chapter": 6,
+                  "verseStart": 19
+                }
+              ]
             },
             {
               "type": "text",
@@ -199,7 +234,16 @@
                 "chapter": 3,
                 "verseStart": 5,
                 "verseEnd": 6
-              }
+              },
+              "references": [
+                {
+                  "book": "Proverbs",
+                  "bookId": "PRO",
+                  "chapter": 3,
+                  "verseStart": 5,
+                  "verseEnd": 6
+                }
+              ]
             },
             {
               "type": "text",
@@ -223,7 +267,15 @@
                 "bookId": "JHN",
                 "chapter": 1,
                 "verseStart": 14
-              }
+              },
+              "references": [
+                {
+                  "book": "John",
+                  "bookId": "JHN",
+                  "chapter": 1,
+                  "verseStart": 14
+                }
+              ]
             },
             {
               "type": "text",
@@ -248,7 +300,16 @@
                 "chapter": 15,
                 "verseStart": 1,
                 "verseEnd": 8
-              }
+              },
+              "references": [
+                {
+                  "book": "John",
+                  "bookId": "JHN",
+                  "chapter": 15,
+                  "verseStart": 1,
+                  "verseEnd": 8
+                }
+              ]
             },
             {
               "type": "text",
@@ -272,7 +333,15 @@
                 "bookId": "2CO",
                 "chapter": 12,
                 "verseStart": 9
-              }
+              },
+              "references": [
+                {
+                  "book": "2 Corinthians",
+                  "bookId": "2CO",
+                  "chapter": 12,
+                  "verseStart": 9
+                }
+              ]
             },
             {
               "type": "text",
@@ -286,7 +355,15 @@
                 "bookId": "GAL",
                 "chapter": 2,
                 "verseStart": 20
-              }
+              },
+              "references": [
+                {
+                  "book": "Galatians",
+                  "bookId": "GAL",
+                  "chapter": 2,
+                  "verseStart": 20
+                }
+              ]
             },
             {
               "type": "text",

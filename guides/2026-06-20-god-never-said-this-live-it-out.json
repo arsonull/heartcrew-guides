@@ -114,7 +114,15 @@
                 "bookId": "GAL",
                 "chapter": 6,
                 "verseStart": 2
-              }
+              },
+              "references": [
+                {
+                  "book": "Galatians",
+                  "bookId": "GAL",
+                  "chapter": 6,
+                  "verseStart": 2
+                }
+              ]
             },
             {
               "type": "text",
@@ -129,7 +137,16 @@
                 "chapter": 1,
                 "verseStart": 1,
                 "verseEnd": 4
-              }
+              },
+              "references": [
+                {
+                  "book": "Habakkuk",
+                  "bookId": "HAB",
+                  "chapter": 1,
+                  "verseStart": 1,
+                  "verseEnd": 4
+                }
+              ]
             },
             {
               "type": "text",
@@ -143,7 +160,15 @@
                 "bookId": "ROM",
                 "chapter": 1,
                 "verseStart": 12
-              }
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 1,
+                  "verseStart": 12
+                }
+              ]
             },
             {
               "type": "text",
@@ -168,7 +193,16 @@
                 "chapter": 4,
                 "verseStart": 4,
                 "verseEnd": 9
-              }
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 4,
+                  "verseStart": 4,
+                  "verseEnd": 9
+                }
+              ]
             },
             {
               "type": "text",
@@ -183,7 +217,16 @@
                 "chapter": 1,
                 "verseStart": 16,
                 "verseEnd": 17
-              }
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 1,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                }
+              ]
             },
             {
               "type": "text",
@@ -208,7 +251,16 @@
                 "chapter": 11,
                 "verseStart": 1,
                 "verseEnd": 6
-              }
+              },
+              "references": [
+                {
+                  "book": "Hebrews",
+                  "bookId": "HEB",
+                  "chapter": 11,
+                  "verseStart": 1,
+                  "verseEnd": 6
+                }
+              ]
             },
             {
               "type": "text",
@@ -233,7 +285,16 @@
                 "chapter": 3,
                 "verseStart": 17,
                 "verseEnd": 19
-              }
+              },
+              "references": [
+                {
+                  "book": "Habakkuk",
+                  "bookId": "HAB",
+                  "chapter": 3,
+                  "verseStart": 17,
+                  "verseEnd": 19
+                }
+              ]
             },
             {
               "type": "text",
@@ -247,7 +308,15 @@
                 "bookId": "HEB",
                 "chapter": 13,
                 "verseStart": 15
-              }
+              },
+              "references": [
+                {
+                  "book": "Hebrews",
+                  "bookId": "HEB",
+                  "chapter": 13,
+                  "verseStart": 15
+                }
+              ]
             },
             {
               "type": "text",
@@ -261,7 +330,15 @@
                 "bookId": "PSA",
                 "chapter": 55,
                 "verseStart": 22
-              }
+              },
+              "references": [
+                {
+                  "book": "Psalms",
+                  "bookId": "PSA",
+                  "chapter": 55,
+                  "verseStart": 22
+                }
+              ]
             },
             {
               "type": "text",

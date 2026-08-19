@@ -101,7 +101,16 @@
                 "chapter": 40,
                 "verseStart": 26,
                 "verseEnd": 31
-              }
+              },
+              "references": [
+                {
+                  "book": "Isaiah",
+                  "bookId": "ISA",
+                  "chapter": 40,
+                  "verseStart": 26,
+                  "verseEnd": 31
+                }
+              ]
             },
             {
               "type": "text",
@@ -126,7 +135,16 @@
                 "chapter": 4,
                 "verseStart": 6,
                 "verseEnd": 8
-              }
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 8
+                }
+              ]
             },
             {
               "type": "text",
@@ -150,7 +168,15 @@
                 "bookId": "HEB",
                 "chapter": 13,
                 "verseStart": 15
-              }
+              },
+              "references": [
+                {
+                  "book": "Hebrews",
+                  "bookId": "HEB",
+                  "chapter": 13,
+                  "verseStart": 15
+                }
+              ]
             },
             {
               "type": "text",
@@ -175,7 +201,16 @@
                 "chapter": 3,
                 "verseStart": 17,
                 "verseEnd": 19
-              }
+              },
+              "references": [
+                {
+                  "book": "Habakkuk",
+                  "bookId": "HAB",
+                  "chapter": 3,
+                  "verseStart": 17,
+                  "verseEnd": 19
+                }
+              ]
             },
             {
               "type": "text",
@@ -200,7 +235,16 @@
                 "chapter": 3,
                 "verseStart": 16,
                 "verseEnd": 17
-              }
+              },
+              "references": [
+                {
+                  "book": "Colossians",
+                  "bookId": "COL",
+                  "chapter": 3,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                }
+              ]
             },
             {
               "type": "text",
@@ -225,7 +269,16 @@
                 "chapter": 16,
                 "verseStart": 25,
                 "verseEnd": 26
-              }
+              },
+              "references": [
+                {
+                  "book": "Acts",
+                  "bookId": "ACT",
+                  "chapter": 16,
+                  "verseStart": 25,
+                  "verseEnd": 26
+                }
+              ]
             },
             {
               "type": "text",

@@ -31,7 +31,17 @@
                 "verseStart": 24,
                 "verseEnd": 16,
                 "chapterEnd": 7
-              }
+              },
+              "references": [
+                {
+                  "book": "2 Kings",
+                  "bookId": "2KI",
+                  "chapter": 6,
+                  "verseStart": 24,
+                  "verseEnd": 16,
+                  "chapterEnd": 7
+                }
+              ]
             },
             {
               "type": "text",
@@ -45,7 +55,15 @@
                 "bookId": "GAL",
                 "chapter": 5,
                 "verseStart": 15
-              }
+              },
+              "references": [
+                {
+                  "book": "Galatians",
+                  "bookId": "GAL",
+                  "chapter": 5,
+                  "verseStart": 15
+                }
+              ]
             }
           ]
         },
@@ -65,7 +83,15 @@
                 "bookId": "JAS",
                 "chapter": 2,
                 "verseStart": 17
-              }
+              },
+              "references": [
+                {
+                  "book": "James",
+                  "bookId": "JAS",
+                  "chapter": 2,
+                  "verseStart": 17
+                }
+              ]
             },
             {
               "type": "text",
@@ -89,7 +115,15 @@
                 "bookId": "JOS",
                 "chapter": 1,
                 "verseStart": 9
-              }
+              },
+              "references": [
+                {
+                  "book": "Joshua",
+                  "bookId": "JOS",
+                  "chapter": 1,
+                  "verseStart": 9
+                }
+              ]
             },
             {
               "type": "text",
@@ -113,7 +147,15 @@
                 "bookId": "ROM",
                 "chapter": 8,
                 "verseStart": 28
-              }
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 8,
+                  "verseStart": 28
+                }
+              ]
             },
             {
               "type": "text",
@@ -138,7 +180,16 @@
                 "chapter": 5,
                 "verseStart": 14,
                 "verseEnd": 16
-              }
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 5,
+                  "verseStart": 14,
+                  "verseEnd": 16
+                }
+              ]
             },
             {
               "type": "text",

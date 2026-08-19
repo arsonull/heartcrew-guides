@@ -94,7 +94,15 @@
                 "bookId": "PSA",
                 "chapter": 19,
                 "verseStart": 1
-              }
+              },
+              "references": [
+                {
+                  "book": "Psalms",
+                  "bookId": "PSA",
+                  "chapter": 19,
+                  "verseStart": 1
+                }
+              ]
             },
             {
               "type": "text",
@@ -118,7 +126,15 @@
                 "bookId": "1PE",
                 "chapter": 3,
                 "verseStart": 15
-              }
+              },
+              "references": [
+                {
+                  "book": "1 Peter",
+                  "bookId": "1PE",
+                  "chapter": 3,
+                  "verseStart": 15
+                }
+              ]
             },
             {
               "type": "text",
@@ -142,7 +158,15 @@
                 "bookId": "REV",
                 "chapter": 12,
                 "verseStart": 11
-              }
+              },
+              "references": [
+                {
+                  "book": "Revelation",
+                  "bookId": "REV",
+                  "chapter": 12,
+                  "verseStart": 11
+                }
+              ]
             },
             {
               "type": "text",
@@ -167,7 +191,16 @@
                 "chapter": 1,
                 "verseStart": 3,
                 "verseEnd": 11
-              }
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 1,
+                  "verseStart": 3,
+                  "verseEnd": 11
+                }
+              ]
             },
             {
               "type": "text",
@@ -192,7 +225,16 @@
                 "chapter": 3,
                 "verseStart": 21,
                 "verseEnd": 24
-              }
+              },
+              "references": [
+                {
+                  "book": "Lamentations",
+                  "bookId": "LAM",
+                  "chapter": 3,
+                  "verseStart": 21,
+                  "verseEnd": 24
+                }
+              ]
             },
             {
               "type": "text",
@@ -217,7 +259,16 @@
                 "chapter": 2,
                 "verseStart": 1,
                 "verseEnd": 5
-              }
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 2,
+                  "verseStart": 1,
+                  "verseEnd": 5
+                }
+              ]
             },
             {
               "type": "text",

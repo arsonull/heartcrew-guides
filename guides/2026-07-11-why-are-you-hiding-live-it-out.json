@@ -77,7 +77,16 @@
                 "chapter": 3,
                 "verseStart": 8,
                 "verseEnd": 10
-              }
+              },
+              "references": [
+                {
+                  "book": "Genesis",
+                  "bookId": "GEN",
+                  "chapter": 3,
+                  "verseStart": 8,
+                  "verseEnd": 10
+                }
+              ]
             },
             {
               "type": "text",
@@ -101,7 +110,15 @@
                 "bookId": "ROM",
                 "chapter": 8,
                 "verseStart": 1
-              }
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 8,
+                  "verseStart": 1
+                }
+              ]
             },
             {
               "type": "text",
@@ -125,7 +142,15 @@
                 "bookId": "ROM",
                 "chapter": 5,
                 "verseStart": 8
-              }
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 5,
+                  "verseStart": 8
+                }
+              ]
             },
             {
               "type": "text",
@@ -150,7 +175,16 @@
                 "chapter": 1,
                 "verseStart": 2,
                 "verseEnd": 4
-              }
+              },
+              "references": [
+                {
+                  "book": "James",
+                  "bookId": "JAS",
+                  "chapter": 1,
+                  "verseStart": 2,
+                  "verseEnd": 4
+                }
+              ]
             },
             {
               "type": "text",
@@ -174,7 +208,15 @@
                 "bookId": "GAL",
                 "chapter": 6,
                 "verseStart": 2
-              }
+              },
+              "references": [
+                {
+                  "book": "Galatians",
+                  "bookId": "GAL",
+                  "chapter": 6,
+                  "verseStart": 2
+                }
+              ]
             },
             {
               "type": "text",
@@ -199,7 +241,16 @@
                 "chapter": 23,
                 "verseStart": 27,
                 "verseEnd": 28
-              }
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 23,
+                  "verseStart": 27,
+                  "verseEnd": 28
+                }
+              ]
             },
             {
               "type": "text",
@@ -224,7 +275,16 @@
                 "chapter": 1,
                 "verseStart": 5,
                 "verseEnd": 9
-              }
+              },
+              "references": [
+                {
+                  "book": "1 John",
+                  "bookId": "1JN",
+                  "chapter": 1,
+                  "verseStart": 5,
+                  "verseEnd": 9
+                }
+              ]
             },
             {
               "type": "text",

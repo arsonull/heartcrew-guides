@@ -77,7 +77,16 @@
                 "chapter": 9,
                 "verseStart": 23,
                 "verseEnd": 24
-              }
+              },
+              "references": [
+                {
+                  "book": "Jeremiah",
+                  "bookId": "JER",
+                  "chapter": 9,
+                  "verseStart": 23,
+                  "verseEnd": 24
+                }
+              ]
             },
             {
               "type": "text",
@@ -102,7 +111,16 @@
                 "chapter": 3,
                 "verseStart": 4,
                 "verseEnd": 7
-              }
+              },
+              "references": [
+                {
+                  "book": "Titus",
+                  "bookId": "TIT",
+                  "chapter": 3,
+                  "verseStart": 4,
+                  "verseEnd": 7
+                }
+              ]
             },
             {
               "type": "text",
@@ -126,7 +144,15 @@
                 "bookId": "MAT",
                 "chapter": 9,
                 "verseStart": 36
-              }
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 9,
+                  "verseStart": 36
+                }
+              ]
             },
             {
               "type": "text",
@@ -151,7 +177,16 @@
                 "chapter": 1,
                 "verseStart": 15,
                 "verseEnd": 16
-              }
+              },
+              "references": [
+                {
+                  "book": "1 Timothy",
+                  "bookId": "1TI",
+                  "chapter": 1,
+                  "verseStart": 15,
+                  "verseEnd": 16
+                }
+              ]
             },
             {
               "type": "text",
@@ -176,7 +211,16 @@
                 "chapter": 2,
                 "verseStart": 3,
                 "verseEnd": 4
-              }
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 2,
+                  "verseStart": 3,
+                  "verseEnd": 4
+                }
+              ]
             },
             {
               "type": "text",
@@ -201,7 +245,16 @@
                 "chapter": 13,
                 "verseStart": 34,
                 "verseEnd": 35
-              }
+              },
+              "references": [
+                {
+                  "book": "John",
+                  "bookId": "JHN",
+                  "chapter": 13,
+                  "verseStart": 34,
+                  "verseEnd": 35
+                }
+              ]
             },
             {
               "type": "text",
