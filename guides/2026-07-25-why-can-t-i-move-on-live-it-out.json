@@ -19,7 +19,7 @@
       ]
     },
     {
-      "displayText": "Romans 8:37, 8",
+      "displayText": "Romans 8:37, 8:28",
       "references": [
         {
           "book": "Romans",
@@ -31,7 +31,7 @@
           "book": "Romans",
           "bookId": "ROM",
           "chapter": 8,
-          "verseStart": 8
+          "verseStart": 28
         }
       ]
     },

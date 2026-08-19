@@ -126,7 +126,7 @@
             },
             {
               "type": "scripture",
-              "displayText": "PSALMS 34:1-8",
+              "displayText": "PSALMS 34:1-8 AND 42:5",
               "reference": {
                 "book": "Psalms",
                 "bookId": "PSA",
@@ -137,7 +137,7 @@
             },
             {
               "type": "text",
-              "text": " AND 42:5, "
+              "text": ", "
             },
             {
               "type": "scripture",
