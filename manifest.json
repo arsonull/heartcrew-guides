@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-22T13:44:00.740Z",
+  "generatedAt": "2026-08-23T13:44:55.952Z",
   "guides": [
+    {
+      "id": "2026-08-22-the-reason-behind-everything-you-do-heart-crew-guide",
+      "sermonLinkId": 1312,
+      "sermonId": 532,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "handout",
+      "sermonDate": "2026-08-22",
+      "sermonTitle": "The Reason Behind Everything You Do",
+      "sermonSubtitle": "Week 2",
+      "seriesTitle": "In Focus",
+      "thumbnailUrl": "https://phc.events/api/mp/files/628be721-6701-4a3f-98ac-820aa5c7d0bf",
+      "warnings": 1
+    },
     {
       "id": "2026-08-15-busy-but-going-nowhere-heart-crew-guide",
       "sermonLinkId": 1305,
@@ -159,21 +174,6 @@
       "linkTypeKey": "peoria-crew-guide",
       "campus": "Peoria",
       "kind": "crew-guide",
-      "sermonDate": "2026-06-20",
-      "sermonTitle": "God never Said This",
-      "sermonSubtitle": null,
-      "seriesTitle": "God Never Said This",
-      "thumbnailUrl": "https://phc.events/api/mp/files/cfaf0de0-f871-481f-ae1b-af032ddc03d2",
-      "warnings": 1
-    },
-    {
-      "id": "2026-06-20-god-never-said-this-live-it-out",
-      "sermonLinkId": 1269,
-      "sermonId": 523,
-      "linkTypeId": 6,
-      "linkTypeKey": "live-it-out",
-      "campus": "Glendale",
-      "kind": "sermon-notes",
       "sermonDate": "2026-06-20",
       "sermonTitle": "God never Said This",
       "sermonSubtitle": null,
