@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-29T17:06:56.402Z",
+  "generatedAt": "2026-08-30T17:28:18.675Z",
   "guides": [
+    {
+      "id": "2026-08-29-vision-isn-t-enough-heart-crew-guide",
+      "sermonLinkId": 1314,
+      "sermonId": 533,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-08-29",
+      "sermonTitle": "Vision Isn't Enough",
+      "sermonSubtitle": "Week 3",
+      "seriesTitle": "In Focus",
+      "thumbnailUrl": "https://phc.events/api/mp/files/73c07a85-7b2c-4940-bc4d-542511056a36",
+      "warnings": 1
+    },
     {
       "id": "2026-08-22-the-reason-behind-everything-you-do-heart-crew-guide",
       "sermonLinkId": 1312,
@@ -165,21 +180,6 @@
       "seriesTitle": "This Is Why You're Stuck",
       "thumbnailUrl": "https://phc.events/api/mp/files/1595dfc0-1c8f-4938-8c3b-ca892d6a583f",
       "warnings": 0
-    },
-    {
-      "id": "2026-06-20-god-never-said-this-peoria-crew-guide",
-      "sermonLinkId": 1270,
-      "sermonId": 523,
-      "linkTypeId": 8,
-      "linkTypeKey": "peoria-crew-guide",
-      "campus": "Peoria",
-      "kind": "crew-guide",
-      "sermonDate": "2026-06-20",
-      "sermonTitle": "God never Said This",
-      "sermonSubtitle": null,
-      "seriesTitle": "God Never Said This",
-      "thumbnailUrl": "https://phc.events/api/mp/files/cfaf0de0-f871-481f-ae1b-af032ddc03d2",
-      "warnings": 1
     }
   ],
   "failed": []
