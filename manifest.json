@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T17:09:53.611Z",
+  "generatedAt": "2026-09-02T20:37:53.057Z",
   "guides": [
     {
       "id": "2026-08-29-vision-isn-t-enough-heart-crew-guide",
@@ -14,7 +14,7 @@
       "sermonSubtitle": "Week 3",
       "seriesTitle": "In Focus",
       "thumbnailUrl": "https://phc.events/api/mp/files/73c07a85-7b2c-4940-bc4d-542511056a36",
-      "warnings": 1
+      "warnings": 2
     },
     {
       "id": "2026-08-22-the-reason-behind-everything-you-do-heart-crew-guide",
@@ -29,7 +29,7 @@
       "sermonSubtitle": "Week 2",
       "seriesTitle": "In Focus",
       "thumbnailUrl": "https://phc.events/api/mp/files/628be721-6701-4a3f-98ac-820aa5c7d0bf",
-      "warnings": 1
+      "warnings": 2
     },
     {
       "id": "2026-08-15-busy-but-going-nowhere-heart-crew-guide",
@@ -44,7 +44,7 @@
       "sermonSubtitle": "Week 1",
       "seriesTitle": "In Focus",
       "thumbnailUrl": "https://phc.events/api/mp/files/f9226222-5574-4213-a389-30f26d8eeb5a",
-      "warnings": 1
+      "warnings": 2
     },
     {
       "id": "2026-08-08-what-s-controlling-you-peoria-crew-guide",
@@ -74,7 +74,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "What's Controlling You?",
       "thumbnailUrl": "https://phc.events/api/mp/files/2683fba4-e416-4d62-be20-ded60da31ad9",
-      "warnings": 5
+      "warnings": 9
     },
     {
       "id": "2026-08-01-you-have-it-too-live-it-out",
@@ -119,7 +119,7 @@
       "sermonSubtitle": "Week 1",
       "seriesTitle": "Mission In Motion",
       "thumbnailUrl": "https://phc.events/api/mp/files/4cb3bac7-c6ac-4ae9-aede-7d66843c46f9",
-      "warnings": 0
+      "warnings": 12
     },
     {
       "id": "2026-07-11-why-are-you-hiding-peoria-crew-guide",
@@ -134,7 +134,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "Why Are You Hiding?",
       "thumbnailUrl": "https://phc.events/api/mp/files/e2b1a9c2-0cdc-4c63-9827-3a32644e6305",
-      "warnings": 0
+      "warnings": 6
     },
     {
       "id": "2026-07-11-why-are-you-hiding-live-it-out",
@@ -149,7 +149,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "Why Are You Hiding?",
       "thumbnailUrl": "https://phc.events/api/mp/files/e2b1a9c2-0cdc-4c63-9827-3a32644e6305",
-      "warnings": 0
+      "warnings": 7
     },
     {
       "id": "2026-07-04-this-is-why-you-re-stuck-peoria-crew-guide",
@@ -164,7 +164,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "This Is Why You're Stuck",
       "thumbnailUrl": "https://phc.events/api/mp/files/1595dfc0-1c8f-4938-8c3b-ca892d6a583f",
-      "warnings": 0
+      "warnings": 7
     },
     {
       "id": "2026-07-04-this-is-why-you-re-stuck-live-it-out",
@@ -179,7 +179,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "This Is Why You're Stuck",
       "thumbnailUrl": "https://phc.events/api/mp/files/1595dfc0-1c8f-4938-8c3b-ca892d6a583f",
-      "warnings": 0
+      "warnings": 7
     }
   ],
   "failed": []

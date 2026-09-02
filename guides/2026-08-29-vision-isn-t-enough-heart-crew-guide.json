@@ -6,222 +6,77 @@
   "speaker": null,
   "sermonScripture": null,
   "topScriptures": [],
-  "introduction": null,
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
   "sections": [
     {
-      "id": "sec-share-it",
-      "title": "SHARE IT",
+      "id": "sec-warm-up",
+      "title": "WARM UP",
       "order": 1,
       "questions": [
         {
-          "id": "q-share-it-1",
+          "id": "q-warm-up-1",
           "order": 1,
           "segments": [
             {
               "type": "text",
-              "text": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives. Aug  29/30 2026 What's one moment from this summer that you're especially grateful for? Describe your summer using three words. Looking back at your notes from this week's teaching, was there anything that particularly caught your attention, challenged you, or confused you? After reading "
-            },
-            {
-              "type": "scripture",
-              "displayText": "1 Corinthians 13",
-              "reference": {
-                "book": "1 Corinthians",
-                "bookId": "1CO",
-                "chapter": 13
-              },
-              "references": [
-                {
-                  "book": "1 Corinthians",
-                  "bookId": "1CO",
-                  "chapter": 13
-                }
-              ]
-            },
+              "text": "What's one moment from this summer that you're especially grateful for?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
             {
               "type": "text",
-              "text": ", what do you notice about the difference between being aligned with love and simply doing the right Christian things? How should what you've noticed shape the way you live out your faith? Read: "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Colossians 3:1-4",
-              "reference": {
-                "book": "Colossians",
-                "bookId": "COL",
-                "chapter": 3,
-                "verseStart": 1,
-                "verseEnd": 4
-              },
-              "references": [
-                {
-                  "book": "Colossians",
-                  "bookId": "COL",
-                  "chapter": 3,
-                  "verseStart": 1,
-                  "verseEnd": 4
-                }
-              ]
-            },
+              "text": "Describe your summer using three words."
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-3",
+          "order": 3,
+          "segments": [
             {
               "type": "text",
-              "text": ", "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Matthew 6:33, 9:36, 22:37-40",
-              "reference": {
-                "book": "Matthew",
-                "bookId": "MAT",
-                "chapter": 6,
-                "verseStart": 33
-              },
-              "references": [
-                {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 6,
-                  "verseStart": 33
-                },
-                {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 9,
-                  "verseStart": 36
-                },
-                {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 22,
-                  "verseStart": 37,
-                  "verseEnd": 40
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": " When God brings alignment to our vision, it naturally overflows into mission. We fix our eyes on things above while putting our hands and feet to work for the people around us. What moves your heart? What needs or people stir something in you? Why is it important to seek God first before deciding what to pursue? How does consulting Him keep our vision aligned with His?"
+              "text": "Looking back at your notes from this week's teaching, was there anything that particularly caught your attention, challenged you, or confused you?"
             }
           ]
         }
       ]
     },
     {
-      "id": "sec-self-reflection",
-      "title": "SELF REFLECTION",
+      "id": "sec-know-it",
+      "title": "KNOW IT",
       "order": 2,
       "questions": [
         {
-          "id": "q-self-reflection-1",
+          "id": "q-know-it-1",
           "order": 1,
           "segments": [
             {
               "type": "text",
-              "text": "What feels out of alignment in my life right now? What would it look like to realign it with God in a healthy way? Application is a key part of spiritual growth. Finish this sentence and carry it with you throughout the week: This week, I am aligning ____________________ with God's vision."
+              "text": "The Christian life is a continual journey of becoming more like Jesus. As we grow, we align our lives with God's heart and purposes."
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "sec-guided-prayer",
-      "title": "GUIDED PRAYER",
-      "order": 3,
-      "questions": [
+        },
         {
-          "id": "q-guided-prayer-1",
-          "order": 1,
+          "id": "q-know-it-2",
+          "order": 2,
           "segments": [
             {
               "type": "text",
-              "text": "Jesus, break my heart for what breaks Yours. As You piece it back together, align my heart with Your love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Help me see others the way You do. Grow my capacity to love as You love. And as You align our Crew together this fall, help us serve Your people in tangible ways. In Jesus' name, amen."
+              "text": "What does alignment with God mean to you? What are you currently aiming your life toward, and how has that \"bullseye\" shifted over time?"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "sec-heart-crew",
-      "title": "HEART CREW",
-      "order": 4,
-      "questions": [
+        },
         {
-          "id": "q-heart-crew-1",
-          "order": 1,
+          "id": "q-know-it-3",
+          "order": 3,
           "segments": [
             {
               "type": "text",
-              "text": "Following Jesus is personal, but it was never meant to be lived alone. When the church is aligned around Jesus and His purposes, something begins to overflow into the way we live. When a church is truly aligned together around Jesus, what do you think naturally overflows from that community? Read: "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Acts 2:42-47",
-              "reference": {
-                "book": "Acts",
-                "bookId": "ACT",
-                "chapter": 2,
-                "verseStart": 42,
-                "verseEnd": 47
-              },
-              "references": [
-                {
-                  "book": "Acts",
-                  "bookId": "ACT",
-                  "chapter": 2,
-                  "verseStart": 42,
-                  "verseEnd": 47
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ", "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Philippians 2:1-11",
-              "reference": {
-                "book": "Philippians",
-                "bookId": "PHP",
-                "chapter": 2,
-                "verseStart": 1,
-                "verseEnd": 11
-              },
-              "references": [
-                {
-                  "book": "Philippians",
-                  "bookId": "PHP",
-                  "chapter": 2,
-                  "verseStart": 1,
-                  "verseEnd": 11
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ", "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Colossians 2:1-10",
-              "reference": {
-                "book": "Colossians",
-                "bookId": "COL",
-                "chapter": 2,
-                "verseStart": 1,
-                "verseEnd": 10
-              },
-              "references": [
-                {
-                  "book": "Colossians",
-                  "bookId": "COL",
-                  "chapter": 2,
-                  "verseStart": 1,
-                  "verseEnd": 10
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": " The Christian life is a continual journey of becoming more like Jesus. As we grow, we align our lives with God's heart and purposes. What does alignment with God mean to you? What are you currently aiming your life toward, and how has that \"bullseye\" shifted over time? Read: "
+              "text": "Read: "
             },
             {
               "type": "scripture",
@@ -312,55 +167,262 @@
               "text": "."
             }
           ]
+        },
+        {
+          "id": "q-know-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Following Jesus is personal, but it was never meant to be lived alone. When the church is aligned around Jesus and His purposes, something begins to overflow into the way we live."
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "When a church is truly aligned together around Jesus, what do you think naturally overflows from that community?"
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-6",
+          "order": 6,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Acts 2:42-47",
+              "reference": {
+                "book": "Acts",
+                "bookId": "ACT",
+                "chapter": 2,
+                "verseStart": 42,
+                "verseEnd": 47
+              },
+              "references": [
+                {
+                  "book": "Acts",
+                  "bookId": "ACT",
+                  "chapter": 2,
+                  "verseStart": 42,
+                  "verseEnd": 47
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 2:1-11",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 2,
+                "verseStart": 1,
+                "verseEnd": 11
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 2,
+                  "verseStart": 1,
+                  "verseEnd": 11
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Colossians 2:1-10",
+              "reference": {
+                "book": "Colossians",
+                "bookId": "COL",
+                "chapter": 2,
+                "verseStart": 1,
+                "verseEnd": 10
+              },
+              "references": [
+                {
+                  "book": "Colossians",
+                  "bookId": "COL",
+                  "chapter": 2,
+                  "verseStart": 1,
+                  "verseEnd": 10
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "id": "sec-sign-up-online-or-in-the-lobby",
-      "title": "SIGN UP ONLINE OR IN THE LOBBY",
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Colossians 3:1-4",
+              "reference": {
+                "book": "Colossians",
+                "bookId": "COL",
+                "chapter": 3,
+                "verseStart": 1,
+                "verseEnd": 4
+              },
+              "references": [
+                {
+                  "book": "Colossians",
+                  "bookId": "COL",
+                  "chapter": 3,
+                  "verseStart": 1,
+                  "verseEnd": 4
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 6:33, 9:36, 22:37-40",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 6,
+                "verseStart": 33
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 6,
+                  "verseStart": 33
+                },
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 9,
+                  "verseStart": 36
+                },
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 22,
+                  "verseStart": 37,
+                  "verseEnd": 40
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " When God brings alignment to our vision, it naturally overflows into mission. We fix our eyes on things above while putting our hands and feet to work for the people around us. What moves your heart? What needs or people stir something in you? Why is it important to seek God first before deciding what to pursue? How does consulting Him keep our vision aligned with His?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "After reading "
+            },
+            {
+              "type": "scripture",
+              "displayText": "1 Corinthians 13",
+              "reference": {
+                "book": "1 Corinthians",
+                "bookId": "1CO",
+                "chapter": 13
+              },
+              "references": [
+                {
+                  "book": "1 Corinthians",
+                  "bookId": "1CO",
+                  "chapter": 13
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", what do you notice about the difference between being aligned with love and simply doing the right Christian things? How should what you've noticed shape the way you live out your faith?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-self-reflection",
+      "title": "SELF REFLECTION",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-self-reflection-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What feels out of alignment in my life right now? What would it look like to realign it with God in a healthy way?"
+            }
+          ]
+        },
+        {
+          "id": "q-self-reflection-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Application is a key part of spiritual growth. Finish this sentence and carry it with you throughout the week:"
+            }
+          ]
+        },
+        {
+          "id": "q-self-reflection-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "This week, I am aligning ____________________ with God's vision."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-guided-prayer",
+      "title": "GUIDED PRAYER",
       "order": 5,
       "questions": [
         {
-          "id": "q-sign-up-online-or-in-the-lobby-1",
+          "id": "q-guided-prayer-1",
           "order": 1,
           "segments": [
             {
               "type": "text",
-              "text": "PUREHEART.ORG/HEARTCREWS"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sec-heart-crew",
-      "title": "HEART CREW",
-      "order": 6,
-      "questions": [
-        {
-          "id": "q-heart-crew-1",
-          "order": 1,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Zoom Coffee/ Sermon Discussion Co-ed 1st and 3rd Tues · 7:00 AM Online Dad's in Every Season Tavis McGrew Men · Tues · 6:30 PM PHC Glendale In-depth Bible Study - Marina Carbajal Women · Tues · 6:30 PM PHC Glendale TUES Leanne Gemberling Co-ed · Every Other Tues · 6:30 PM PHC Glendale Pauline Eddy Co-ed · Every Other Tues · 6:30 PM Off Campus Men's 33 - Jeff Agle Men · Tues · 7:00 PM PHC Glendale ROOTED Go deeper. Live on purpose. Rooted is an 11-week small- group experience designed to help you grow deeper in your relationship with God while building authentic community. Through biblical teaching, meaningful conversations, prayer, serving, and practical experiences, you'll discover what it means to follow Jesus in everyday life. Real community. Deeper faith. Weds · 6:30-8:00 PM PHC Glendale Join Rooted → COURSES"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sec-family-school",
-      "title": "FAMILY SCHOOL",
-      "order": 7,
-      "questions": [
-        {
-          "id": "q-family-school-1",
-          "order": 1,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Build a stronger family. Grow together. Come join Pastor Bryan and Megan for an interactive experience designed for your whole family. You'll learn practical skills and tools that, along with the Holy Spirit, will help you become the family God intended. Children ages 12 and up are encouraged to participate in the experience, and childcare is available for younger children. Begins Sept 16 Weds · 6:30-8:00 PM PHC Glendale Join Family School → Joselin Villeda Young Adult Women · 6:30 PM · Thurs 101 & Beardsley Men - Tom Hayman Men · Sat monthly · 7:00 AM PHC Peoria Pilates - Darlene Pace Women · Sat Bi-Weekly · 12:30 PM PHC Peoria"
+              "text": "Jesus, break my heart for what breaks Yours. As You piece it back together, align my heart with Your love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Help me see others the way You do. Grow my capacity to love as You love. And as You align our Crew together this fall, help us serve Your people in tangible ways. In Jesus' name, amen."
             }
           ]
         }
@@ -371,5 +433,286 @@
   "benediction": null,
   "version": 1,
   "campus": "Glendale",
+  "listings": {
+    "title": "Heart Crew Open Listings",
+    "subtitle": "Sign up online or in the lobby",
+    "linkText": "Pureheart.org/heartcrews",
+    "linkUrl": "https://www.pureheart.org/heartcrews",
+    "groups": [
+      {
+        "id": "listing-tues-1",
+        "heading": "Tues",
+        "entries": [
+          {
+            "lines": [
+              "Zoom Coffee/ Sermon Discussion",
+              "Co-ed 1st and 3rd Tues · 7:00 AM",
+              "Online"
+            ]
+          },
+          {
+            "lines": [
+              "Dad's in Every Season",
+              "Tavis McGrew",
+              "Men · Tues · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Pauline Eddy",
+              "Co-ed · Every Other Tues · 6:30 PM",
+              "Off Campus"
+            ]
+          },
+          {
+            "lines": [
+              "In-depth Bible Study - Marina Carbajal",
+              "Women · Tues · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Leanne Gemberling",
+              "Co-ed · Every Other Tues · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Men's 33 - Jeff Agle",
+              "Men · Tues · 7:00 PM",
+              "PHC Glendale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-courses-2",
+        "heading": "Courses",
+        "entries": [
+          {
+            "lines": [
+              "Rooted",
+              "Go deeper. Live on purpose.",
+              "Rooted is an 11-week small-group experience designed to help you grow deeper in your relationship with God while building authentic community.",
+              "Through biblical teaching, meaningful conversations, prayer, serving, and practical experiences, you'll discover what it means to follow Jesus in everyday life. Real community.",
+              "Deeper faith.",
+              "Weds · 6:30-8:00 PM",
+              "PHC Glendale",
+              "Join Rooted →"
+            ]
+          },
+          {
+            "lines": [
+              "Family School",
+              "Build a stronger family.",
+              "Grow together. Come join Pastor",
+              "Bryan and Megan for an interactive experience designed for your whole family. You'll learn practical skills and tools that, along with the Holy Spirit, will help you become the family God intended. Children ages 12 and up are encouraged to participate in the experience, and childcare is available for younger children.",
+              "Begins Sept 16",
+              "Weds · 6:30-8:00 PM",
+              "PHC Glendale",
+              "Join Family School →"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-weds-3",
+        "heading": "Weds",
+        "entries": [
+          {
+            "lines": [
+              "30's-40's Singles - Scott",
+              "Co-Ed · Weds · 6:30 PM",
+              "55th Ave. & Union Hills"
+            ]
+          },
+          {
+            "lines": [
+              "Developing Young Families",
+              "Jack Farris · Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Young Married Couples",
+              "Steven & Alaina Ater",
+              "Weds · 6:30 PM",
+              "75th Ave. & Deer Valley"
+            ]
+          },
+          {
+            "lines": [
+              "Christine Shupe",
+              "Women · All ages ·",
+              "Every Other Weds · 6:00 PM",
+              "43rd & Bell"
+            ]
+          },
+          {
+            "lines": [
+              "Dave & Elena Jensen",
+              "Co-ed · 1st & 3rd Weds · 6:30 PM",
+              "43rd Ave. & Union Hills"
+            ]
+          },
+          {
+            "lines": [
+              "Donna Brockway",
+              "Co-ed · Every Other Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Rachel Kekic",
+              "Women of All Ages · Weds· 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "God of Covenant: Book Study",
+              "Kathi Bowles",
+              "Women · Weds · 10:00 AM",
+              "PHC Glendale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-thurs-4",
+        "heading": "Thurs",
+        "entries": [
+          {
+            "lines": [
+              "Young Married Couples",
+              "Noah & Abby Richardson",
+              "Co-ed · Thurs · 6:30 PM"
+            ]
+          },
+          {
+            "lines": [
+              "Young Adults (19-34)",
+              "Ginger Every Other Thurs",
+              "6:30 PM · PHC Peoria"
+            ]
+          },
+          {
+            "lines": [
+              "Lisa Fields",
+              "Women · 6:30 PM · Every",
+              "Other Thurs - PHC Peoria"
+            ]
+          },
+          {
+            "lines": [
+              "GO Team - LifeBridge",
+              "Open to all · Thurs",
+              "4pm · PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Leandro & Leticia",
+              "Spanish Heart Crew",
+              "Co-ed · Thurs · 7:00 PM",
+              "PHC Espanol"
+            ]
+          },
+          {
+            "lines": [
+              "Joselin Villeda",
+              "Young Adult Women ·",
+              "6:30 PM · Thurs",
+              "101 & Beardsley"
+            ]
+          },
+          {
+            "lines": [
+              "Men - Tom Hayman",
+              "Men · Sat monthly · 7:00 AM",
+              "PHC Peoria"
+            ]
+          },
+          {
+            "lines": [
+              "Pilates - Darlene Pace",
+              "Women · Sat Bi-Weekly · 12:30 PM",
+              "PHC Peoria"
+            ]
+          },
+          {
+            "lines": [
+              "Naomi Circle - Becky Bell",
+              "Single Women 55+ · 1st & 3rd",
+              "Sat · 10:00 AM",
+              "PHC Glendale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-fri-sat-sun-5",
+        "heading": "Fri, Sat, Sun",
+        "entries": [
+          {
+            "lines": [
+              "Louie & Marina Carbajal -",
+              "Book Study",
+              "Co-ed · Sat · 4:00 PM",
+              "43rd & Sweetwater"
+            ]
+          },
+          {
+            "lines": [
+              "Marriage Connect - Perkins",
+              "Couples · Sun · 10:00 AM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Radiant Redemption - Ciria Lopez",
+              "Women · One Sat a month ·",
+              "10:00 AM PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Ironmen - Jason Guthrie",
+              "Men · Sat · 7:00 AM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Men's Softball - Jim Tewalt",
+              "Men · Sat · Evenings",
+              "Anthem"
+            ]
+          },
+          {
+            "lines": [
+              "Young Adults 18-26 Sean",
+              "Denny",
+              "Co-Ed · Sat · 10:30 AM",
+              "71st Ave. & Thunderbird"
+            ]
+          },
+          {
+            "lines": [
+              "Legacy (Full Service)",
+              "Seniors · Sun · 11:30 AM",
+              "PHC Glendale"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "sourceUrl": "https://phc.events/api/mp/files/e85a2366-752b-489d-8034-acccc36ab019"
 }

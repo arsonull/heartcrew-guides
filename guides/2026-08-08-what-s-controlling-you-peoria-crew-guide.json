@@ -73,29 +73,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "Where  have  you  been  tempted  to  \"sit  still\"  instead  of taking a step of faith? Is there an area where fear, comfort, or uncertainty has kept you from responding to what God may be asking you to do? Read: "
-            },
-            {
-              "type": "scripture",
-              "displayText": "James 2:17",
-              "reference": {
-                "book": "James",
-                "bookId": "JAS",
-                "chapter": 2,
-                "verseStart": 17
-              },
-              "references": [
-                {
-                  "book": "James",
-                  "bookId": "JAS",
-                  "chapter": 2,
-                  "verseStart": 17
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ". \"In the same way, faith, if it does not have works, is dead by itself.\""
+              "text": "Where have you been tempted to \"sit still\" instead of taking a step of faith? Is there an area where fear, comfort, or uncertainty has kept you from responding to what God may be asking you to do?"
             }
           ]
         },
@@ -105,29 +83,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "What is one step of faith God may be inviting you to take this week? It may not feel comfortable, but what would it look like to trust God enough to move forward anyway? Read: "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Joshua 1:9",
-              "reference": {
-                "book": "Joshua",
-                "bookId": "JOS",
-                "chapter": 1,
-                "verseStart": 9
-              },
-              "references": [
-                {
-                  "book": "Joshua",
-                  "bookId": "JOS",
-                  "chapter": 1,
-                  "verseStart": 9
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": " \"Be strong and courageous. Don't be afraid or discouraged, for the Lord your God is with you wherever you go.\""
+              "text": "What is one step of faith God may be inviting you to take this week? It may not feel comfortable, but what would it look like to trust God enough to move forward anyway?"
             }
           ]
         },
@@ -137,29 +93,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "If you knew God was already at work, what would you do differently this week? How would believing that God can use one act of obedience change the way you approach your current situation? Read: "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Romans 8:28",
-              "reference": {
-                "book": "Romans",
-                "bookId": "ROM",
-                "chapter": 8,
-                "verseStart": 28
-              },
-              "references": [
-                {
-                  "book": "Romans",
-                  "bookId": "ROM",
-                  "chapter": 8,
-                  "verseStart": 28
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ". \"We know that all things work together for the good of those who love God, who are called according to his purpose.\""
+              "text": "If you knew God was already at work, what would you do differently this week? How would believing that God can use one act of obedience change the way you approach your current situation?"
             }
           ]
         },
@@ -169,31 +103,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "Who can you extend hope to this week? Like the 4 lepers who refused to keep the good news to themselves, who can you encourage, serve, or share the hope of Jesus with this week? Read: "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Matthew 5:14-16",
-              "reference": {
-                "book": "Matthew",
-                "bookId": "MAT",
-                "chapter": 5,
-                "verseStart": 14,
-                "verseEnd": 16
-              },
-              "references": [
-                {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 5,
-                  "verseStart": 14,
-                  "verseEnd": 16
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ". \"You are the light of the world... let your light shine before others, so that they may see your good works and give glory to your Father in heaven.\""
+              "text": "Who can you extend hope to this week? Like the 4 lepers who refused to keep the good news to themselves, who can you encourage, serve, or share the hope of Jesus with this week?"
             }
           ]
         }

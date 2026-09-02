@@ -56,17 +56,27 @@
   "introduction": null,
   "sections": [
     {
-      "id": "sec-live-it-out",
-      "title": "LIVE IT OUT",
+      "id": "sec-liveitout-missioninmotion",
+      "title": "LIVEITOUT MISSIONINMOTION",
       "order": 1,
       "questions": [
         {
-          "id": "q-live-it-out-1",
+          "id": "q-liveitout-missioninmotion-1",
           "order": 1,
           "segments": [
             {
               "type": "text",
-              "text": "What do you tend to boast in besides Jesus?\nRead: "
+              "text": "Sermon Reflection Guide for the week of July 18th - 19th, 2026."
+            }
+          ]
+        },
+        {
+          "id": "q-liveitout-missioninmotion-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "WhatdoyoutendtoboastinbesidesJesus? Read: "
             },
             {
               "type": "scripture",
@@ -90,17 +100,17 @@
             },
             {
               "type": "text",
-              "text": "\nWe all look for things that give us confidence and worth. It may be our career, accomplishments, intelligence, appearance, ministry role, or reputation. What are you most tempted to build your identity around? How would your outlook change if your deepest confidence came from being known and loved by God rather than what you achieve?"
+              "text": " We all look for things that give us confidence and worth. It may be our career, accomplishments, intelligence, appearance, ministry role, or reputation. What are you most tempted to build your identity around? How would your outlook change if your deepest confidence came from being known and loved by God rather than what you achieve?"
             }
           ]
         },
         {
-          "id": "q-live-it-out-2",
-          "order": 2,
+          "id": "q-liveitout-missioninmotion-3",
+          "order": 3,
           "segments": [
             {
               "type": "text",
-              "text": "Where has God shown you undeserved grace?\nRead: "
+              "text": "WherehasGodshownyouundeservedgrace? Read: "
             },
             {
               "type": "scripture",
@@ -124,17 +134,17 @@
             },
             {
               "type": "text",
-              "text": "\nPaul reminds us that salvation is not earned but given through God's mercy. Think about your story. Where have you experienced grace when you didn't deserve it? How does remembering God's kindness toward you shape the way you treat people who are struggling, failing, or far from God?"
+              "text": " Paul reminds us that salvation is not earned but given through God's mercy. Think about your story. Where have you experienced grace when you didn't deserve it? How does remembering God's kindness toward you shape the way you treat people who are struggling, failing, or far from God?"
             }
           ]
         },
         {
-          "id": "q-live-it-out-3",
-          "order": 3,
+          "id": "q-liveitout-missioninmotion-4",
+          "order": 4,
           "segments": [
             {
               "type": "text",
-              "text": "Who do you have difficulty seeing with compassion?\nRead: "
+              "text": "Whodoyouhavedifficultyseeingwithcompassion? Read: "
             },
             {
               "type": "scripture",
@@ -156,17 +166,34 @@
             },
             {
               "type": "text",
-              "text": "\nJesus looked at hurting and broken people with compassion instead of judgment. Are there certain people or groups you find yourself avoiding, criticizing, or dismissing? What might change if you intentionally saw them through the eyes of Christ?"
+              "text": " Jesus looked at hurting and broken people with compassion instead of judgment. Are there certain people or groups you find yourself avoiding, criticizing, or dismissing? What might change if you intentionally saw them through the eyes of Christ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-liveitout-missioninmotion",
+      "title": "LIVEITOUT MISSIONINMOTION",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-liveitout-missioninmotion-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Sermon Reflection Guide for the week of July 18th - 19th, 2026."
             }
           ]
         },
         {
-          "id": "q-live-it-out-4",
-          "order": 4,
+          "id": "q-liveitout-missioninmotion-2",
+          "order": 2,
           "segments": [
             {
               "type": "text",
-              "text": "How has forgetting your past affected your present?\nRead: "
+              "text": "Howhasforgettingyourpastaffectedyourpresent? Read: "
             },
             {
               "type": "scripture",
@@ -190,17 +217,17 @@
             },
             {
               "type": "text",
-              "text": "\nPaul never forgot that God rescued him. Remembering where we came from keeps us humble and compassionate. Have you become comfortable with your faith in a way that has caused you to lose urgency for people who don't know Jesus? What helps you remember the difference God's grace has made in your life?"
+              "text": " Paul never forgot that God rescued him. Remembering where we came from keeps us humble and compassionate. Have you become comfortable with your faith in a way that has caused you to lose urgency for people who don't know Jesus? What helps you remember the difference God's grace has made in your life?"
             }
           ]
         },
         {
-          "id": "q-live-it-out-5",
-          "order": 5,
+          "id": "q-liveitout-missioninmotion-3",
+          "order": 3,
           "segments": [
             {
               "type": "text",
-              "text": "What is your mindset walking into a new room or even a worship setting?\nRead: "
+              "text": "Whatisyourmindsetwalkingintoanewroomorevena worshipsetting? Read: "
             },
             {
               "type": "scripture",
@@ -224,17 +251,17 @@
             },
             {
               "type": "text",
-              "text": "\nBefore entering a room, a conversation, or a gathering, many of us instinctively think, \"What can I get?\" Paul challenges believers to consider the needs of others instead. When you enter most situations, are you focused on being served or serving others? What would it look like to intentionally look for one person to encourage this week?"
+              "text": " Before entering a room, a conversation, or a gathering, many of us instinctively think, \"What can I get?\" Paul challenges believers to consider the needs of others instead. When you enter most situations, are you focused on being served or serving others? What would it look like to intentionally look for one person to encourage this week?"
             }
           ]
         },
         {
-          "id": "q-live-it-out-6",
-          "order": 6,
+          "id": "q-liveitout-missioninmotion-4",
+          "order": 4,
           "segments": [
             {
               "type": "text",
-              "text": "What \"mark\" do you want your life to leave?\nRead: "
+              "text": "What\"mark\"doyouwantyourlifetoleave? Read: "
             },
             {
               "type": "scripture",
@@ -258,7 +285,7 @@
             },
             {
               "type": "text",
-              "text": "\nJesus said the world would recognize His followers by their love. When people think about your life years from now, what do you hope they remember? Are you currently investing your energy in things that will have eternal value, or in things that will eventually fade away?"
+              "text": " Jesus said the world would recognize His followers by their love. When people think about your life years from now, what do you hope they remember? Are you currently investing your energy in things that will have eternal value, or in things that will eventually fade away?"
             }
           ]
         }

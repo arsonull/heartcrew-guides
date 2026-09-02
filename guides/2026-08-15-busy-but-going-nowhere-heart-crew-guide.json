@@ -9,94 +9,10 @@
   "introduction": null,
   "sections": [
     {
-      "id": "sec-fall-2026-1",
-      "title": "FALL 2026",
-      "order": 1,
-      "body": "Zoom Coffee/ Sermon Discussion\nCo-ed 1st and 3rd Tues · 7:00 AM\nOnline\nDad's in Every Season\nTavis McGrew\nMen · Tues · 6:30 PM\nPHC Glendale\nIn-depth Bible Study - Marina Carbajal\nWomen · Tues · 6:30 PM\nPHC Glendale",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-heart-crews-2",
-      "title": "HEART CREWS",
-      "order": 2,
-      "body": "TUESDAYS\nLeanne Gemberling\nCo-ed · Every Other Tues · 6:30 PM\nPHC Glendale\nPauline Eddy\nCo-ed · Every Other Tues · 6:30 PM\nOff Campus\nMarried Couples\nRyan & Miriam Galifant\nEvery other Weds · 6:30 PM\nPHC Glendale\n24-35 Singles\nCo-Ed · Weds · 6:30 PM\nPHC Glendale\nFaith & Obedient Brotherhood\nDaniel & Buka\nMen · Weds · 6:30 PM\nPHC Glendale",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-wednesdays-3",
-      "title": "WEDNESDAYS",
-      "order": 3,
-      "body": "Young Married Couples\nSteven & Alaina Ater\nWeds · 6:30 PM\n75th Ave. & Deer Valley\n30's-40's Singles - Scott\nCo-Ed · Weds · 6:30 PM\n55th Ave. & Union Hills\nMom's in Every Season\nVanessa, Sam, & Ashley\nWomen · Weds · 6:30 PM\nPHC Glendale\nChristine Shupe\nWomen · Ages 30-55 ·\nEvery Other Weds · 6:00 PM\n67th Ave. & Greenway\nMen's 33 - Jeff Agle\nMen · Tues · 7:00 PM\nPHC Glendale",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-new-open-groups-4",
-      "title": "NEW + OPEN GROUPS",
-      "order": 4,
-      "body": "Donna Brockway\nCo-ed · Every Other Weds · 6:30 PM\nPHC Glendale",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-out-of-rows-5",
+      "id": "sec-out-of-rows-1",
       "title": "OUT OF ROWS",
-      "order": 5,
-      "body": "AND INTO\nCIRCLES\nFALL CREW SESAON KICKS OFF AUG 29!\nDeveloping Young Families\nJack Farris · Weds · 6:30 PM\nPHC Glendale\nDave & Elena Jensen\nCo-ed · 1st & 3rd Weds · 6:30 PM\n43rd Ave. & Union Hills",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-wednesdays-6",
-      "title": "WEDNESDAYS",
-      "order": 6,
-      "body": "Young Families\nYadira & Maggie · Weds · 6:30 PM\nPHC Glendale\nDonna McCain\nCo-ed · Thurs · 6:30 PM\nPHC Glendale",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-thursdays-7",
-      "title": "THURSDAYS",
-      "order": 7,
-      "body": "Jim and Marie Tewalt\nCo-ed · 2nd & 4th Thurs\n67th Ave. & Happy Valley\nYoung Adults (19-34)\nGinger Gursky Every Other Thurs · 6:30 PM\nPHC Peoria\nGod of Covenant: Book Study\nKathi Bowles\nWomen · Weds · 10:00 AM\nPHC Glendale\nNew to Jesus? Rooted\nCo-ed · Weds · 6:30 PM\nPHC Glendale\nLisa Fields\nWomen · 6:30 PM · Every Other Thurs\nPHC Peoria\nJames & Susan Kallas\nCo-ed · Every Other Thurs · 6:30 PM\n43rd Ave. & Union Hills\nYoung Married Couples\nNoah & Abby Richardson\nCo-ed · Thurs · 6:30 PM",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-fri-sat-sun-8",
-      "title": "FRI, SAT, SUN",
-      "order": 8,
-      "body": "Leandro & Leticia\nSpanish Heart Crew\nCo-ed · Thurs · 7:00 PM\nPHC Espanol\nMigrant Farm Worker Care\nBlake Jackson\nCo-ed · One Fri a month · Daytime\nPHC Glendale\nYoung Adults 18-26 Sean Denny\nCo-Ed · Sat · 10:30 AM\n71st Ave. & Thunderbird\nLouie & Marina Carbajal - Book Study\nCo-ed · Sat · 4:00 PM\n43rd & Sweetwater\nIronmen - Jason Guthrie\nMen · Sat · 7:00 AM\nPHC Glendale\nRadiant Redemption - Ciria Lopez\nWomen · One Sat a month · 10:00 AM\nPHC Glendale\nNaomi Circle - Becky Bell\nSingle Women 55+ · 1st & 3rd Sat ·\n10:00 AM\nPHC Glendale\nRachel Kekic\nWomen · Weds· 6:30 PM\nPHC Glendale",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-sign-up-online-or-in-the-lobby-9",
-      "title": "SIGN UP ONLINE OR IN THE LOBBY",
-      "order": 9,
-      "body": "PUREHEART.ORG/HEARTCREWS\nROOTED\nGo deeper. Live on purpose. Rooted\nis an 11-week small-group\nexperience designed to help you\ngrow deeper in your relationship\nwith God while building authentic\ncommunity. Through biblical\nteaching, meaningful conversations,\nprayer, serving, and practical\nexperiences, you'll discover what it\nmeans to follow Jesus in everyday\nlife. Real community. Deeper faith.\nWeds · 6:30-8:00 PM\nPHC Glendale\nJoin Rooted →",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-courses-more-10",
-      "title": "COURSES + MORE",
-      "order": 10,
-      "body": "FAMILY SCHOOL\nBuild a stronger family.\nGrow together. Come join Pastor\nBryan and Megan for an interactive\nexperience designed for your whole\nfamily. You'll learn practical skills and\ntools that, along with the Holy Spirit,\nwill help you become the family God\nintended. Children ages 12 and up\nare encouraged to participate in the\nexperience, and childcare is\navailable for younger children.\nBegins Sept 16\nWeds · 6:30-8:00 PM\nPHC Glendale\nJoin Family School →",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-power-to-heal-11",
-      "title": "POWER TO HEAL",
-      "order": 11,
-      "body": "7-Week Interactive Prayer Class\nWhether you're just beginning your\nprayer journey or have been praying\nfor years, this course will challenge,\nequip, and strengthen your prayer life.\nTogether, we'll explore the Power to\nHeal book and videos by Randy Clark,\nwith practical biblical teaching on\npraying for spirit, soul, and body. Each\nsession includes:\nInspiring video teaching\nInteractive prayer activities\nHands-on opportunities to put\nwhat you learn into practice\nCome expecting to grow in\nconfidence, deepen your relationship\nwith God, and experience a fresh\nimpact in your personal prayer life.\nCost: $16+tax · No childcare available.\nBegins Aug 29\nSat · 2:30-5:00 PM\nPHC Glendale\nJoin Power to Heal  →",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-peoria-in-person-prayer-12",
-      "title": "PEORIA IN-PERSON PRAYER",
-      "order": 12,
-      "body": "Weds · 7:00-8:00 PM\nPHC Peoria\nAn intimate opportunity to deepen your\nconnection with God and come\ntogether in prayer. Each gathering\nincludes prayer, worship music,\nScripture readings, testimonies, and\nintercessory prayer. All are welcome!",
-      "bodyScriptureRefs": []
-    },
-    {
-      "id": "sec-weekly-zoom-prayer-13",
-      "title": "WEEKLY ZOOM PRAYER",
-      "order": 13,
-      "body": "Join us every Weds for a meaningful\ntime of prayer, encouragement, and\nconnection. Together, we'll seek God's\npresence, strengthen one another, and\ncultivate deeper relationships through\nheartfelt prayer. Whether you join us\nweekly or as your schedule allows,\nyou're always welcome.\nCome expecting God\nto move!\nWeds · 6:00-6:45 PM\nOnline\nJoin Zoom →",
+      "order": 1,
+      "body": "AND INTO\nCIRCLES\nFALL CREW SESAON KICKS OFF AUG 29!",
       "bodyScriptureRefs": []
     }
   ],
@@ -104,6 +20,395 @@
   "benediction": null,
   "version": 2,
   "kind": "handout",
+  "listings": {
+    "title": "Heart Crew Open Listings",
+    "subtitle": null,
+    "linkText": null,
+    "linkUrl": null,
+    "groups": [
+      {
+        "id": "listing-fall-2026-1",
+        "heading": "Fall 2026",
+        "entries": []
+      },
+      {
+        "id": "listing-heart-crews-2",
+        "heading": "Heart Crews",
+        "entries": []
+      },
+      {
+        "id": "listing-new-open-groups-3",
+        "heading": "New + Open Groups",
+        "entries": []
+      },
+      {
+        "id": "listing-tuesdays-4",
+        "heading": "Tuesdays",
+        "entries": [
+          {
+            "lines": [
+              "Zoom Coffee/ Sermon Discussion",
+              "Co-ed 1st and 3rd Tues · 7:00 AM",
+              "Online"
+            ]
+          },
+          {
+            "lines": [
+              "Dad's in Every Season",
+              "Tavis McGrew",
+              "Men · Tues · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Pauline Eddy",
+              "Co-ed · Every Other Tues · 6:30 PM",
+              "Off Campus"
+            ]
+          },
+          {
+            "lines": [
+              "In-depth Bible Study - Marina Carbajal",
+              "Women · Tues · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Leanne Gemberling",
+              "Co-ed · Every Other Tues · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Men's 33 - Jeff Agle",
+              "Men · Tues · 7:00 PM",
+              "PHC Glendale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-wednesdays-5",
+        "heading": "Wednesdays",
+        "entries": [
+          {
+            "lines": [
+              "Married Couples",
+              "Ryan & Miriam Galifant",
+              "Every other Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "24-35 Singles",
+              "Co-Ed · Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "30's-40's Singles - Scott",
+              "Co-Ed · Weds · 6:30 PM",
+              "55th Ave. & Union Hills"
+            ]
+          },
+          {
+            "lines": [
+              "Christine Shupe",
+              "Women · Ages 30-55 ·",
+              "Every Other Weds · 6:00 PM",
+              "67th Ave. & Greenway"
+            ]
+          },
+          {
+            "lines": [
+              "Faith & Obedient Brotherhood",
+              "Daniel & Buka",
+              "Men · Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Mom's in Every Season",
+              "Vanessa, Sam, & Ashley",
+              "Women · Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Young Married Couples",
+              "Steven & Alaina Ater",
+              "Weds · 6:30 PM",
+              "75th Ave. & Deer Valley"
+            ]
+          },
+          {
+            "lines": [
+              "Donna Brockway",
+              "Co-ed · Every Other Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-wednesdays-6",
+        "heading": "Wednesdays",
+        "entries": [
+          {
+            "lines": [
+              "God of Covenant: Book Study",
+              "Kathi Bowles",
+              "Women · Weds · 10:00 AM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Dave & Elena Jensen",
+              "Co-ed · 1st & 3rd Weds · 6:30 PM",
+              "43rd Ave. & Union Hills"
+            ]
+          },
+          {
+            "lines": [
+              "New to Jesus? Rooted",
+              "Co-ed · Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Sign Up Online Or In The Lobby"
+            ]
+          },
+          {
+            "lines": [
+              "Pureheart.org/Heartcrews"
+            ]
+          },
+          {
+            "lines": [
+              "Developing Young Families",
+              "Jack Farris · Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Young Families",
+              "Yadira & Maggie · Weds · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Rachel Kekic",
+              "Women · Weds· 6:30 PM",
+              "PHC Glendale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-thursdays-7",
+        "heading": "Thursdays",
+        "entries": [
+          {
+            "lines": [
+              "Young Married Couples",
+              "Noah & Abby Richardson",
+              "Co-ed · Thurs · 6:30 PM"
+            ]
+          },
+          {
+            "lines": [
+              "Donna McCain",
+              "Co-ed · Thurs · 6:30 PM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Leandro & Leticia",
+              "Spanish Heart Crew",
+              "Co-ed · Thurs · 7:00 PM",
+              "PHC Espanol"
+            ]
+          },
+          {
+            "lines": [
+              "Lisa Fields",
+              "Women · 6:30 PM · Every Other Thurs",
+              "PHC Peoria"
+            ]
+          },
+          {
+            "lines": [
+              "James & Susan Kallas",
+              "Co-ed · Every Other Thurs · 6:30 PM",
+              "43rd Ave. & Union Hills"
+            ]
+          },
+          {
+            "lines": [
+              "Young Adults (19-34)",
+              "Ginger Gursky Every Other Thurs · 6:30 PM",
+              "PHC Peoria"
+            ]
+          },
+          {
+            "lines": [
+              "Jim and Marie Tewalt",
+              "Co-ed · 2nd & 4th Thurs",
+              "67th Ave. & Happy Valley"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-fri-sat-sun-8",
+        "heading": "Fri, Sat, Sun",
+        "entries": [
+          {
+            "lines": [
+              "Migrant Farm Worker Care",
+              "Blake Jackson",
+              "Co-ed · One Fri a month · Daytime",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Radiant Redemption - Ciria Lopez",
+              "Women · One Sat a month · 10:00 AM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Young Adults 18-26 Sean Denny",
+              "Co-Ed · Sat · 10:30 AM",
+              "71st Ave. & Thunderbird"
+            ]
+          },
+          {
+            "lines": [
+              "Louie & Marina Carbajal - Book Study",
+              "Co-ed · Sat · 4:00 PM",
+              "43rd & Sweetwater"
+            ]
+          },
+          {
+            "lines": [
+              "Naomi Circle - Becky Bell",
+              "Single Women 55+ · 1st & 3rd Sat ·",
+              "10:00 AM",
+              "PHC Glendale"
+            ]
+          },
+          {
+            "lines": [
+              "Ironmen - Jason Guthrie",
+              "Men · Sat · 7:00 AM",
+              "PHC Glendale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-courses-more-9",
+        "heading": "Courses + More",
+        "entries": [
+          {
+            "lines": [
+              "Rooted",
+              "Go deeper. Live on purpose. Rooted is an 11-week small-group experience designed to help you grow deeper in your relationship with God while building authentic community. Through biblical teaching, meaningful conversations, prayer, serving, and practical experiences, you'll discover what it means to follow Jesus in everyday life. Real community. Deeper faith.",
+              "Weds · 6:30-8:00 PM",
+              "PHC Glendale",
+              "Join Rooted →"
+            ]
+          },
+          {
+            "lines": [
+              "Power To Heal",
+              "7-Week Interactive Prayer Class"
+            ]
+          },
+          {
+            "lines": [
+              "Whether you're just beginning your prayer journey or have been praying for years, this course will challenge, equip, and strengthen your prayer life.",
+              "Together, we'll explore the Power to",
+              "Heal book and videos by Randy Clark, with practical biblical teaching on praying for spirit, soul, and body. Each session includes:"
+            ]
+          },
+          {
+            "lines": [
+              "Inspiring video teaching",
+              "Interactive prayer activities",
+              "Hands-on opportunities to put what you learn into practice"
+            ]
+          },
+          {
+            "lines": [
+              "Come expecting to grow in confidence, deepen your relationship with God, and experience a fresh impact in your personal prayer life.",
+              "Cost: $16+tax · No childcare available.",
+              "Begins Aug 29",
+              "Sat · 2:30-5:00 PM",
+              "PHC Glendale",
+              "Join Power to Heal →"
+            ]
+          },
+          {
+            "lines": [
+              "Family School",
+              "Build a stronger family.",
+              "Grow together. Come join Pastor",
+              "Bryan and Megan for an interactive experience designed for your whole family. You'll learn practical skills and tools that, along with the Holy Spirit, will help you become the family God intended. Children ages 12 and up are encouraged to participate in the experience, and childcare is available for younger children.",
+              "Begins Sept 16",
+              "Weds · 6:30-8:00 PM",
+              "PHC Glendale",
+              "Join Family School →"
+            ]
+          },
+          {
+            "lines": [
+              "Peoria In-Person Prayer",
+              "Weds · 7:00-8:00 PM",
+              "PHC Peoria"
+            ]
+          },
+          {
+            "lines": [
+              "An intimate opportunity to deepen your connection with God and come together in prayer. Each gathering includes prayer, worship music,",
+              "Scripture readings, testimonies, and intercessory prayer. All are welcome!"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "listing-weekly-zoom-prayer-10",
+        "heading": "Weekly Zoom Prayer",
+        "entries": [
+          {
+            "lines": [
+              "Join us every Weds for a meaningful time of prayer, encouragement, and connection. Together, we'll seek God's presence, strengthen one another, and cultivate deeper relationships through heartfelt prayer. Whether you join us weekly or as your schedule allows, you're always welcome.",
+              "Come expecting God to move!",
+              "Weds · 6:00-6:45 PM",
+              "Online",
+              "Join Zoom →"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "campus": "Glendale",
   "sourceUrl": "https://phc.events/api/mp/files/2b55bf16-72bb-4121-b326-68c61d0b94f5"
 }
