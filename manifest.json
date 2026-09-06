@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-05T16:03:24.772Z",
+  "generatedAt": "2026-09-06T16:15:21.966Z",
   "guides": [
+    {
+      "id": "2026-09-05-your-christian-resume-won-t-save-you-heart-crew-guide",
+      "sermonLinkId": 1318,
+      "sermonId": 534,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-09-05",
+      "sermonTitle": "Your Christian Resume Won't Save You",
+      "sermonSubtitle": null,
+      "seriesTitle": "God Isn't Impressed",
+      "thumbnailUrl": "https://phc.events/api/mp/files/ba84bb2b-a323-4a2d-9ea7-dbc6f7de9829",
+      "warnings": 1
+    },
     {
       "id": "2026-08-29-vision-isn-t-enough-heart-crew-guide",
       "sermonLinkId": 1314,
@@ -159,21 +174,6 @@
       "linkTypeKey": "peoria-crew-guide",
       "campus": "Peoria",
       "kind": "crew-guide",
-      "sermonDate": "2026-07-04",
-      "sermonTitle": "This Is Why You're Stuck",
-      "sermonSubtitle": null,
-      "seriesTitle": "This Is Why You're Stuck",
-      "thumbnailUrl": "https://phc.events/api/mp/files/1595dfc0-1c8f-4938-8c3b-ca892d6a583f",
-      "warnings": 7
-    },
-    {
-      "id": "2026-07-04-this-is-why-you-re-stuck-live-it-out",
-      "sermonLinkId": 1278,
-      "sermonId": 525,
-      "linkTypeId": 6,
-      "linkTypeKey": "live-it-out",
-      "campus": "Glendale",
-      "kind": "sermon-notes",
       "sermonDate": "2026-07-04",
       "sermonTitle": "This Is Why You're Stuck",
       "sermonSubtitle": null,

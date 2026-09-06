@@ -1,0 +1,368 @@
+{
+  "id": "2026-09-05-your-christian-resume-won-t-save-you-heart-crew-guide",
+  "date": "2026-09-05",
+  "seriesTitle": "God Isn't Impressed",
+  "sermonTitle": "Your Christian Resume Won't Save You",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": null,
+  "sections": [
+    {
+      "id": "sec-discussion-guide",
+      "title": "DISCUSSION GUIDE",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-discussion-guide-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives. Sept 5-6, 2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who is someone you naturally want to tell when something significant happens in your life? Why them?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Looking back at your notes from this week's teaching, was there anything that particularly caught your attention, challenged you, or confused you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Start by reading "
+            },
+            {
+              "type": "scripture",
+              "displayText": "John 4:7-30 and 39-42",
+              "reference": {
+                "book": "John",
+                "bookId": "JHN",
+                "chapter": 4,
+                "verseStart": 7,
+                "verseEnd": 30
+              },
+              "references": [
+                {
+                  "book": "John",
+                  "bookId": "JHN",
+                  "chapter": 4,
+                  "verseStart": 7,
+                  "verseEnd": 30
+                },
+                {
+                  "book": "John",
+                  "bookId": "JHN",
+                  "chapter": 4,
+                  "verseStart": 39,
+                  "verseEnd": 42
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Sometimes we walk into a divine appointment and don't even realize its significance. What do you notice about the woman's response to Jesus in this encounter?"
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "She goes from avoiding people to inviting an entire town to meet Jesus. What do you think happened in those few moments with Jesus that made her willing to become vulnerable and talk openly about Him?"
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Acts 4:10-15",
+              "reference": {
+                "book": "Acts",
+                "bookId": "ACT",
+                "chapter": 4,
+                "verseStart": 10,
+                "verseEnd": 15
+              },
+              "references": [
+                {
+                  "book": "Acts",
+                  "bookId": "ACT",
+                  "chapter": 4,
+                  "verseStart": 10,
+                  "verseEnd": 15
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The religious leaders recognized that Peter and John were ordinary men, yet they could not deny what had happened through them. Their effectiveness wasn't rooted in having an impressive education; it was rooted in having been with Jesus."
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What stands out to you about the fact that Peter and John were described as ordinary men, yet were used so powerfully by God? How might that challenge the idea that you need to be more qualified, knowledgeable, or impressive before God can use you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-join-a-crew",
+      "title": "JOIN A CREW",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-join-a-crew-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Where are you most tempted to let insecurity or fear of judgment convince you that you aren't \"enough\" to represent Jesus?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 5,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 3:7-9",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 3,
+                "verseStart": 7,
+                "verseEnd": 9
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 3,
+                  "verseStart": 7,
+                  "verseEnd": 9
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Paul had plenty of reasons to be confident in himself-his background, accomplishments, reputation, and religious resume. Yet when he encountered the surpassing worth of knowing Christ, he began to see everything else differently."
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What accomplishments, abilities, experiences, or areas of your life could you be tempted to use primarily to build your own reputation? How could you instead use them to point people toward Jesus?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 8:14-17",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 8,
+                "verseStart": 14,
+                "verseEnd": 17
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 8,
+                  "verseStart": 14,
+                  "verseEnd": 17
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The hope of the gospel is that Jesus' ministry wasn't disconnected from the people closest to His disciples. What does this healing reveal about the way Jesus' work can reach into the lives of the people around us?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "When Jesus became real in your life, who around you was affected by that change? Who in your family or close relationships still needs to experience the hope you've found in Christ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 6,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Romans 1:16",
+              "reference": {
+                "book": "Romans",
+                "bookId": "ROM",
+                "chapter": 1,
+                "verseStart": 16
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 1,
+                  "verseStart": 16
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Luke 12:11-12",
+              "reference": {
+                "book": "Luke",
+                "bookId": "LUK",
+                "chapter": 12,
+                "verseStart": 11,
+                "verseEnd": 12
+              },
+              "references": [
+                {
+                  "book": "Luke",
+                  "bookId": "LUK",
+                  "chapter": 12,
+                  "verseStart": 11,
+                  "verseEnd": 12
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The gospel isn't something we should be ashamed of because it is the very power of God to save. The goal isn't to become fearless people; it's to become people who value Jesus enough that fear doesn't get the final word."
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Where does fear of rejection or judgment have the potential to keep you quiet about your faith? What would it look like to live \"unashamed\" of Jesus in that situation?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who is one person in your everyday life that you could take a step toward this week by starting a conversation, sharing your story, inviting them somewhere, or simply being intentional about pointing them toward Jesus?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "This week, I will be praying for _________________ to experience the familial love of Christ."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://phc.events/api/mp/files/5cbdf52f-b68d-4669-b4f0-bc06abcd6d5b"
+}
