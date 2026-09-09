@@ -6,29 +6,12 @@
   "speaker": null,
   "sermonScripture": null,
   "topScriptures": [],
-  "introduction": null,
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
   "sections": [
-    {
-      "id": "sec-discussion-guide",
-      "title": "DISCUSSION GUIDE",
-      "order": 1,
-      "questions": [
-        {
-          "id": "q-discussion-guide-1",
-          "order": 1,
-          "segments": [
-            {
-              "type": "text",
-              "text": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives. Sept 5-6, 2026"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "sec-warm-up",
       "title": "WARM UP",
-      "order": 2,
+      "order": 1,
       "questions": [
         {
           "id": "q-warm-up-1",
@@ -55,7 +38,7 @@
     {
       "id": "sec-know-it",
       "title": "KNOW IT",
-      "order": 3,
+      "order": 2,
       "questions": [
         {
           "id": "q-know-it-1",
@@ -151,17 +134,10 @@
               "text": "What stands out to you about the fact that Peter and John were described as ordinary men, yet were used so powerfully by God? How might that challenge the idea that you need to be more qualified, knowledgeable, or impressive before God can use you?"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "sec-join-a-crew",
-      "title": "JOIN A CREW",
-      "order": 4,
-      "questions": [
+        },
         {
-          "id": "q-join-a-crew-1",
-          "order": 1,
+          "id": "q-know-it-5",
+          "order": 5,
           "segments": [
             {
               "type": "text",
@@ -174,7 +150,7 @@
     {
       "id": "sec-share-it",
       "title": "SHARE IT",
-      "order": 5,
+      "order": 3,
       "questions": [
         {
           "id": "q-share-it-1",
@@ -269,7 +245,7 @@
     {
       "id": "sec-live-it",
       "title": "LIVE IT",
-      "order": 6,
+      "order": 4,
       "questions": [
         {
           "id": "q-live-it-1",
@@ -364,5 +340,6 @@
   "benediction": null,
   "version": 1,
   "campus": "Glendale",
-  "sourceUrl": "https://phc.events/api/mp/files/5cbdf52f-b68d-4669-b4f0-bc06abcd6d5b"
+  "sourceUrl": "https://phc.events/api/mp/files/5cbdf52f-b68d-4669-b4f0-bc06abcd6d5b",
+  "videoUrl": "https://www.youtube.com/watch?v=fViqKJJCd8c"
 }

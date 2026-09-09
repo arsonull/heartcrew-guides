@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T17:09:10.600Z",
+  "generatedAt": "2026-09-09T22:37:29.301Z",
   "guides": [
     {
       "id": "2026-09-05-your-christian-resume-won-t-save-you-heart-crew-guide",
@@ -14,6 +14,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "God Isn't Impressed",
       "thumbnailUrl": "https://phc.events/api/mp/files/ba84bb2b-a323-4a2d-9ea7-dbc6f7de9829",
+      "videoUrl": "https://www.youtube.com/watch?v=fViqKJJCd8c",
       "warnings": 1
     },
     {
@@ -29,6 +30,7 @@
       "sermonSubtitle": "Week 3",
       "seriesTitle": "In Focus",
       "thumbnailUrl": "https://phc.events/api/mp/files/73c07a85-7b2c-4940-bc4d-542511056a36",
+      "videoUrl": "https://www.youtube.com/watch?v=CLqvVOaQxEQ",
       "warnings": 2
     },
     {
@@ -44,6 +46,7 @@
       "sermonSubtitle": "Week 2",
       "seriesTitle": "In Focus",
       "thumbnailUrl": "https://phc.events/api/mp/files/628be721-6701-4a3f-98ac-820aa5c7d0bf",
+      "videoUrl": "https://www.youtube.com/watch?v=gDe7YQLVO_8&t=2198s",
       "warnings": 2
     },
     {
@@ -59,6 +62,7 @@
       "sermonSubtitle": "Week 1",
       "seriesTitle": "In Focus",
       "thumbnailUrl": "https://phc.events/api/mp/files/f9226222-5574-4213-a389-30f26d8eeb5a",
+      "videoUrl": "https://www.youtube.com/watch?v=j6lKCy0e05I",
       "warnings": 2
     },
     {
@@ -74,6 +78,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "What's Controlling You?",
       "thumbnailUrl": "https://phc.events/api/mp/files/2683fba4-e416-4d62-be20-ded60da31ad9",
+      "videoUrl": "https://www.youtube.com/watch?v=je2v84yHnVc",
       "warnings": 9
     },
     {
@@ -89,6 +94,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "What's Controlling You?",
       "thumbnailUrl": "https://phc.events/api/mp/files/2683fba4-e416-4d62-be20-ded60da31ad9",
+      "videoUrl": "https://www.youtube.com/watch?v=je2v84yHnVc",
       "warnings": 9
     },
     {
@@ -104,6 +110,7 @@
       "sermonSubtitle": "Week 3",
       "seriesTitle": "Mission In Motion",
       "thumbnailUrl": "https://phc.events/api/mp/files/fe6e4f5d-c2a1-477d-8fdd-70231c91f452",
+      "videoUrl": "https://www.youtube.com/watch?v=8sxHooNjnkQ",
       "warnings": 0
     },
     {
@@ -119,6 +126,7 @@
       "sermonSubtitle": "Week 2",
       "seriesTitle": "Mission In Motion",
       "thumbnailUrl": "https://phc.events/api/mp/files/c12f1e99-46b5-4c7a-9e3b-c0c81e4ba0b9",
+      "videoUrl": "https://www.youtube.com/watch?v=E8--y7wLWv4",
       "warnings": 0
     },
     {
@@ -134,6 +142,7 @@
       "sermonSubtitle": "Week 1",
       "seriesTitle": "Mission In Motion",
       "thumbnailUrl": "https://phc.events/api/mp/files/4cb3bac7-c6ac-4ae9-aede-7d66843c46f9",
+      "videoUrl": "https://www.youtube.com/watch?v=DVbT4hMNr54",
       "warnings": 12
     },
     {
@@ -149,6 +158,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "Why Are You Hiding?",
       "thumbnailUrl": "https://phc.events/api/mp/files/e2b1a9c2-0cdc-4c63-9827-3a32644e6305",
+      "videoUrl": "https://www.youtube.com/watch?v=iszXt1bB2_A",
       "warnings": 6
     },
     {
@@ -164,6 +174,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "Why Are You Hiding?",
       "thumbnailUrl": "https://phc.events/api/mp/files/e2b1a9c2-0cdc-4c63-9827-3a32644e6305",
+      "videoUrl": "https://www.youtube.com/watch?v=iszXt1bB2_A",
       "warnings": 7
     },
     {
@@ -179,6 +190,7 @@
       "sermonSubtitle": null,
       "seriesTitle": "This Is Why You're Stuck",
       "thumbnailUrl": "https://phc.events/api/mp/files/1595dfc0-1c8f-4938-8c3b-ca892d6a583f",
+      "videoUrl": "https://www.youtube.com/watch?v=A9eUl6I32sM",
       "warnings": 7
     }
   ],
