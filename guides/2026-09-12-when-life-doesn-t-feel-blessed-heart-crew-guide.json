@@ -1,0 +1,497 @@
+{
+  "id": "2026-09-12-when-life-doesn-t-feel-blessed-heart-crew-guide",
+  "date": "2026-09-12",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "When Life Doesn't Feel Blessed",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "If you could spend an hour learning from any person in history, who would you choose and why?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "There is no historical figure who has profoundly shaped the world more than Jesus, so His perspective is the most valuable perspective we can possibly learn from. The things He taught were wildly upside down from what people were expecting, and worth our careful consideration."
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "READ: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 5:1-12",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 5,
+                "verseStart": 1,
+                "verseEnd": 12
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 5,
+                  "verseStart": 1,
+                  "verseEnd": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Looking back at your notes from this week's teaching, was there anything that particularly caught your attention, challenged you, or confused you?"
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "The Beatitudes are not a checklist for earning a place in Jesus' kingdom. They are Jesus' announcement that God's kingdom is here-received as a gift by people who know their need. Now we get to allow His kingdom to reshape us from the inside out."
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Which beatitude resonates with you most in this season you are currently in? What makes it stand out and why?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Jesus lists character traits the world rarely celebrates (poor in spirit, mourning, meekness, hunger for righteousness). Which one feels most different from how our culture defines a \"good life\"?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "READ: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 9:12-13",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 9,
+                "verseStart": 12,
+                "verseEnd": 13
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 9,
+                  "verseStart": 12,
+                  "verseEnd": 13
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Jesus didn't come for people who had it all together. When we look back at "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matt 5:1-2 and 5:3-11",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 5,
+                "verseStart": 1,
+                "verseEnd": 2
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 5,
+                  "verseStart": 1,
+                  "verseEnd": 2
+                },
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 5,
+                  "verseStart": 3,
+                  "verseEnd": 11
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", weakness does not disqualify someone from the Kingdom. In fact, it's the starting point for experiencing God's Kingdom."
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How does this change the way you see yourself, God, and the relationships He has put in your life?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is one area you think God is inviting you to allow Him to reshape by Kingdom perspective?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What does it look like for you to live out one of the kingdom perspectives Jesus talks about in "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 5",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 5
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 5
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "? How can that ripple out into your family, your neighborhood, or your workplace?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "READ: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Romans 12:2",
+              "reference": {
+                "book": "Romans",
+                "bookId": "ROM",
+                "chapter": 12,
+                "verseStart": 2
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 12,
+                  "verseStart": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "We are all being formed by something. Our attitudes, perspectives, and priorities are constantly being shaped through the influence of the people we encounter, the media we digest, and the perspectives of our culture. Jesus offers a completely different perspective. Following Him means His perspective now gets priority in my life."
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How does the idea of Jesus' \"upside down Kingdom\" help us understand what Paul writes in "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Romans 12:2",
+              "reference": {
+                "book": "Romans",
+                "bookId": "ROM",
+                "chapter": 12,
+                "verseStart": 2
+              },
+              "references": [
+                {
+                  "book": "Romans",
+                  "bookId": "ROM",
+                  "chapter": 12,
+                  "verseStart": 2
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " about \"being transformed by the renewal of our minds\"?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "READ: "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 2:12-13",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 2,
+                "verseStart": 12,
+                "verseEnd": 13
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 2,
+                  "verseStart": 12,
+                  "verseEnd": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What does Paul mean when he says \"continue to work out your salvation?\" It is clear that salvation is not something we earn, It's Christ in me that produces this Kingdom life."
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-6",
+          "order": 6,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Put "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 2:12-13",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 2,
+                "verseStart": 12,
+                "verseEnd": 13
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 2,
+                  "verseStart": 12,
+                  "verseEnd": 13
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " next to "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Ephesians 2:8-9",
+              "reference": {
+                "book": "Ephesians",
+                "bookId": "EPH",
+                "chapter": 2,
+                "verseStart": 8,
+                "verseEnd": 9
+              },
+              "references": [
+                {
+                  "book": "Ephesians",
+                  "bookId": "EPH",
+                  "chapter": 2,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", \"not by works, so that no one can boast.\" Salvation isn't something we can obtain through doing more good. It isn't something you can achieve or put on yourself. At the same time, we are not passive followers of Jesus - we are active participants in daily choosing to follow after Jesus and align our priorities to His."
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-7",
+          "order": 7,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What do you notice when you put these two verses side by side - "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Ephesians 2:8-9",
+              "reference": {
+                "book": "Ephesians",
+                "bookId": "EPH",
+                "chapter": 2,
+                "verseStart": 8,
+                "verseEnd": 9
+              },
+              "references": [
+                {
+                  "book": "Ephesians",
+                  "bookId": "EPH",
+                  "chapter": 2,
+                  "verseStart": 8,
+                  "verseEnd": 9
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " and "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 2:12-13",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 2,
+                "verseStart": 12,
+                "verseEnd": 13
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 2,
+                  "verseStart": 12,
+                  "verseEnd": 13
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-8",
+          "order": 8,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What do you need to adjust this week in your perspective to align more closely with Jesus' perspective?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-9",
+          "order": 9,
+          "segments": [
+            {
+              "type": "text",
+              "text": "th Love Our Schools Day is coming up OCT 24 Mark your calendar and come make a difference with us!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://phc.events/api/mp/files/f4cdcd62-6e00-4d4c-b4ff-84082abc8a82",
+  "videoUrl": "https://www.youtube.com/watch?v=j2sfGS5c7EI"
+}

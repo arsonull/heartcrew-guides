@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-12T16:18:22.791Z",
+  "generatedAt": "2026-09-13T16:58:12.297Z",
   "guides": [
+    {
+      "id": "2026-09-12-when-life-doesn-t-feel-blessed-heart-crew-guide",
+      "sermonLinkId": 1321,
+      "sermonId": 535,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-09-12",
+      "sermonTitle": "When Life Doesn't Feel Blessed",
+      "sermonSubtitle": "Week 1",
+      "seriesTitle": "Upside Down",
+      "thumbnailUrl": "https://phc.events/api/mp/files/3cf7ce46-f108-4346-a9bd-1bd7e867f33e",
+      "videoUrl": "https://www.youtube.com/watch?v=j2sfGS5c7EI",
+      "warnings": 1
+    },
     {
       "id": "2026-09-05-your-christian-resume-won-t-save-you-heart-crew-guide",
       "sermonLinkId": 1318,
@@ -175,22 +191,6 @@
       "seriesTitle": "Why Are You Hiding?",
       "thumbnailUrl": "https://phc.events/api/mp/files/e2b1a9c2-0cdc-4c63-9827-3a32644e6305",
       "videoUrl": "https://www.youtube.com/watch?v=iszXt1bB2_A",
-      "warnings": 7
-    },
-    {
-      "id": "2026-07-04-this-is-why-you-re-stuck-peoria-crew-guide",
-      "sermonLinkId": 1279,
-      "sermonId": 525,
-      "linkTypeId": 8,
-      "linkTypeKey": "peoria-crew-guide",
-      "campus": "Peoria",
-      "kind": "crew-guide",
-      "sermonDate": "2026-07-04",
-      "sermonTitle": "This Is Why You're Stuck",
-      "sermonSubtitle": null,
-      "seriesTitle": "This Is Why You're Stuck",
-      "thumbnailUrl": "https://phc.events/api/mp/files/1595dfc0-1c8f-4938-8c3b-ca892d6a583f",
-      "videoUrl": "https://www.youtube.com/watch?v=A9eUl6I32sM",
       "warnings": 7
     }
   ],
