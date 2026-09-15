@@ -97,47 +97,47 @@
           "segments": [
             {
               "type": "text",
-              "text": "Read: "
-            },
+              "text": "What stands out to you about the fact that Peter and John were described as ordinary men, yet were used so powerfully by God? How might that challenge the idea that you need to be more qualified, knowledgeable, or impressive before God can use you?"
+            }
+          ],
+          "lead": [
             {
-              "type": "scripture",
-              "displayText": "Acts 4:10-15",
-              "reference": {
-                "book": "Acts",
-                "bookId": "ACT",
-                "chapter": 4,
-                "verseStart": 10,
-                "verseEnd": 15
-              },
-              "references": [
+              "segments": [
                 {
-                  "book": "Acts",
-                  "bookId": "ACT",
-                  "chapter": 4,
-                  "verseStart": 10,
-                  "verseEnd": 15
+                  "type": "text",
+                  "text": "Read: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Acts 4:10-15",
+                  "reference": {
+                    "book": "Acts",
+                    "bookId": "ACT",
+                    "chapter": 4,
+                    "verseStart": 10,
+                    "verseEnd": 15
+                  },
+                  "references": [
+                    {
+                      "book": "Acts",
+                      "bookId": "ACT",
+                      "chapter": 4,
+                      "verseStart": 10,
+                      "verseEnd": 15
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " The religious leaders recognized that Peter and John were ordinary men, yet they could not deny what had happened through them. Their effectiveness wasn't rooted in having an impressive education; it was rooted in having been with Jesus."
                 }
               ]
-            },
-            {
-              "type": "text",
-              "text": " The religious leaders recognized that Peter and John were ordinary men, yet they could not deny what had happened through them. Their effectiveness wasn't rooted in having an impressive education; it was rooted in having been with Jesus."
             }
           ]
         },
         {
           "id": "q-know-it-4",
           "order": 4,
-          "segments": [
-            {
-              "type": "text",
-              "text": "What stands out to you about the fact that Peter and John were described as ordinary men, yet were used so powerfully by God? How might that challenge the idea that you need to be more qualified, knowledgeable, or impressive before God can use you?"
-            }
-          ]
-        },
-        {
-          "id": "q-know-it-5",
-          "order": 5,
           "segments": [
             {
               "type": "text",
@@ -158,31 +158,45 @@
           "segments": [
             {
               "type": "text",
-              "text": "Read: "
-            },
+              "text": "What accomplishments, abilities, experiences, or areas of your life could you be tempted to use primarily to build your own reputation? How could you instead use them to point people toward Jesus?"
+            }
+          ],
+          "lead": [
             {
-              "type": "scripture",
-              "displayText": "Philippians 3:7-9",
-              "reference": {
-                "book": "Philippians",
-                "bookId": "PHP",
-                "chapter": 3,
-                "verseStart": 7,
-                "verseEnd": 9
-              },
-              "references": [
+              "segments": [
                 {
-                  "book": "Philippians",
-                  "bookId": "PHP",
-                  "chapter": 3,
-                  "verseStart": 7,
-                  "verseEnd": 9
+                  "type": "text",
+                  "text": "Read: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Philippians 3:7-9",
+                  "reference": {
+                    "book": "Philippians",
+                    "bookId": "PHP",
+                    "chapter": 3,
+                    "verseStart": 7,
+                    "verseEnd": 9
+                  },
+                  "references": [
+                    {
+                      "book": "Philippians",
+                      "bookId": "PHP",
+                      "chapter": 3,
+                      "verseStart": 7,
+                      "verseEnd": 9
+                    }
+                  ]
                 }
               ]
             },
             {
-              "type": "text",
-              "text": " Paul had plenty of reasons to be confident in himself-his background, accomplishments, reputation, and religious resume. Yet when he encountered the surpassing worth of knowing Christ, he began to see everything else differently."
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Paul had plenty of reasons to be confident in himself-his background, accomplishments, reputation, and religious resume. Yet when he encountered the surpassing worth of knowing Christ, he began to see everything else differently."
+                }
+              ]
             }
           ]
         },
@@ -192,47 +206,51 @@
           "segments": [
             {
               "type": "text",
-              "text": "What accomplishments, abilities, experiences, or areas of your life could you be tempted to use primarily to build your own reputation? How could you instead use them to point people toward Jesus?"
+              "text": "What does this healing reveal about the way Jesus' work can reach into the lives of the people around us?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 8:14-17",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 8,
+                    "verseStart": 14,
+                    "verseEnd": 17
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 8,
+                      "verseStart": 14,
+                      "verseEnd": 17
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "The hope of the gospel is that Jesus' ministry wasn't disconnected from the people closest to His disciples."
+                }
+              ]
             }
           ]
         },
         {
           "id": "q-share-it-3",
           "order": 3,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Read: "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Matthew 8:14-17",
-              "reference": {
-                "book": "Matthew",
-                "bookId": "MAT",
-                "chapter": 8,
-                "verseStart": 14,
-                "verseEnd": 17
-              },
-              "references": [
-                {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 8,
-                  "verseStart": 14,
-                  "verseEnd": 17
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": " The hope of the gospel is that Jesus' ministry wasn't disconnected from the people closest to His disciples. What does this healing reveal about the way Jesus' work can reach into the lives of the people around us?"
-            }
-          ]
-        },
-        {
-          "id": "q-share-it-4",
-          "order": 4,
           "segments": [
             {
               "type": "text",
@@ -253,53 +271,67 @@
           "segments": [
             {
               "type": "text",
-              "text": "Read: "
-            },
+              "text": "Where does fear of rejection or judgment have the potential to keep you quiet about your faith? What would it look like to live \"unashamed\" of Jesus in that situation?"
+            }
+          ],
+          "lead": [
             {
-              "type": "scripture",
-              "displayText": "Romans 1:16",
-              "reference": {
-                "book": "Romans",
-                "bookId": "ROM",
-                "chapter": 1,
-                "verseStart": 16
-              },
-              "references": [
+              "segments": [
                 {
-                  "book": "Romans",
-                  "bookId": "ROM",
-                  "chapter": 1,
-                  "verseStart": 16
+                  "type": "text",
+                  "text": "Read: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Romans 1:16",
+                  "reference": {
+                    "book": "Romans",
+                    "bookId": "ROM",
+                    "chapter": 1,
+                    "verseStart": 16
+                  },
+                  "references": [
+                    {
+                      "book": "Romans",
+                      "bookId": "ROM",
+                      "chapter": 1,
+                      "verseStart": 16
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Luke 12:11-12",
+                  "reference": {
+                    "book": "Luke",
+                    "bookId": "LUK",
+                    "chapter": 12,
+                    "verseStart": 11,
+                    "verseEnd": 12
+                  },
+                  "references": [
+                    {
+                      "book": "Luke",
+                      "bookId": "LUK",
+                      "chapter": 12,
+                      "verseStart": 11,
+                      "verseEnd": 12
+                    }
+                  ]
                 }
               ]
             },
             {
-              "type": "text",
-              "text": ", "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Luke 12:11-12",
-              "reference": {
-                "book": "Luke",
-                "bookId": "LUK",
-                "chapter": 12,
-                "verseStart": 11,
-                "verseEnd": 12
-              },
-              "references": [
+              "segments": [
                 {
-                  "book": "Luke",
-                  "bookId": "LUK",
-                  "chapter": 12,
-                  "verseStart": 11,
-                  "verseEnd": 12
+                  "type": "text",
+                  "text": "The gospel isn't something we should be ashamed of because it is the very power of God to save. The goal isn't to become fearless people; it's to become people who value Jesus enough that fear doesn't get the final word."
                 }
               ]
-            },
-            {
-              "type": "text",
-              "text": " The gospel isn't something we should be ashamed of because it is the very power of God to save. The goal isn't to become fearless people; it's to become people who value Jesus enough that fear doesn't get the final word."
             }
           ]
         },
@@ -309,23 +341,13 @@
           "segments": [
             {
               "type": "text",
-              "text": "Where does fear of rejection or judgment have the potential to keep you quiet about your faith? What would it look like to live \"unashamed\" of Jesus in that situation?"
-            }
-          ]
-        },
-        {
-          "id": "q-live-it-3",
-          "order": 3,
-          "segments": [
-            {
-              "type": "text",
               "text": "Who is one person in your everyday life that you could take a step toward this week by starting a conversation, sharing your story, inviting them somewhere, or simply being intentional about pointing them toward Jesus?"
             }
           ]
-        },
+        }
+      ],
+      "outro": [
         {
-          "id": "q-live-it-4",
-          "order": 4,
           "segments": [
             {
               "type": "text",

@@ -56,7 +56,17 @@
           "segments": [
             {
               "type": "text",
-              "text": "The Christian life is a continual journey of becoming more like Jesus. As we grow, we align our lives with God's heart and purposes."
+              "text": "What does alignment with God mean to you? What are you currently aiming your life toward, and how has that \"bullseye\" shifted over time?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "The Christian life is a continual journey of becoming more like Jesus. As we grow, we align our lives with God's heart and purposes."
+                }
+              ]
             }
           ]
         },
@@ -66,131 +76,119 @@
           "segments": [
             {
               "type": "text",
-              "text": "What does alignment with God mean to you? What are you currently aiming your life toward, and how has that \"bullseye\" shifted over time?"
-            }
-          ]
-        },
-        {
-          "id": "q-know-it-3",
-          "order": 3,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Read: "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Colossians 3:23",
-              "reference": {
-                "book": "Colossians",
-                "bookId": "COL",
-                "chapter": 3,
-                "verseStart": 23
-              },
-              "references": [
-                {
-                  "book": "Colossians",
-                  "bookId": "COL",
-                  "chapter": 3,
-                  "verseStart": 23
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ", "
-            },
-            {
-              "type": "scripture",
-              "displayText": "1 Corinthians 10:31",
-              "reference": {
-                "book": "1 Corinthians",
-                "bookId": "1CO",
-                "chapter": 10,
-                "verseStart": 31
-              },
-              "references": [
-                {
-                  "book": "1 Corinthians",
-                  "bookId": "1CO",
-                  "chapter": 10,
-                  "verseStart": 31
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ", "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Psalm 37:5",
-              "reference": {
-                "book": "Psalms",
-                "bookId": "PSA",
-                "chapter": 37,
-                "verseStart": 5
-              },
-              "references": [
-                {
-                  "book": "Psalms",
-                  "bookId": "PSA",
-                  "chapter": 37,
-                  "verseStart": 5
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ", "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Proverbs 16:3",
-              "reference": {
-                "book": "Proverbs",
-                "bookId": "PRO",
-                "chapter": 16,
-                "verseStart": 3
-              },
-              "references": [
-                {
-                  "book": "Proverbs",
-                  "bookId": "PRO",
-                  "chapter": 16,
-                  "verseStart": 3
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": "."
-            }
-          ]
-        },
-        {
-          "id": "q-know-it-4",
-          "order": 4,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Following Jesus is personal, but it was never meant to be lived alone. When the church is aligned around Jesus and His purposes, something begins to overflow into the way we live."
-            }
-          ]
-        },
-        {
-          "id": "q-know-it-5",
-          "order": 5,
-          "segments": [
-            {
-              "type": "text",
               "text": "When a church is truly aligned together around Jesus, what do you think naturally overflows from that community?"
             }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Colossians 3:23",
+                  "reference": {
+                    "book": "Colossians",
+                    "bookId": "COL",
+                    "chapter": 3,
+                    "verseStart": 23
+                  },
+                  "references": [
+                    {
+                      "book": "Colossians",
+                      "bookId": "COL",
+                      "chapter": 3,
+                      "verseStart": 23
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "1 Corinthians 10:31",
+                  "reference": {
+                    "book": "1 Corinthians",
+                    "bookId": "1CO",
+                    "chapter": 10,
+                    "verseStart": 31
+                  },
+                  "references": [
+                    {
+                      "book": "1 Corinthians",
+                      "bookId": "1CO",
+                      "chapter": 10,
+                      "verseStart": 31
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Psalm 37:5",
+                  "reference": {
+                    "book": "Psalms",
+                    "bookId": "PSA",
+                    "chapter": 37,
+                    "verseStart": 5
+                  },
+                  "references": [
+                    {
+                      "book": "Psalms",
+                      "bookId": "PSA",
+                      "chapter": 37,
+                      "verseStart": 5
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Proverbs 16:3",
+                  "reference": {
+                    "book": "Proverbs",
+                    "bookId": "PRO",
+                    "chapter": 16,
+                    "verseStart": 3
+                  },
+                  "references": [
+                    {
+                      "book": "Proverbs",
+                      "bookId": "PRO",
+                      "chapter": 16,
+                      "verseStart": 3
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Following Jesus is personal, but it was never meant to be lived alone. When the church is aligned around Jesus and His purposes, something begins to overflow into the way we live."
+                }
+              ]
+            }
           ]
-        },
+        }
+      ],
+      "outro": [
         {
-          "id": "q-know-it-6",
-          "order": 6,
           "segments": [
             {
               "type": "text",
@@ -279,72 +277,92 @@
           "segments": [
             {
               "type": "text",
-              "text": "Read: "
-            },
+              "text": "What moves your heart? What needs or people stir something in you?"
+            }
+          ],
+          "lead": [
             {
-              "type": "scripture",
-              "displayText": "Colossians 3:1-4",
-              "reference": {
-                "book": "Colossians",
-                "bookId": "COL",
-                "chapter": 3,
-                "verseStart": 1,
-                "verseEnd": 4
-              },
-              "references": [
+              "segments": [
                 {
-                  "book": "Colossians",
-                  "bookId": "COL",
-                  "chapter": 3,
-                  "verseStart": 1,
-                  "verseEnd": 4
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ", "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Matthew 6:33, 9:36, 22:37-40",
-              "reference": {
-                "book": "Matthew",
-                "bookId": "MAT",
-                "chapter": 6,
-                "verseStart": 33
-              },
-              "references": [
-                {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 6,
-                  "verseStart": 33
+                  "type": "text",
+                  "text": "Read: "
                 },
                 {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 9,
-                  "verseStart": 36
+                  "type": "scripture",
+                  "displayText": "Colossians 3:1-4",
+                  "reference": {
+                    "book": "Colossians",
+                    "bookId": "COL",
+                    "chapter": 3,
+                    "verseStart": 1,
+                    "verseEnd": 4
+                  },
+                  "references": [
+                    {
+                      "book": "Colossians",
+                      "bookId": "COL",
+                      "chapter": 3,
+                      "verseStart": 1,
+                      "verseEnd": 4
+                    }
+                  ]
                 },
                 {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 22,
-                  "verseStart": 37,
-                  "verseEnd": 40
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 6:33, 9:36, 22:37-40",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 6,
+                    "verseStart": 33
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 6,
+                      "verseStart": 33
+                    },
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 9,
+                      "verseStart": 36
+                    },
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 22,
+                      "verseStart": 37,
+                      "verseEnd": 40
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " When God brings alignment to our vision, it naturally overflows into mission. We fix our eyes on things above while putting our hands and feet to work for the people around us."
                 }
               ]
-            },
-            {
-              "type": "text",
-              "text": " When God brings alignment to our vision, it naturally overflows into mission. We fix our eyes on things above while putting our hands and feet to work for the people around us. What moves your heart? What needs or people stir something in you? Why is it important to seek God first before deciding what to pursue? How does consulting Him keep our vision aligned with His?"
             }
           ]
         },
         {
           "id": "q-share-it-2",
           "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Why is it important to seek God first before deciding what to pursue? How does consulting Him keep our vision aligned with His?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
           "segments": [
             {
               "type": "text",
@@ -385,7 +403,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "What feels out of alignment in my life right now? What would it look like to realign it with God in a healthy way?"
+              "text": "What feels out of alignment in my life right now?"
             }
           ]
         },
@@ -395,7 +413,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "Application is a key part of spiritual growth. Finish this sentence and carry it with you throughout the week:"
+              "text": "What would it look like to realign it with God in a healthy way?"
             }
           ]
         },
@@ -407,6 +425,16 @@
               "type": "text",
               "text": "This week, I am aligning ____________________ with God's vision."
             }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Application is a key part of spiritual growth. Finish this sentence and carry it with you throughout the week:"
+                }
+              ]
+            }
           ]
         }
       ]
@@ -415,18 +443,8 @@
       "id": "sec-guided-prayer",
       "title": "GUIDED PRAYER",
       "order": 5,
-      "questions": [
-        {
-          "id": "q-guided-prayer-1",
-          "order": 1,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Jesus, break my heart for what breaks Yours. As You piece it back together, align my heart with Your love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Help me see others the way You do. Grow my capacity to love as You love. And as You align our Crew together this fall, help us serve Your people in tangible ways. In Jesus' name, amen."
-            }
-          ]
-        }
-      ]
+      "body": "Jesus, break my heart for what breaks Yours. As You piece it back together, align my heart with Your love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Help me see others the way You do. Grow my capacity to love as You love. And as You align our Crew together this fall, help us serve Your people in tangible ways. In Jesus' name, amen.",
+      "bodyScriptureRefs": []
     }
   ],
   "pullQuote": null,
