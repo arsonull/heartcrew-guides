@@ -22,6 +22,16 @@
               "text": "If you could spend an hour learning from any person in history, who would you choose and why?"
             }
           ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Looking back at your notes from this week's teaching, was there anything that particularly caught your attention, challenged you, or confused you?"
+            }
+          ]
         }
       ]
     },
@@ -36,7 +46,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "Looking back at your notes from this week's teaching, was there anything that particularly caught your attention, challenged you, or confused you?"
+              "text": "Which beatitude resonates with you most in this season you are currently in? What makes it stand out and why?"
             }
           ],
           "lead": [
@@ -75,19 +85,7 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "q-know-it-2",
-          "order": 2,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Which beatitude resonates with you most in this season you are currently in? What makes it stand out and why?"
-            }
-          ],
-          "lead": [
+            },
             {
               "segments": [
                 {
