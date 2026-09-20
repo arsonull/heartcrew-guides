@@ -1,0 +1,422 @@
+{
+  "id": "2026-09-19-when-faith-starts-feeling-like-a-checklist-heart-crew-guide",
+  "date": "2026-09-19",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "When Faith Starts Feeling Like A Checklist",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is something small that brightens your day?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "If someone followed you around for a week, what do you think they would learn about what you value?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "When you hear that you are called to be salt and light, do you immediately receive that as your identity? What makes it challenging to fully embrace?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 5:13-16",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 5,
+                    "verseStart": 13,
+                    "verseEnd": 16
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 5,
+                      "verseStart": 13,
+                      "verseEnd": 16
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "This passage reminds us that we are the salt and light of the world. Light is meant to be seen, not hidden, and the darkness cannot overcome it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who is someone you have seen live in a way that clearly reflects the light of Christ and brings glory to our Father in heaven?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Focus on "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 5:16",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 5,
+                    "verseStart": 16
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 5,
+                      "verseStart": 16
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Jesus says that our light is meant to shine before others. Our lives are not meant to point attention back to ourselves, but to bring glory to our Father in heaven."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How have you seen that same light at work in your own life?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is the difference between simply doing the right things and allowing Jesus to transform who we are on the inside?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 5:17-20",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 5,
+                    "verseStart": 17,
+                    "verseEnd": 20
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 5,
+                      "verseStart": 17,
+                      "verseEnd": 20
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus' words about a righteousness that surpasses that of the Pharisees would have immediately caught the attention of His listeners. The Pharisees had devoted their lives to observing the law, yet Jesus revealed that something deeper was missing. Righteousness is not simply about doing right, but about being made right and transformed from the inside out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Where is one area where you sense Jesus inviting you to move beyond simply doing the right thing and allow Him to transform your heart behind it?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 23:23-28",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 23,
+                    "verseStart": 23,
+                    "verseEnd": 28
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 23,
+                      "verseStart": 23,
+                      "verseEnd": 28
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Not only is this an upside-down kingdom, but it's also inside-out. Jesus exposes what happens when outward righteousness becomes disconnected from the heart. We are not called to behavior modification. Jesus invites us into a transformed heart that naturally begins to shape the way we live, serve, speak, and love. The \"pure in heart\" overflows into right actions. Right actions alone do not necessarily reveal a transformed heart."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Can you think of a time when serving someone changed something in your own heart? What did you notice?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "In light of "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 22",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 22
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 22
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", read "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Luke 10:25-37",
+              "reference": {
+                "book": "Luke",
+                "bookId": "LUK",
+                "chapter": 10,
+                "verseStart": 25,
+                "verseEnd": 37
+              },
+              "references": [
+                {
+                  "book": "Luke",
+                  "bookId": "LUK",
+                  "chapter": 10,
+                  "verseStart": 25,
+                  "verseEnd": 37
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Jesus expands the"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 22:37-40",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 22,
+                    "verseStart": 37,
+                    "verseEnd": 40
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 22,
+                      "verseStart": 37,
+                      "verseEnd": 40
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus brings the Law and the Prophets back to two simple, yet deeply challenging commands: love God and love your neighbor."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "As you read this passage, what stands out to you about loving your neighbor?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "conversation about what it means to love our neighbor, inviting us to look beyond a narrow definition and consider what this love actually looks like."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who is your neighbor? Are there people you naturally overlook, avoid, or have a hard time loving?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What might loving your neighbor look like in your everyday life this week?"
+            }
+          ]
+        }
+      ],
+      "outro": [
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "This week, choose one neighbor to intentionally love. Write their name down, pray for them, and ask God to show you one practical way to move toward them."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://phc.events/api/mp/files/1b788e6d-0633-45c1-b59b-c05058f9cf22",
+  "videoUrl": "https://www.youtube.com/watch?v=0AaPOUQXJUY&t=52s"
+}
