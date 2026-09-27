@@ -1,0 +1,378 @@
+{
+  "id": "2026-09-26-the-anger-you-don-t-call-anger-heart-crew-guide",
+  "date": "2026-09-26",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "The Anger You Don't Call Anger",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Choose one as a group:"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is one harmless opinion you have that you will defend way more passionately than it deserves-pineapple on pizza, the \"right\" way to load a dishwasher, sports teams, coffee, movies?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "When you are frustrated but trying not to say it out loud, what gives it away first: your face, your sigh, your tone, your silence, or something else?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "JOIN A CREW!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 5:21-22",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 5,
+                "verseStart": 21,
+                "verseEnd": 22
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 5,
+                  "verseStart": 21,
+                  "verseEnd": 22
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Jesus connects murder, anger, and contempt-not because they carry identical consequences, but because they can grow from the same heart posture. What do you notice about what Jesus is trying to bring to our attention?"
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How does remembering God's patience and forgiveness toward us reframe the way we see someone who has hurt, disappointed, or frustrated us?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Psalm 103:8",
+                  "reference": {
+                    "book": "Psalms",
+                    "bookId": "PSA",
+                    "chapter": 103,
+                    "verseStart": 8
+                  },
+                  "references": [
+                    {
+                      "book": "Psalms",
+                      "bookId": "PSA",
+                      "chapter": 103,
+                      "verseStart": 8
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " This passage describes God as compassionate and merciful, slow to get angry and filled with unfailing love."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is the difference between forgiving someone and minimizing what they did?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What could it look like to \"do all that you can to live at peace\" this week-through prayer, seeking Scripture, wise counsel, an apology, a clarifying conversation, forgiveness, or a boundary?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 5:23-24",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 5,
+                    "verseStart": 23,
+                    "verseEnd": 24
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 5,
+                      "verseStart": 23,
+                      "verseEnd": 24
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " and "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Romans 12:18",
+                  "reference": {
+                    "book": "Romans",
+                    "bookId": "ROM",
+                    "chapter": 12,
+                    "verseStart": 18
+                  },
+                  "references": [
+                    {
+                      "book": "Romans",
+                      "bookId": "ROM",
+                      "chapter": 12,
+                      "verseStart": 18
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How does the phrase \"as far as it depends on you\" bring both responsibility and freedom?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "If you've seen God help you move from anger or contempt toward forgiveness, compassion, or peace, what helped you get there?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who has God placed in your life that needs to be invited into this new life with Jesus?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Colossians 3:11-15",
+                  "reference": {
+                    "book": "Colossians",
+                    "bookId": "COL",
+                    "chapter": 3,
+                    "verseStart": 11,
+                    "verseEnd": 15
+                  },
+                  "references": [
+                    {
+                      "book": "Colossians",
+                      "bookId": "COL",
+                      "chapter": 3,
+                      "verseStart": 11,
+                      "verseEnd": 15
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "scripture",
+                  "displayText": "Colossians 3:11-15",
+                  "reference": {
+                    "book": "Colossians",
+                    "bookId": "COL",
+                    "chapter": 3,
+                    "verseStart": 11,
+                    "verseEnd": 15
+                  },
+                  "references": [
+                    {
+                      "book": "Colossians",
+                      "bookId": "COL",
+                      "chapter": 3,
+                      "verseStart": 11,
+                      "verseEnd": 15
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " reminds us that we're living a new kind of life-one where Jesus' way matters most. We're called to clothe ourselves with compassion, kindness, humility, gentleness, and patience, bearing with and forgiving one another. And over all of it, Paul says, put on love and let the peace of Christ rule in our hearts. This is the upside-down life Jesus calls us to live with one another-a life shaped by love, forgiveness, and peace."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Peace with people is valuable, however peace with God is the ultimate need of the human heart."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "outro": [
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "Begin praying that God would give you the courage and the opportunity to invite them to church, to coffee, or to your crew this week!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is one area you sense Jesus inviting you to release to Him in the area of anger? How can really living this out change the way others see God reflected in you?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "We've been talking about Jesus' upside-down Kingdom and how when we truly live His way, it looks radically different from what we might expect. It's a Kingdom where the first are last, the poor are rich, the humble are lifted up, and anger gives way to real peace."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "outro": [
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "This week, ask God to bring to mind one person you need to intentionally forgive and release from what they owe you. Write their name down and pray for them each time you think of them. As you pray, if you have areas of anger, unforgiveness, or bitterness that come to mind, ask God to keep your heart soft, and give you His perspective and peace in your situation."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://phc.events/api/mp/files/1b3561f0-5e1d-4be9-ae5e-45b9da83939f",
+  "videoUrl": "https://www.youtube.com/watch?v=0AaPOUQXJUY"
+}

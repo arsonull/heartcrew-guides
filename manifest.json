@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-26T17:08:52.643Z",
+  "generatedAt": "2026-09-27T17:43:58.290Z",
   "guides": [
+    {
+      "id": "2026-09-26-the-anger-you-don-t-call-anger-heart-crew-guide",
+      "sermonLinkId": 1329,
+      "sermonId": 537,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-09-26",
+      "sermonTitle": "The Anger You Don't Call Anger",
+      "sermonSubtitle": "Week 3",
+      "seriesTitle": "Upside Down",
+      "thumbnailUrl": "https://phc.events/api/mp/files/1a112edc-df21-4f9e-bf24-4107ec9520ad",
+      "videoUrl": "https://www.youtube.com/watch?v=0AaPOUQXJUY",
+      "warnings": 1
+    },
     {
       "id": "2026-09-19-when-faith-starts-feeling-like-a-checklist-heart-crew-guide",
       "sermonLinkId": 1326,
@@ -176,22 +192,6 @@
       "thumbnailUrl": "https://phc.events/api/mp/files/4cb3bac7-c6ac-4ae9-aede-7d66843c46f9",
       "videoUrl": "https://www.youtube.com/watch?v=DVbT4hMNr54",
       "warnings": 12
-    },
-    {
-      "id": "2026-07-11-why-are-you-hiding-peoria-crew-guide",
-      "sermonLinkId": 1286,
-      "sermonId": 526,
-      "linkTypeId": 8,
-      "linkTypeKey": "peoria-crew-guide",
-      "campus": "Peoria",
-      "kind": "crew-guide",
-      "sermonDate": "2026-07-11",
-      "sermonTitle": "Why Are You Hiding?",
-      "sermonSubtitle": null,
-      "seriesTitle": "Why Are You Hiding?",
-      "thumbnailUrl": "https://phc.events/api/mp/files/e2b1a9c2-0cdc-4c63-9827-3a32644e6305",
-      "videoUrl": "https://www.youtube.com/watch?v=iszXt1bB2_A",
-      "warnings": 6
     }
   ],
   "failed": []
