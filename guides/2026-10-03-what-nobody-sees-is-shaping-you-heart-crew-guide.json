@@ -1,0 +1,430 @@
+{
+  "id": "2026-10-03-what-nobody-sees-is-shaping-you-heart-crew-guide",
+  "date": "2026-10-03",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "What Nobody Sees Is Shaping You",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Disclaimer for Families:"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Love Our Schools Day"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "This conversation includes open discussion of scripture around relationships, sexuality, and other mature topics. Please use discretion with young children and care for one another in the conversation."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "What makes a relationship feel safe and trustworthy to you?"
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "When life gets hard, what is your go-to way of processing things: talking, praying, being alone, going for a walk, creating something, etc.?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What do you notice about the language Jesus uses?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 5:27-30",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 5,
+                    "verseStart": 27,
+                    "verseEnd": 30
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 5,
+                      "verseStart": 27,
+                      "verseEnd": 30
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus doesn't shy away from hard or deeply personal subjects. He goes beneath outward actions and speaks to what is happening within our hearts."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "He connects lust, adultery, and desire, reminding us that following Jesus isn't simply about knowing where the line is. It's about allowing Him to transform our hearts, our desires, and the way we see others."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "If Jesus invites us to make intentional changes for the sake of freedom, what is one thing you could remove, change, or create a boundary around this week?"
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What do you regularly take in that helps turn your heart toward God and bring His peace?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 6:22-23",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 6,
+                    "verseStart": 22,
+                    "verseEnd": 23
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 6,
+                      "verseStart": 22,
+                      "verseEnd": 23
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus reminds us that what we give our attention to can shape what is happening within us. What we continually look at, listen to, and take in can slowly form our hearts."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Not everything we enjoy is harmful, but what we consistently give our attention to can disciple us, for better or worse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Is there something you regularly consume that God may be inviting you to pay attention to or pray about?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What do you think Jesus is protecting or pointing toward in these words?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 5:31-32",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 5,
+                    "verseStart": 31,
+                    "verseEnd": 32
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 5,
+                      "verseStart": 31,
+                      "verseEnd": 32
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus continues by addressing the reality of divorce, a subject that carries both weight and pain. His words remind us that marriage, covenant, and the way we treat one another matter deeply to God."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What do you notice about Jesus' response to her?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "John 8:1-11",
+                  "reference": {
+                    "book": "John",
+                    "bookId": "JHN",
+                    "chapter": 8,
+                    "verseStart": 1,
+                    "verseEnd": 11
+                  },
+                  "references": [
+                    {
+                      "book": "John",
+                      "bookId": "JHN",
+                      "chapter": 8,
+                      "verseStart": 1,
+                      "verseEnd": 11
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "This woman is brought before Jesus publicly, exposed and shamed by people who are more concerned with proving a point than protecting her dignity. Jesus doesn't ignore her sin, but He also refuses to reduce her to it."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "He meets her with both grace and truth. He removes condemnation and then invites her into a different way of living."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How can we, as a church, reflect Jesus by honoring the beauty of covenant while still walking with grace and mercy alongside those who have experienced real brokenness?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "If you keep feeding what you're feeding right now, in the dark or light, who are you becoming?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "1 John 1:5-10",
+                  "reference": {
+                    "book": "1 John",
+                    "bookId": "1JN",
+                    "chapter": 1,
+                    "verseStart": 5,
+                    "verseEnd": 10
+                  },
+                  "references": [
+                    {
+                      "book": "1 John",
+                      "bookId": "1JN",
+                      "chapter": 1,
+                      "verseStart": 5,
+                      "verseEnd": 10
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus can receive our desires, struggles, and the things we've tried to keep hidden. The answer isn't more shame, but bringing what is hidden into the light and trusting that He is faithful to forgive and restore."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What we feed in secret eventually shapes how we love in public."
+            }
+          ]
+        }
+      ],
+      "outro": [
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "The gospel is not that clean people are welcomed by Jesus. It's that Jesus makes unclean people clean. He moves toward the ashamed and the exposed. He doesn't excuse what is hurting us, but He doesn't abandon us in it either."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "Jesus loves you enough to meet you in the mess and loves you too much to leave you there."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "Reflect: Jesus, what have I been feeding in secret? What do You want me to bring into the light? What is one step I can take this week toward Your freedom and life?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://www.pureheart.org/wp-content/uploads/2026/10/CrewGuide_Oct-3-4_Matt5_27-32.pdf",
+  "videoUrl": "https://www.youtube.com/watch?v=AwKqd-RCYP4"
+}
