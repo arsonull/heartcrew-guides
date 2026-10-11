@@ -1,0 +1,352 @@
+{
+  "id": "2026-10-10-you-can-be-right-and-still-respond-wrong-heart-crew-guide",
+  "date": "2026-10-10",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "You Can Be Right And Still Respond Wrong",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Have you ever agreed to something and immediately wished you hadn't? What happened?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "We often hear the phrase, \"That's only fair.\" What does fairness look like to you?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Love Our Schools Day"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Have you ever said \"yes\" when you didn't really mean it? How might being more intentional with our \"yes\" and \"no\" affect the commitments we make?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 5:33-37",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 5,
+                    "verseStart": 33,
+                    "verseEnd": 37
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 5,
+                      "verseStart": 33,
+                      "verseEnd": 37
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Rather than simply telling us to honor our oaths, Jesus tells us not to swear oaths at all. Instead, let our \"yes\" be yes and our \"no\" be no."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "When we make an oath, what are we actually claiming? Why do you think Jesus tells us not to make them?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Now read "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 5:38-42",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 5,
+                "verseStart": 38,
+                "verseEnd": 42
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 5,
+                  "verseStart": 38,
+                  "verseEnd": 42
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Choosing not to retaliate can often feel like we're allowing the other person to \"get away with it.\" Jesus challenges that way of thinking. What might Jesus want us to understand here?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus challenges the idea of responding to wrong with \"equal\" retaliation. Instead, He tells us to turn the other cheek, go the extra mile, and to give more than is required."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Jesus doesn't ask us to pretend we haven't been hurt, but He does challenge how we respond when we are. What changes when someone else's actions no longer determine our response?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Jesus tells us to go a second mile when only one is required. How might choosing to go beyond what's expected impact those around us and shape who we are becoming?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-5",
+          "order": 5,
+          "segments": [
+            {
+              "type": "text",
+              "text": "When are you most likely to lose your filter or speak from frustration rather than wisdom?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "James 3:3-12",
+                  "reference": {
+                    "book": "James",
+                    "bookId": "JAS",
+                    "chapter": 3,
+                    "verseStart": 3,
+                    "verseEnd": 12
+                  },
+                  "references": [
+                    {
+                      "book": "James",
+                      "bookId": "JAS",
+                      "chapter": 3,
+                      "verseStart": 3,
+                      "verseEnd": 12
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Our words often reveal more of our hearts than we realize. James invites us to let what comes out of our mouths reflect who we are becoming on the inside."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-6",
+          "order": 6,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What would it look like to use your words to bring life into that situation?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What kind of culture are your words creating around you?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Philippians 2:14-15",
+                  "reference": {
+                    "book": "Philippians",
+                    "bookId": "PHP",
+                    "chapter": 2,
+                    "verseStart": 14,
+                    "verseEnd": 15
+                  },
+                  "references": [
+                    {
+                      "book": "Philippians",
+                      "bookId": "PHP",
+                      "chapter": 2,
+                      "verseStart": 14,
+                      "verseEnd": 15
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " & "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "2 Corinthians 12:9",
+                  "reference": {
+                    "book": "2 Corinthians",
+                    "bookId": "2CO",
+                    "chapter": 12,
+                    "verseStart": 9
+                  },
+                  "references": [
+                    {
+                      "book": "2 Corinthians",
+                      "bookId": "2CO",
+                      "chapter": 12,
+                      "verseStart": 9
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Our words shape more than we realize. They can create a culture of complaining or become a source of gratitude, encouragement, and trust. We will not get it right every time, but Jesus meets us in our weakness and continues forming us to reflect Him."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is one place where Jesus may be inviting you to replace complaining with gratitude, encouragement, or trust?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "This week, I will use words to bless ______________________ (someone you work with, family member, my family in Christ)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://www.pureheart.org/wp-content/uploads/2026/10/CrewGuide_Oct10_11-2.pdf",
+  "videoUrl": "https://www.youtube.com/watch?v=eMKIcvQBIyM"
+}
