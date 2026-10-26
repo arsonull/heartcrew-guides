@@ -1,0 +1,590 @@
+{
+  "id": "2026-10-24-you-did-everything-right-nobody-noticed-heart-crew-guide",
+  "date": "2026-10-24",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "You Did Everything Right Nobody Noticed.",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What is something you enjoy so much that it's hard to go without for a day?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Have you ever stepped away from something good for a season and discovered it was shaping you more than you realized?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Why do you think we sometimes find ourselves wanting recognition for doing something good, even when recognition wasn't our original motivation?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 6:1-4",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 6,
+                    "verseStart": 1,
+                    "verseEnd": 4
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 6,
+                      "verseStart": 1,
+                      "verseEnd": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "We all want to feel seen, valued, and appreciated by others. While there's nothing inherently wrong with that desire, Jesus challenges us to consider how our desire for recognition can influence not only what we do, but why we do it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What happens when we depend on others for recognition or appreciation that they may not always be able to give?"
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How might our desire for approval make it difficult to do what we believe is right when others disagree?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Proverbs 29:25-27",
+                  "reference": {
+                    "book": "Proverbs",
+                    "bookId": "PRO",
+                    "chapter": 29,
+                    "verseStart": 25,
+                    "verseEnd": 27
+                  },
+                  "references": [
+                    {
+                      "book": "Proverbs",
+                      "bookId": "PRO",
+                      "chapter": 29,
+                      "verseStart": 25,
+                      "verseEnd": 27
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "As people, we naturally desire the approval of others. It can give us a sense of belonging and security. Yet Jesus often challenged cultural expectations, even when doing so made Him unpopular."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What stands out to you about Jesus' instructions on fasting? Why do you think He emphasizes what the Father sees in secret?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 6:16-18",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 6,
+                    "verseStart": 16,
+                    "verseEnd": 18
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 6,
+                      "verseStart": 16,
+                      "verseEnd": 18
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus teaches that fasting isn't about being noticed by others, but about turning our attention toward our Father. Fasting helps us become aware of our appetites and reminds us that our deepest need is God Himself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How can fasting help us grow in our dependence on God rather than simply exercising self-control?"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "When reflecting on "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 6:2",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 6,
+                "verseStart": 2
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 6,
+                  "verseStart": 2
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " and "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 6:16-17",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 6,
+                "verseStart": 16,
+                "verseEnd": 17
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 6,
+                  "verseStart": 16,
+                  "verseEnd": 17
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", Jesus"
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What does this suggest about the regular rhythms of a Jesus follower, and how might recognizing these practices as a normal part of following Him change our priorities?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "says \"when you give\" and \"when you fast,\" rather than \"if.\""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How might choosing to do the next right thing, even when we don't feel like it, help us develop the kind of heart Jesus calls us to have?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Jeremiah 17:9",
+                  "reference": {
+                    "book": "Jeremiah",
+                    "bookId": "JER",
+                    "chapter": 17,
+                    "verseStart": 9
+                  },
+                  "references": [
+                    {
+                      "book": "Jeremiah",
+                      "bookId": "JER",
+                      "chapter": 17,
+                      "verseStart": 9
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " and "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Galatians 6:9",
+                  "reference": {
+                    "book": "Galatians",
+                    "bookId": "GAL",
+                    "chapter": 6,
+                    "verseStart": 9
+                  },
+                  "references": [
+                    {
+                      "book": "Galatians",
+                      "bookId": "GAL",
+                      "chapter": 6,
+                      "verseStart": 9
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "We don't always feel like praying, giving, or serving others. Yet faithfully practicing these things can help shape our hearts over time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Spiritual Disciplines:"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Which of these biblical practices do you feel could have the greatest impact on your spiritual growth right now, and why?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Scripture teaches us practical ways to strengthen our relationship with God and shape our hearts."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Consider the following: Prayer: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Philippians 4:6",
+                  "reference": {
+                    "book": "Philippians",
+                    "bookId": "PHP",
+                    "chapter": 4,
+                    "verseStart": 6
+                  },
+                  "references": [
+                    {
+                      "book": "Philippians",
+                      "bookId": "PHP",
+                      "chapter": 4,
+                      "verseStart": 6
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Studying and applying God's Word: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "James 1:22",
+                  "reference": {
+                    "book": "James",
+                    "bookId": "JAS",
+                    "chapter": 1,
+                    "verseStart": 22
+                  },
+                  "references": [
+                    {
+                      "book": "James",
+                      "bookId": "JAS",
+                      "chapter": 1,
+                      "verseStart": 22
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Fasting: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 6:16-18",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 6,
+                    "verseStart": 16,
+                    "verseEnd": 18
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 6,
+                      "verseStart": 16,
+                      "verseEnd": 18
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Generosity: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "2 Corinthians 9:7",
+                  "reference": {
+                    "book": "2 Corinthians",
+                    "bookId": "2CO",
+                    "chapter": 9,
+                    "verseStart": 7
+                  },
+                  "references": [
+                    {
+                      "book": "2 Corinthians",
+                      "bookId": "2CO",
+                      "chapter": 9,
+                      "verseStart": 7
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Serving others: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Galatians 5:13",
+                  "reference": {
+                    "book": "Galatians",
+                    "bookId": "GAL",
+                    "chapter": 5,
+                    "verseStart": 13
+                  },
+                  "references": [
+                    {
+                      "book": "Galatians",
+                      "bookId": "GAL",
+                      "chapter": 5,
+                      "verseStart": 13
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Silence and Solitude: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Mark 1:35",
+                  "reference": {
+                    "book": "Mark",
+                    "bookId": "MRK",
+                    "chapter": 1,
+                    "verseStart": 35
+                  },
+                  "references": [
+                    {
+                      "book": "Mark",
+                      "bookId": "MRK",
+                      "chapter": 1,
+                      "verseStart": 35
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Worship: "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "John 4:23-24",
+                  "reference": {
+                    "book": "John",
+                    "bookId": "JHN",
+                    "chapter": 4,
+                    "verseStart": 23,
+                    "verseEnd": 24
+                  },
+                  "references": [
+                    {
+                      "book": "John",
+                      "bookId": "JHN",
+                      "chapter": 4,
+                      "verseStart": 23,
+                      "verseEnd": 24
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "This week I am going to:"
+            }
+          ]
+        }
+      ],
+      "outro": [
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "Do something generous that no one sees. Spend time with God without posting about it."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://www.pureheart.org/files/heart-crew-guide",
+  "videoUrl": "https://www.youtube.com/watch?v=Mq-Fj1bVpzk"
+}

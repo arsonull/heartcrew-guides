@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-10-15T17:46:05.155Z",
+  "generatedAt": "2026-10-26T22:57:24.670Z",
   "guides": [
+    {
+      "id": "2026-10-24-you-did-everything-right-nobody-noticed-heart-crew-guide",
+      "sermonLinkId": 1347,
+      "sermonId": 541,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-10-24",
+      "sermonTitle": "You Did Everything Right Nobody Noticed.",
+      "sermonSubtitle": "Week 7",
+      "seriesTitle": "Upside Down",
+      "thumbnailUrl": "https://phc.events/api/mp/files/4d202bf8-2439-4f40-a87b-db2936dd5a1f",
+      "videoUrl": "https://www.youtube.com/watch?v=Mq-Fj1bVpzk",
+      "warnings": 1
+    },
+    {
+      "id": "2026-10-17-the-hardest-thing-jesus-ever-asked-us-to-do-heart-crew-guide",
+      "sermonLinkId": 1344,
+      "sermonId": 540,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-10-17",
+      "sermonTitle": "The Hardest Thing Jesus Ever Asked Us To Do",
+      "sermonSubtitle": "Week 6",
+      "seriesTitle": "Upside Down",
+      "thumbnailUrl": "https://phc.events/api/mp/files/48c12d90-e5f8-4533-b7e6-8d33ef365d35",
+      "videoUrl": "https://www.youtube.com/watch?v=GkM_O3XN9fo",
+      "warnings": 1
+    },
     {
       "id": "2026-10-10-you-can-be-right-and-still-respond-wrong-heart-crew-guide",
       "sermonLinkId": 1339,
@@ -160,38 +192,6 @@
       "thumbnailUrl": "https://phc.events/api/mp/files/2683fba4-e416-4d62-be20-ded60da31ad9",
       "videoUrl": "https://www.youtube.com/watch?v=je2v84yHnVc",
       "warnings": 9
-    },
-    {
-      "id": "2026-08-08-what-s-controlling-you-live-it-out",
-      "sermonLinkId": 1300,
-      "sermonId": 530,
-      "linkTypeId": 6,
-      "linkTypeKey": "live-it-out",
-      "campus": "Glendale",
-      "kind": "sermon-notes",
-      "sermonDate": "2026-08-08",
-      "sermonTitle": "What's Controlling You?",
-      "sermonSubtitle": null,
-      "seriesTitle": "What's Controlling You?",
-      "thumbnailUrl": "https://phc.events/api/mp/files/2683fba4-e416-4d62-be20-ded60da31ad9",
-      "videoUrl": "https://www.youtube.com/watch?v=je2v84yHnVc",
-      "warnings": 9
-    },
-    {
-      "id": "2026-08-01-you-have-it-too-live-it-out",
-      "sermonLinkId": 1296,
-      "sermonId": 529,
-      "linkTypeId": 6,
-      "linkTypeKey": "live-it-out",
-      "campus": "Glendale",
-      "kind": "sermon-notes",
-      "sermonDate": "2026-08-01",
-      "sermonTitle": "You Have It Too",
-      "sermonSubtitle": "Week 3",
-      "seriesTitle": "Mission In Motion",
-      "thumbnailUrl": "https://phc.events/api/mp/files/fe6e4f5d-c2a1-477d-8fdd-70231c91f452",
-      "videoUrl": "https://www.youtube.com/watch?v=8sxHooNjnkQ",
-      "warnings": 0
     }
   ],
   "failed": []

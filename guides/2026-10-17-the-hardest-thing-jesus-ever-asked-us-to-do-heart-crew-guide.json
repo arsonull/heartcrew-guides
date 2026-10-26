@@ -1,0 +1,443 @@
+{
+  "id": "2026-10-17-the-hardest-thing-jesus-ever-asked-us-to-do-heart-crew-guide",
+  "date": "2026-10-17",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "The Hardest Thing Jesus Ever Asked Us To Do",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who is someone in your life that is easy to love?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What makes them so easy to love?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Love Our Schools Day"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "We typically like to think of ourselves as easy to love, don't we? When is a time maybe you haven't been the easiest to love? How has God grown you since then?"
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "• What do you notice about God in these verses?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Romans 5:8-11",
+                  "reference": {
+                    "book": "Romans",
+                    "bookId": "ROM",
+                    "chapter": 5,
+                    "verseStart": 8,
+                    "verseEnd": 11
+                  },
+                  "references": [
+                    {
+                      "book": "Romans",
+                      "bookId": "ROM",
+                      "chapter": 5,
+                      "verseStart": 8,
+                      "verseEnd": 11
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " In verse 10 Paul says our friendship with God was restored by Jesus' death...while we were still His enemies! He goes on to remind us that it's only because of Jesus' death and resurrection we can be saved and enjoy friendship with God."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "1 John 4:7-11",
+                  "reference": {
+                    "book": "1 John",
+                    "bookId": "1JN",
+                    "chapter": 4,
+                    "verseStart": 7,
+                    "verseEnd": 11
+                  },
+                  "references": [
+                    {
+                      "book": "1 John",
+                      "bookId": "1JN",
+                      "chapter": 4,
+                      "verseStart": 7,
+                      "verseEnd": 11
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " God's love for you is proven by His ultimate act of love-sending Jesus into the world to die for you so that you could be brought into the family of God."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Exodus 34:6",
+                  "reference": {
+                    "book": "Exodus",
+                    "bookId": "EXO",
+                    "chapter": 34,
+                    "verseStart": 6
+                  },
+                  "references": [
+                    {
+                      "book": "Exodus",
+                      "bookId": "EXO",
+                      "chapter": 34,
+                      "verseStart": 6
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "1 John 3:1",
+                  "reference": {
+                    "book": "1 John",
+                    "bookId": "1JN",
+                    "chapter": 3,
+                    "verseStart": 1
+                  },
+                  "references": [
+                    {
+                      "book": "1 John",
+                      "bookId": "1JN",
+                      "chapter": 3,
+                      "verseStart": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 5:44",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 5,
+                    "verseStart": 44
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 5,
+                      "verseStart": 44
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", and "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "John 13:34-35",
+                  "reference": {
+                    "book": "John",
+                    "bookId": "JHN",
+                    "chapter": 13,
+                    "verseStart": 34,
+                    "verseEnd": 35
+                  },
+                  "references": [
+                    {
+                      "book": "John",
+                      "bookId": "JHN",
+                      "chapter": 13,
+                      "verseStart": 34,
+                      "verseEnd": 35
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "• What do you notice about the kind of people we become when we allow Him to truly transform our hearts?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "• What does it look like to move beyond simply saying we love someone to demonstrating that love through our actions?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "1 John 3:16-18",
+                  "reference": {
+                    "book": "1 John",
+                    "bookId": "1JN",
+                    "chapter": 3,
+                    "verseStart": 16,
+                    "verseEnd": 18
+                  },
+                  "references": [
+                    {
+                      "book": "1 John",
+                      "bookId": "1JN",
+                      "chapter": 3,
+                      "verseStart": 16,
+                      "verseEnd": 18
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "• What's one characteristic or approach you have put into practice to love more like the Father does?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "We sometimes treat love as transactional, showing it to those who love us back, behave the way we want, or seem deserving of it. But Jesus calls us to love as our Heavenly Father loves us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "• What might it look like for love to become part of our character rather than simply something we choose to demonstrate when it feels natural?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 5:48",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 5,
+                    "verseStart": 48
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 5,
+                      "verseStart": 48
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "When Jesus says to be perfect as our Heavenly Father is perfect, the Greek word for \"perfect\" there is teleios and carries the idea of wholeness and completeness. Jesus calls His people beyond selective, external rule-keeping into a whole-hearted life that mirrors the Father's love-even toward people who do not deserve it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "• Is there something in your life that once felt impossible until Jesus transformed your heart? What areas might He still be inviting you to allow Him to transform?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Sometimes finding peace, reconciling a strained relationship, or letting go of a past hurt can feel impossible. But when Jesus transforms our hearts, He changes what's possible. Love for enemies is a marker of our hearts being transformed by the love of God."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "• When loving someone doesn't come naturally, what can help us choose love rather than simply react to our feelings?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "• What are some practical ways we can demonstrate love toward someone, even when we don't feel particularly loving toward them?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "• What might loving someone from a distance look like? How can we tell when distance is wise versus when we're simply avoiding someone who's difficult to love?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus doesn't call us to be naive. Sometimes it's necessary to love others from a distance."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-taking-it-home",
+      "title": "TAKING IT HOME",
+      "order": 5,
+      "body": "Think of someone you find difficult to love. For the next seven days, intentionally pray for them. Ask God to bless them, to heal what is broken in their life, and help you to see them as He does. If you find it difficult to know how to pray for them, consider making a list of good things you want for them, then pray for those things each night!",
+      "bodyScriptureRefs": []
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://heart-crew-guide.vercel.app/2026-10-17",
+  "videoUrl": "https://www.youtube.com/watch?v=GkM_O3XN9fo"
+}
