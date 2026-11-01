@@ -19,7 +19,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "What is something you enjoy so much that it's hard to go without for a day?"
+              "text": "Is there a first prayer you remember learning? How did this impact your view of God?"
             }
           ]
         },
@@ -29,7 +29,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "Have you ever stepped away from something good for a season and discovered it was shaping you more than you realized?"
+              "text": "Looking back at this week's notes, was there anything that particularly caught your attention, challenged, or confused you?"
             }
           ]
         }
@@ -46,7 +46,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "Why do you think we sometimes find ourselves wanting recognition for doing something good, even when recognition wasn't our original motivation?"
+              "text": "Is this something you've experienced?"
             }
           ],
           "lead": [
@@ -58,23 +58,51 @@
                 },
                 {
                   "type": "scripture",
-                  "displayText": "Matthew 6:1-4",
+                  "displayText": "Matthew 6:5-13",
                   "reference": {
                     "book": "Matthew",
                     "bookId": "MAT",
                     "chapter": 6,
-                    "verseStart": 1,
-                    "verseEnd": 4
+                    "verseStart": 5,
+                    "verseEnd": 13
                   },
                   "references": [
                     {
                       "book": "Matthew",
                       "bookId": "MAT",
                       "chapter": 6,
-                      "verseStart": 1,
-                      "verseEnd": 4
+                      "verseStart": 5,
+                      "verseEnd": 13
                     }
                   ]
+                },
+                {
+                  "type": "text",
+                  "text": " and "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Romans 8:15-16",
+                  "reference": {
+                    "book": "Romans",
+                    "bookId": "ROM",
+                    "chapter": 8,
+                    "verseStart": 15,
+                    "verseEnd": 16
+                  },
+                  "references": [
+                    {
+                      "book": "Romans",
+                      "bookId": "ROM",
+                      "chapter": 8,
+                      "verseStart": 15,
+                      "verseEnd": 16
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
                 }
               ]
             },
@@ -82,7 +110,7 @@
               "segments": [
                 {
                   "type": "text",
-                  "text": "We all want to feel seen, valued, and appreciated by others. While there's nothing inherently wrong with that desire, Jesus challenges us to consider how our desire for recognition can influence not only what we do, but why we do it."
+                  "text": "Jesus teaches us to address God as our Father, and Paul tells us we can cry out to Him as \"Abba, Father.\" Yet many of us struggle to approach God with that kind of closeness."
                 }
               ]
             }
@@ -94,7 +122,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "What happens when we depend on others for recognition or appreciation that they may not always be able to give?"
+              "text": "What do you think makes it difficult?"
             }
           ]
         },
@@ -104,7 +132,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "How might our desire for approval make it difficult to do what we believe is right when others disagree?"
+              "text": "Why do you think He chose this language, and how might it change the way we think and pray?"
             }
           ],
           "lead": [
@@ -112,35 +140,27 @@
               "segments": [
                 {
                   "type": "text",
-                  "text": "Read "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "Proverbs 29:25-27",
-                  "reference": {
-                    "book": "Proverbs",
-                    "bookId": "PRO",
-                    "chapter": 29,
-                    "verseStart": 25,
-                    "verseEnd": 27
-                  },
-                  "references": [
-                    {
-                      "book": "Proverbs",
-                      "bookId": "PRO",
-                      "chapter": 29,
-                      "verseStart": 25,
-                      "verseEnd": 27
-                    }
-                  ]
+                  "text": "Jesus teaches His disciples to pray using \"our\" and \"us,\" rather than \"my\" and \"me.\""
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Have you ever felt this pressure? How has it affected your willingness to pray?"
+            }
+          ],
+          "lead": [
             {
               "segments": [
                 {
                   "type": "text",
-                  "text": "As people, we naturally desire the approval of others. It can give us a sense of belonging and security. Yet Jesus often challenged cultural expectations, even when doing so made Him unpopular."
+                  "text": "It's easy to judge our own prayers as though they were a performance, especially when we find ourselves measuring them against others' prayers."
                 }
               ]
             }
@@ -159,7 +179,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "What stands out to you about Jesus' instructions on fasting? Why do you think He emphasizes what the Father sees in secret?"
+              "text": "How might understanding prayer this way change our approach to it?"
             }
           ],
           "lead": [
@@ -167,35 +187,7 @@
               "segments": [
                 {
                   "type": "text",
-                  "text": "Read "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "Matthew 6:16-18",
-                  "reference": {
-                    "book": "Matthew",
-                    "bookId": "MAT",
-                    "chapter": 6,
-                    "verseStart": 16,
-                    "verseEnd": 18
-                  },
-                  "references": [
-                    {
-                      "book": "Matthew",
-                      "bookId": "MAT",
-                      "chapter": 6,
-                      "verseStart": 16,
-                      "verseEnd": 18
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "Jesus teaches that fasting isn't about being noticed by others, but about turning our attention toward our Father. Fasting helps us become aware of our appetites and reminds us that our deepest need is God Himself."
+                  "text": "Prayer is often seen as an obligation, a daily box to check between tasks. But Scripture reveals God as our loving Father who invites us to commune with Him. Prayer is us stepping into that invitation."
                 }
               ]
             }
@@ -207,7 +199,17 @@
           "segments": [
             {
               "type": "text",
-              "text": "How can fasting help us grow in our dependence on God rather than simply exercising self-control?"
+              "text": "What does this suggest about the things we can bring to God in prayer? Are there things you personally hesitate to pray about? Why?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "When teaching His disciples to pray, Jesus included something as ordinary as daily bread."
+                }
+              ]
             }
           ]
         },
@@ -217,63 +219,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "When reflecting on "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Matthew 6:2",
-              "reference": {
-                "book": "Matthew",
-                "bookId": "MAT",
-                "chapter": 6,
-                "verseStart": 2
-              },
-              "references": [
-                {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 6,
-                  "verseStart": 2
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": " and "
-            },
-            {
-              "type": "scripture",
-              "displayText": "Matthew 6:16-17",
-              "reference": {
-                "book": "Matthew",
-                "bookId": "MAT",
-                "chapter": 6,
-                "verseStart": 16,
-                "verseEnd": 17
-              },
-              "references": [
-                {
-                  "book": "Matthew",
-                  "bookId": "MAT",
-                  "chapter": 6,
-                  "verseStart": 16,
-                  "verseEnd": 17
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ", Jesus"
-            }
-          ]
-        },
-        {
-          "id": "q-share-it-4",
-          "order": 4,
-          "segments": [
-            {
-              "type": "text",
-              "text": "What does this suggest about the regular rhythms of a Jesus follower, and how might recognizing these practices as a normal part of following Him change our priorities?"
+              "text": "Knowing this, why do you think Jesus still teaches us to pray?"
             }
           ],
           "lead": [
@@ -281,7 +227,29 @@
               "segments": [
                 {
                   "type": "text",
-                  "text": "says \"when you give\" and \"when you fast,\" rather than \"if.\""
+                  "text": "In "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 6:8",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 6,
+                    "verseStart": 8
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 6,
+                      "verseStart": 8
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", Jesus says our Father knows what we need before we ask Him."
                 }
               ]
             }
@@ -300,7 +268,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "How might choosing to do the next right thing, even when we don't feel like it, help us develop the kind of heart Jesus calls us to have?"
+              "text": "What might it look like to do this regularly throughout the ordinary moments of our day?"
             }
           ],
           "lead": [
@@ -312,41 +280,21 @@
                 },
                 {
                   "type": "scripture",
-                  "displayText": "Jeremiah 17:9",
+                  "displayText": "Philippians 4:6-7",
                   "reference": {
-                    "book": "Jeremiah",
-                    "bookId": "JER",
-                    "chapter": 17,
-                    "verseStart": 9
+                    "book": "Philippians",
+                    "bookId": "PHP",
+                    "chapter": 4,
+                    "verseStart": 6,
+                    "verseEnd": 7
                   },
                   "references": [
                     {
-                      "book": "Jeremiah",
-                      "bookId": "JER",
-                      "chapter": 17,
-                      "verseStart": 9
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " and "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "Galatians 6:9",
-                  "reference": {
-                    "book": "Galatians",
-                    "bookId": "GAL",
-                    "chapter": 6,
-                    "verseStart": 9
-                  },
-                  "references": [
-                    {
-                      "book": "Galatians",
-                      "bookId": "GAL",
-                      "chapter": 6,
-                      "verseStart": 9
+                      "book": "Philippians",
+                      "bookId": "PHP",
+                      "chapter": 4,
+                      "verseStart": 6,
+                      "verseEnd": 7
                     }
                   ]
                 },
@@ -360,7 +308,7 @@
               "segments": [
                 {
                   "type": "text",
-                  "text": "We don't always feel like praying, giving, or serving others. Yet faithfully practicing these things can help shape our hearts over time."
+                  "text": "Paul encourages us to bring everything to God in prayer."
                 }
               ]
             }
@@ -372,199 +320,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "Spiritual Disciplines:"
-            }
-          ]
-        },
-        {
-          "id": "q-live-it-3",
-          "order": 3,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Which of these biblical practices do you feel could have the greatest impact on your spiritual growth right now, and why?"
-            }
-          ],
-          "lead": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "Scripture teaches us practical ways to strengthen our relationship with God and shape our hearts."
-                }
-              ]
-            },
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "Consider the following: Prayer: "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "Philippians 4:6",
-                  "reference": {
-                    "book": "Philippians",
-                    "bookId": "PHP",
-                    "chapter": 4,
-                    "verseStart": 6
-                  },
-                  "references": [
-                    {
-                      "book": "Philippians",
-                      "bookId": "PHP",
-                      "chapter": 4,
-                      "verseStart": 6
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Studying and applying God's Word: "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "James 1:22",
-                  "reference": {
-                    "book": "James",
-                    "bookId": "JAS",
-                    "chapter": 1,
-                    "verseStart": 22
-                  },
-                  "references": [
-                    {
-                      "book": "James",
-                      "bookId": "JAS",
-                      "chapter": 1,
-                      "verseStart": 22
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Fasting: "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "Matthew 6:16-18",
-                  "reference": {
-                    "book": "Matthew",
-                    "bookId": "MAT",
-                    "chapter": 6,
-                    "verseStart": 16,
-                    "verseEnd": 18
-                  },
-                  "references": [
-                    {
-                      "book": "Matthew",
-                      "bookId": "MAT",
-                      "chapter": 6,
-                      "verseStart": 16,
-                      "verseEnd": 18
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Generosity: "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "2 Corinthians 9:7",
-                  "reference": {
-                    "book": "2 Corinthians",
-                    "bookId": "2CO",
-                    "chapter": 9,
-                    "verseStart": 7
-                  },
-                  "references": [
-                    {
-                      "book": "2 Corinthians",
-                      "bookId": "2CO",
-                      "chapter": 9,
-                      "verseStart": 7
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Serving others: "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "Galatians 5:13",
-                  "reference": {
-                    "book": "Galatians",
-                    "bookId": "GAL",
-                    "chapter": 5,
-                    "verseStart": 13
-                  },
-                  "references": [
-                    {
-                      "book": "Galatians",
-                      "bookId": "GAL",
-                      "chapter": 5,
-                      "verseStart": 13
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Silence and Solitude: "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "Mark 1:35",
-                  "reference": {
-                    "book": "Mark",
-                    "bookId": "MRK",
-                    "chapter": 1,
-                    "verseStart": 35
-                  },
-                  "references": [
-                    {
-                      "book": "Mark",
-                      "bookId": "MRK",
-                      "chapter": 1,
-                      "verseStart": 35
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Worship: "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "John 4:23-24",
-                  "reference": {
-                    "book": "John",
-                    "bookId": "JHN",
-                    "chapter": 4,
-                    "verseStart": 23,
-                    "verseEnd": 24
-                  },
-                  "references": [
-                    {
-                      "book": "John",
-                      "bookId": "JHN",
-                      "chapter": 4,
-                      "verseStart": 23,
-                      "verseEnd": 24
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "q-live-it-4",
-          "order": 4,
-          "segments": [
-            {
-              "type": "text",
-              "text": "This week I am going to:"
+              "text": "Putting It Into Practice"
             }
           ]
         }
@@ -574,7 +330,15 @@
           "segments": [
             {
               "type": "text",
-              "text": "Do something generous that no one sees. Spend time with God without posting about it."
+              "text": "We've spent time discussing prayer. Now let's spend some time actually praying!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "Take 8-10 minutes for quiet, individual prayer. You can use the Lord's Prayer as a guide, talk with God about whatever is on your heart, journal, or simply sit quietly in His presence. There's no expectation to pray aloud."
             }
           ]
         }

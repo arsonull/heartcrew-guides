@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-31T17:42:35.137Z",
+  "generatedAt": "2026-11-01T18:25:11.874Z",
   "guides": [
+    {
+      "id": "2026-10-31-when-prayer-feels-like-an-obligation-heart-crew-guide",
+      "sermonLinkId": 1350,
+      "sermonId": 542,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-10-31",
+      "sermonTitle": "When Prayer Feels Like An Obligation",
+      "sermonSubtitle": "Week 8",
+      "seriesTitle": "Upside Down",
+      "thumbnailUrl": "https://phc.events/api/mp/files/db5d9c9e-3a7d-4f08-831d-553b01b31ec3",
+      "videoUrl": "https://www.youtube.com/watch?v=ZkudOLEb6Kg",
+      "warnings": 1
+    },
     {
       "id": "2026-10-24-you-did-everything-right-nobody-noticed-heart-crew-guide",
       "sermonLinkId": 1347,
@@ -176,22 +192,6 @@
       "thumbnailUrl": "https://phc.events/api/mp/files/f9226222-5574-4213-a389-30f26d8eeb5a",
       "videoUrl": "https://www.youtube.com/watch?v=j6lKCy0e05I",
       "warnings": 2
-    },
-    {
-      "id": "2026-08-08-what-s-controlling-you-peoria-crew-guide",
-      "sermonLinkId": 1301,
-      "sermonId": 530,
-      "linkTypeId": 8,
-      "linkTypeKey": "peoria-crew-guide",
-      "campus": "Peoria",
-      "kind": "crew-guide",
-      "sermonDate": "2026-08-08",
-      "sermonTitle": "What's Controlling You?",
-      "sermonSubtitle": null,
-      "seriesTitle": "What's Controlling You?",
-      "thumbnailUrl": "https://phc.events/api/mp/files/2683fba4-e416-4d62-be20-ded60da31ad9",
-      "videoUrl": "https://www.youtube.com/watch?v=je2v84yHnVc",
-      "warnings": 9
     }
   ],
   "failed": []
