@@ -1,0 +1,372 @@
+{
+  "id": "2026-10-31-when-prayer-feels-like-an-obligation-live-it-out",
+  "date": "2026-10-31",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "When Prayer Feels Like An Obligation",
+  "speaker": "Jon Jennings",
+  "sermonScripture": null,
+  "topScriptures": [
+    {
+      "displayText": "Matthew 6:5-13",
+      "references": [
+        {
+          "book": "Matthew",
+          "bookId": "MAT",
+          "chapter": 6,
+          "verseStart": 5,
+          "verseEnd": 13
+        }
+      ]
+    },
+    {
+      "displayText": "Romans 8:15-16",
+      "references": [
+        {
+          "book": "Romans",
+          "bookId": "ROM",
+          "chapter": 8,
+          "verseStart": 15,
+          "verseEnd": 16
+        }
+      ]
+    },
+    {
+      "displayText": "Philippians 4:6-7",
+      "references": [
+        {
+          "book": "Philippians",
+          "bookId": "PHP",
+          "chapter": 4,
+          "verseStart": 6,
+          "verseEnd": 7
+        }
+      ]
+    }
+  ],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Is there a first prayer you remember learning? How did this impact your view of God?"
+            }
+          ]
+        },
+        {
+          "id": "q-warm-up-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Looking back at this week's notes, was there anything that particularly caught your attention, challenged, or confused you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Is this something you've experienced? What do you think makes it difficult?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 6:5-13",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 6,
+                    "verseStart": 5,
+                    "verseEnd": 13
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 6,
+                      "verseStart": 5,
+                      "verseEnd": 13
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " and\n"
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Romans 8:15-16",
+                  "reference": {
+                    "book": "Romans",
+                    "bookId": "ROM",
+                    "chapter": 8,
+                    "verseStart": 15,
+                    "verseEnd": 16
+                  },
+                  "references": [
+                    {
+                      "book": "Romans",
+                      "bookId": "ROM",
+                      "chapter": 8,
+                      "verseStart": 15,
+                      "verseEnd": 16
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus teaches us to address God as our Father, and Paul tells us we can cry out to Him as \"Abba, Father.\" Yet many of us struggle to approach God with that kind of closeness."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Why do you think He chose this language, and how might it change the way we think and pray?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Jesus teaches His disciples to pray using \"our\" and \"us,\" rather than \"my\" and \"me.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-know-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Have you ever felt this pressure? How has it affected your willingness to pray?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "It's easy to judge our own prayers as though they were a performance, especially when we find ourselves measuring them against others' prayers."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "How might understanding prayer this way change our approach to it?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Prayer is often seen as an obligation, a daily box to check between tasks. But Scripture reveals God as our loving Father who invites us to commune with Him. Prayer is us stepping into that invitation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What does this suggest about the things we can bring to God in prayer? Are there things you personally hesitate to pray about? Why?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "When teaching His disciples to pray, Jesus included something as ordinary as daily bread."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "q-share-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Knowing this, why do you think Jesus still teaches us to pray?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "In "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Matthew 6:8",
+                  "reference": {
+                    "book": "Matthew",
+                    "bookId": "MAT",
+                    "chapter": 6,
+                    "verseStart": 8
+                  },
+                  "references": [
+                    {
+                      "book": "Matthew",
+                      "bookId": "MAT",
+                      "chapter": 6,
+                      "verseStart": 8
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", Jesus says our Father knows what we need before we ask Him."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What might it look like to do this regularly throughout the ordinary moments of our day?"
+            }
+          ],
+          "lead": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Read "
+                },
+                {
+                  "type": "scripture",
+                  "displayText": "Philippians 4:6-7",
+                  "reference": {
+                    "book": "Philippians",
+                    "bookId": "PHP",
+                    "chapter": 4,
+                    "verseStart": 6,
+                    "verseEnd": 7
+                  },
+                  "references": [
+                    {
+                      "book": "Philippians",
+                      "bookId": "PHP",
+                      "chapter": 4,
+                      "verseStart": 6,
+                      "verseEnd": 7
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "Paul encourages us to bring everything to God in prayer."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "outro": [
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "Putting It Into Practice\nWe've spent time discussing prayer. Now let's spend some time\nactually praying!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "type": "text",
+              "text": "Take 8-10 minutes for quiet, individual prayer.\nYou can use the Lord's Prayer as a guide, talk with God about\nwhatever is on your heart, journal, or simply sit quietly in His\npresence. There's no expectation to pray aloud."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "kind": "guide",
+  "sourceUrl": "https://phc.events/api/mp/files/dd53e401-6bc1-4d5d-9662-d693638b465b",
+  "videoUrl": "https://www.youtube.com/watch?v=ZkudOLEb6Kg"
+}

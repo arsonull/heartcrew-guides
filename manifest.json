@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-03T20:05:57.426Z",
+  "generatedAt": "2026-11-04T20:25:07.679Z",
   "guides": [
+    {
+      "id": "2026-10-31-when-prayer-feels-like-an-obligation-live-it-out",
+      "sermonLinkId": 1353,
+      "sermonId": 542,
+      "linkTypeId": 6,
+      "linkTypeKey": "live-it-out",
+      "campus": "Glendale",
+      "kind": "sermon-notes",
+      "sermonDate": "2026-10-31",
+      "sermonTitle": "When Prayer Feels Like An Obligation",
+      "sermonSubtitle": "Week 8",
+      "seriesTitle": "Upside Down",
+      "thumbnailUrl": "https://phc.events/api/mp/files/db5d9c9e-3a7d-4f08-831d-553b01b31ec3",
+      "videoUrl": "https://www.youtube.com/watch?v=ZkudOLEb6Kg",
+      "warnings": 0
+    },
     {
       "id": "2026-10-31-when-prayer-feels-like-an-obligation-heart-crew-guide",
       "sermonLinkId": 1350,
@@ -175,22 +191,6 @@
       "seriesTitle": "In Focus",
       "thumbnailUrl": "https://phc.events/api/mp/files/628be721-6701-4a3f-98ac-820aa5c7d0bf",
       "videoUrl": "https://www.youtube.com/watch?v=gDe7YQLVO_8&t=2198s",
-      "warnings": 2
-    },
-    {
-      "id": "2026-08-15-busy-but-going-nowhere-heart-crew-guide",
-      "sermonLinkId": 1305,
-      "sermonId": 531,
-      "linkTypeId": 4,
-      "linkTypeKey": "heart-crew-guide",
-      "campus": "Glendale",
-      "kind": "handout",
-      "sermonDate": "2026-08-15",
-      "sermonTitle": "Busy... But Going Nowhere?",
-      "sermonSubtitle": "Week 1",
-      "seriesTitle": "In Focus",
-      "thumbnailUrl": "https://phc.events/api/mp/files/f9226222-5574-4213-a389-30f26d8eeb5a",
-      "videoUrl": "https://www.youtube.com/watch?v=j6lKCy0e05I",
       "warnings": 2
     }
   ],
