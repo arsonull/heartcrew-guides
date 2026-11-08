@@ -19,17 +19,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "Is there a first prayer you remember learning? How did this impact your view of God?"
-            }
-          ]
-        },
-        {
-          "id": "q-warm-up-2",
-          "order": 2,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Looking back at this week's notes, was there anything that particularly caught your attention, challenged, or confused you?"
+              "text": "What's something you've invested a lot of time, money, or attention into recently? What made it worth investing in?"
             }
           ]
         }
@@ -46,121 +36,25 @@
           "segments": [
             {
               "type": "text",
-              "text": "Is this something you've experienced?"
-            }
-          ],
-          "lead": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "Read "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "Matthew 6:5-13",
-                  "reference": {
-                    "book": "Matthew",
-                    "bookId": "MAT",
-                    "chapter": 6,
-                    "verseStart": 5,
-                    "verseEnd": 13
-                  },
-                  "references": [
-                    {
-                      "book": "Matthew",
-                      "bookId": "MAT",
-                      "chapter": 6,
-                      "verseStart": 5,
-                      "verseEnd": 13
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " and "
-                },
-                {
-                  "type": "scripture",
-                  "displayText": "Romans 8:15-16",
-                  "reference": {
-                    "book": "Romans",
-                    "bookId": "ROM",
-                    "chapter": 8,
-                    "verseStart": 15,
-                    "verseEnd": 16
-                  },
-                  "references": [
-                    {
-                      "book": "Romans",
-                      "bookId": "ROM",
-                      "chapter": 8,
-                      "verseStart": 15,
-                      "verseEnd": 16
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "."
-                }
-              ]
+              "text": "Read "
             },
             {
-              "segments": [
+              "type": "scripture",
+              "displayText": "Matthew 6:19-21",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 6,
+                "verseStart": 19,
+                "verseEnd": 21
+              },
+              "references": [
                 {
-                  "type": "text",
-                  "text": "Jesus teaches us to address God as our Father, and Paul tells us we can cry out to Him as \"Abba, Father.\" Yet many of us struggle to approach God with that kind of closeness."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "q-know-it-2",
-          "order": 2,
-          "segments": [
-            {
-              "type": "text",
-              "text": "What do you think makes it difficult?"
-            }
-          ]
-        },
-        {
-          "id": "q-know-it-3",
-          "order": 3,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Why do you think He chose this language, and how might it change the way we think and pray?"
-            }
-          ],
-          "lead": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "Jesus teaches His disciples to pray using \"our\" and \"us,\" rather than \"my\" and \"me.\""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "q-know-it-4",
-          "order": 4,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Have you ever felt this pressure? How has it affected your willingness to pray?"
-            }
-          ],
-          "lead": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "It's easy to judge our own prayers as though they were a performance, especially when we find ourselves measuring them against others' prayers."
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 6,
+                  "verseStart": 19,
+                  "verseEnd": 21
                 }
               ]
             }
@@ -179,79 +73,45 @@
           "segments": [
             {
               "type": "text",
-              "text": "How might understanding prayer this way change our approach to it?"
-            }
-          ],
-          "lead": [
+              "text": "Read "
+            },
             {
-              "segments": [
+              "type": "scripture",
+              "displayText": "Numbers 11:4-6, 18-20, 31-34",
+              "reference": {
+                "book": "Numbers",
+                "bookId": "NUM",
+                "chapter": 11,
+                "verseStart": 4,
+                "verseEnd": 6
+              },
+              "references": [
                 {
-                  "type": "text",
-                  "text": "Prayer is often seen as an obligation, a daily box to check between tasks. But Scripture reveals God as our loving Father who invites us to commune with Him. Prayer is us stepping into that invitation."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "q-share-it-2",
-          "order": 2,
-          "segments": [
-            {
-              "type": "text",
-              "text": "What does this suggest about the things we can bring to God in prayer? Are there things you personally hesitate to pray about? Why?"
-            }
-          ],
-          "lead": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "When teaching His disciples to pray, Jesus included something as ordinary as daily bread."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "q-share-it-3",
-          "order": 3,
-          "segments": [
-            {
-              "type": "text",
-              "text": "Knowing this, why do you think Jesus still teaches us to pray?"
-            }
-          ],
-          "lead": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "In "
+                  "book": "Numbers",
+                  "bookId": "NUM",
+                  "chapter": 11,
+                  "verseStart": 4,
+                  "verseEnd": 6
                 },
                 {
-                  "type": "scripture",
-                  "displayText": "Matthew 6:8",
-                  "reference": {
-                    "book": "Matthew",
-                    "bookId": "MAT",
-                    "chapter": 6,
-                    "verseStart": 8
-                  },
-                  "references": [
-                    {
-                      "book": "Matthew",
-                      "bookId": "MAT",
-                      "chapter": 6,
-                      "verseStart": 8
-                    }
-                  ]
+                  "book": "Numbers",
+                  "bookId": "NUM",
+                  "chapter": 11,
+                  "verseStart": 18,
+                  "verseEnd": 20
                 },
                 {
-                  "type": "text",
-                  "text": ", Jesus says our Father knows what we need before we ask Him."
+                  "book": "Numbers",
+                  "bookId": "NUM",
+                  "chapter": 11,
+                  "verseStart": 31,
+                  "verseEnd": 34
                 }
               ]
+            },
+            {
+              "type": "text",
+              "text": "."
             }
           ]
         }
@@ -268,49 +128,60 @@
           "segments": [
             {
               "type": "text",
-              "text": "What might it look like to do this regularly throughout the ordinary moments of our day?"
-            }
-          ],
-          "lead": [
+              "text": "Read "
+            },
             {
-              "segments": [
+              "type": "scripture",
+              "displayText": "Proverbs 3:4-5, 9-10",
+              "reference": {
+                "book": "Proverbs",
+                "bookId": "PRO",
+                "chapter": 3,
+                "verseStart": 4,
+                "verseEnd": 5
+              },
+              "references": [
                 {
-                  "type": "text",
-                  "text": "Read "
+                  "book": "Proverbs",
+                  "bookId": "PRO",
+                  "chapter": 3,
+                  "verseStart": 4,
+                  "verseEnd": 5
                 },
                 {
-                  "type": "scripture",
-                  "displayText": "Philippians 4:6-7",
-                  "reference": {
-                    "book": "Philippians",
-                    "bookId": "PHP",
-                    "chapter": 4,
-                    "verseStart": 6,
-                    "verseEnd": 7
-                  },
-                  "references": [
-                    {
-                      "book": "Philippians",
-                      "bookId": "PHP",
-                      "chapter": 4,
-                      "verseStart": 6,
-                      "verseEnd": 7
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "."
+                  "book": "Proverbs",
+                  "bookId": "PRO",
+                  "chapter": 3,
+                  "verseStart": 9,
+                  "verseEnd": 10
                 }
               ]
             },
             {
-              "segments": [
+              "type": "text",
+              "text": " and "
+            },
+            {
+              "type": "scripture",
+              "displayText": "2 Samuel 24:24",
+              "reference": {
+                "book": "2 Samuel",
+                "bookId": "2SA",
+                "chapter": 24,
+                "verseStart": 24
+              },
+              "references": [
                 {
-                  "type": "text",
-                  "text": "Paul encourages us to bring everything to God in prayer."
+                  "book": "2 Samuel",
+                  "bookId": "2SA",
+                  "chapter": 24,
+                  "verseStart": 24
                 }
               ]
+            },
+            {
+              "type": "text",
+              "text": ". Our generosity is about more than money. God invites us to give Him our trust, our time, our resources, our attention, and our lives. David understood that an offering to God should cost him something."
             }
           ]
         },
@@ -320,25 +191,17 @@
           "segments": [
             {
               "type": "text",
-              "text": "Putting It Into Practice"
-            }
-          ]
-        }
-      ],
-      "outro": [
-        {
-          "segments": [
-            {
-              "type": "text",
-              "text": "We've spent time discussing prayer. Now let's spend some time actually praying!"
+              "text": "What are you afraid of losing most? Whether it's money, comfort, time, security, recognition, or control, what is something you struggle to surrender to God? How might that fear be influencing the way you live?"
             }
           ]
         },
         {
+          "id": "q-live-it-3",
+          "order": 3,
           "segments": [
             {
               "type": "text",
-              "text": "Take 8-10 minutes for quiet, individual prayer. You can use the Lord's Prayer as a guide, talk with God about whatever is on your heart, journal, or simply sit quietly in His presence. There's no expectation to pray aloud."
+              "text": "What would it look like to make generosity the first line of your budget instead of the last? God has already placed things in your hands that can bless others. Beyond money, consider your time, gifts, experiences, and even your words. Are you using them to make deposits into the lives of others or withdrawals? What is one practical way you can be generous this week?"
             }
           ]
         }

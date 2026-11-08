@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-07T18:01:37.675Z",
+  "generatedAt": "2026-11-08T18:20:30.475Z",
   "guides": [
+    {
+      "id": "2026-11-07-why-nothing-ever-feels-like-enough-heart-crew-guide",
+      "sermonLinkId": 1355,
+      "sermonId": 543,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-11-07",
+      "sermonTitle": "Why Nothing Ever Feels Like Enough",
+      "sermonSubtitle": "Week 9",
+      "seriesTitle": "Upside Down",
+      "thumbnailUrl": "https://phc.events/api/mp/files/b40158ee-6de4-46d4-8f5b-c07743bc408a",
+      "videoUrl": "https://www.youtube.com/watch?v=HWm3NDH3bOU",
+      "warnings": 5
+    },
     {
       "id": "2026-10-31-when-prayer-feels-like-an-obligation-live-it-out",
       "sermonLinkId": 1353,
@@ -31,7 +47,7 @@
       "seriesTitle": "Upside Down",
       "thumbnailUrl": "https://phc.events/api/mp/files/db5d9c9e-3a7d-4f08-831d-553b01b31ec3",
       "videoUrl": "https://www.youtube.com/watch?v=ZkudOLEb6Kg",
-      "warnings": 1
+      "warnings": 5
     },
     {
       "id": "2026-10-24-you-did-everything-right-nobody-noticed-heart-crew-guide",
@@ -47,7 +63,7 @@
       "seriesTitle": "Upside Down",
       "thumbnailUrl": "https://phc.events/api/mp/files/4d202bf8-2439-4f40-a87b-db2936dd5a1f",
       "videoUrl": "https://www.youtube.com/watch?v=Mq-Fj1bVpzk",
-      "warnings": 1
+      "warnings": 5
     },
     {
       "id": "2026-10-17-the-hardest-thing-jesus-ever-asked-us-to-do-heart-crew-guide",
@@ -175,22 +191,6 @@
       "seriesTitle": "In Focus",
       "thumbnailUrl": "https://phc.events/api/mp/files/73c07a85-7b2c-4940-bc4d-542511056a36",
       "videoUrl": "https://www.youtube.com/watch?v=CLqvVOaQxEQ",
-      "warnings": 2
-    },
-    {
-      "id": "2026-08-22-the-reason-behind-everything-you-do-heart-crew-guide",
-      "sermonLinkId": 1312,
-      "sermonId": 532,
-      "linkTypeId": 4,
-      "linkTypeKey": "heart-crew-guide",
-      "campus": "Glendale",
-      "kind": "handout",
-      "sermonDate": "2026-08-22",
-      "sermonTitle": "The Reason Behind Everything You Do",
-      "sermonSubtitle": "Week 2",
-      "seriesTitle": "In Focus",
-      "thumbnailUrl": "https://phc.events/api/mp/files/628be721-6701-4a3f-98ac-820aa5c7d0bf",
-      "videoUrl": "https://www.youtube.com/watch?v=gDe7YQLVO_8&t=2198s",
       "warnings": 2
     }
   ],

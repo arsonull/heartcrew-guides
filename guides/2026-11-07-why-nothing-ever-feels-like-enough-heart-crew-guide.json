@@ -1,0 +1,217 @@
+{
+  "id": "2026-11-07-why-nothing-ever-feels-like-enough-heart-crew-guide",
+  "date": "2026-11-07",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "Why Nothing Ever Feels Like Enough",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What's something you've invested a lot of time, money, or attention into recently? What made it worth investing in?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 6:19-21",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 6,
+                "verseStart": 19,
+                "verseEnd": 21
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 6,
+                  "verseStart": 19,
+                  "verseEnd": 21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Numbers 11:4-6, 18-20, 31-34",
+              "reference": {
+                "book": "Numbers",
+                "bookId": "NUM",
+                "chapter": 11,
+                "verseStart": 4,
+                "verseEnd": 6
+              },
+              "references": [
+                {
+                  "book": "Numbers",
+                  "bookId": "NUM",
+                  "chapter": 11,
+                  "verseStart": 4,
+                  "verseEnd": 6
+                },
+                {
+                  "book": "Numbers",
+                  "bookId": "NUM",
+                  "chapter": 11,
+                  "verseStart": 18,
+                  "verseEnd": 20
+                },
+                {
+                  "book": "Numbers",
+                  "bookId": "NUM",
+                  "chapter": 11,
+                  "verseStart": 31,
+                  "verseEnd": 34
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Proverbs 3:4-5, 9-10",
+              "reference": {
+                "book": "Proverbs",
+                "bookId": "PRO",
+                "chapter": 3,
+                "verseStart": 4,
+                "verseEnd": 5
+              },
+              "references": [
+                {
+                  "book": "Proverbs",
+                  "bookId": "PRO",
+                  "chapter": 3,
+                  "verseStart": 4,
+                  "verseEnd": 5
+                },
+                {
+                  "book": "Proverbs",
+                  "bookId": "PRO",
+                  "chapter": 3,
+                  "verseStart": 9,
+                  "verseEnd": 10
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " and "
+            },
+            {
+              "type": "scripture",
+              "displayText": "2 Samuel 24:24",
+              "reference": {
+                "book": "2 Samuel",
+                "bookId": "2SA",
+                "chapter": 24,
+                "verseStart": 24
+              },
+              "references": [
+                {
+                  "book": "2 Samuel",
+                  "bookId": "2SA",
+                  "chapter": 24,
+                  "verseStart": 24
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Our generosity is about more than money. God invites us to give Him our trust, our time, our resources, our attention, and our lives. David understood that an offering to God should cost him something."
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What are you afraid of losing most? Whether it's money, comfort, time, security, recognition, or control, what is something you struggle to surrender to God? How might that fear be influencing the way you live?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What would it look like to make generosity the first line of your budget instead of the last? God has already placed things in your hands that can bless others. Beyond money, consider your time, gifts, experiences, and even your words. Are you using them to make deposits into the lives of others or withdrawals? What is one practical way you can be generous this week?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://www.pureheart.org/files/heart-crew-guide-11-7-26",
+  "videoUrl": "https://www.youtube.com/watch?v=HWm3NDH3bOU"
+}
