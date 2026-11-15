@@ -1,0 +1,219 @@
+{
+  "id": "2026-11-14-why-you-can-t-stop-worrying-even-when-you-trust-god-heart-crew-guide",
+  "date": "2026-11-14",
+  "seriesTitle": "Upside Down",
+  "sermonTitle": "Why You Can't Stop Worrying (Even When You Trust God)",
+  "speaker": null,
+  "sermonScripture": null,
+  "topScriptures": [],
+  "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
+  "sections": [
+    {
+      "id": "sec-message-notes",
+      "title": "MESSAGE NOTES",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-message-notes-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "We are praising God for His goodness as we step into the final week of the Fall Heart Crew Semester. Coming up: Please join us for our Winter Discipleship Classes starting the first week of December."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-warm-up",
+      "title": "WARM UP",
+      "order": 2,
+      "questions": [
+        {
+          "id": "q-warm-up-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Do you have any fun plans for the holidays? What brings you joy during this season?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-know-it",
+      "title": "KNOW IT",
+      "order": 3,
+      "questions": [
+        {
+          "id": "q-know-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 6:25-34",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 6,
+                "verseStart": 25,
+                "verseEnd": 34
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 6,
+                  "verseStart": 25,
+                  "verseEnd": 34
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-share-it",
+      "title": "SHARE IT",
+      "order": 4,
+      "questions": [
+        {
+          "id": "q-share-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Philippians 4:6-9",
+              "reference": {
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 4,
+                "verseStart": 6,
+                "verseEnd": 9
+              },
+              "references": [
+                {
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 9
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-live-it",
+      "title": "LIVE IT",
+      "order": 5,
+      "questions": [
+        {
+          "id": "q-live-it-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Read "
+            },
+            {
+              "type": "scripture",
+              "displayText": "Matthew 6:28-30, 8:23-26, 14:28-31",
+              "reference": {
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 6,
+                "verseStart": 28,
+                "verseEnd": 30
+              },
+              "references": [
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 6,
+                  "verseStart": 28,
+                  "verseEnd": 30
+                },
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 8,
+                  "verseStart": 23,
+                  "verseEnd": 26
+                },
+                {
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 14,
+                  "verseStart": 28,
+                  "verseEnd": 31
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", & 16:5-12."
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-2",
+          "order": 2,
+          "segments": [
+            {
+              "type": "text",
+              "text": "What do you notice about the way Jesus responds to His disciples in these moments? What does this reveal about where He wants their attention and trust to be?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-3",
+          "order": 3,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Which of these moments do you relate to most right now: worry about provision, fear of circumstances, doubt in the middle of uncertainty, or forgetting what God has already done? Why? What do you think is your next step?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who is one person you can reach out to this week, either to check in on or to ask for prayer and support?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pullQuote": null,
+  "benediction": null,
+  "version": 1,
+  "campus": "Glendale",
+  "sourceUrl": "https://www.pureheart.org/files/heart-crew-guide-11-14-26",
+  "videoUrl": "https://www.youtube.com/watch?v=sB6sYymZvDY"
+}

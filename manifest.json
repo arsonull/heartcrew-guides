@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-14T18:44:05.657Z",
+  "generatedAt": "2026-11-15T19:21:56.361Z",
   "guides": [
+    {
+      "id": "2026-11-14-why-you-can-t-stop-worrying-even-when-you-trust-god-heart-crew-guide",
+      "sermonLinkId": 1361,
+      "sermonId": 544,
+      "linkTypeId": 4,
+      "linkTypeKey": "heart-crew-guide",
+      "campus": "Glendale",
+      "kind": "crew-guide",
+      "sermonDate": "2026-11-14",
+      "sermonTitle": "Why You Can't Stop Worrying (Even When You Trust God)",
+      "sermonSubtitle": "Week 10",
+      "seriesTitle": "Upside Down",
+      "thumbnailUrl": "https://phc.events/api/mp/files/df66d394-2adf-489e-9e61-aa11ce457ef7",
+      "videoUrl": "https://www.youtube.com/watch?v=sB6sYymZvDY",
+      "warnings": 7
+    },
     {
       "id": "2026-11-07-why-nothing-ever-feels-like-enough-heart-crew-guide",
       "sermonLinkId": 1355,
@@ -176,22 +192,6 @@
       "thumbnailUrl": "https://phc.events/api/mp/files/ba84bb2b-a323-4a2d-9ea7-dbc6f7de9829",
       "videoUrl": "https://www.youtube.com/watch?v=fViqKJJCd8c",
       "warnings": 1
-    },
-    {
-      "id": "2026-08-29-vision-isn-t-enough-heart-crew-guide",
-      "sermonLinkId": 1314,
-      "sermonId": 533,
-      "linkTypeId": 4,
-      "linkTypeKey": "heart-crew-guide",
-      "campus": "Glendale",
-      "kind": "crew-guide",
-      "sermonDate": "2026-08-29",
-      "sermonTitle": "Vision Isn't Enough",
-      "sermonSubtitle": "Week 3",
-      "seriesTitle": "In Focus",
-      "thumbnailUrl": "https://phc.events/api/mp/files/73c07a85-7b2c-4940-bc4d-542511056a36",
-      "videoUrl": "https://www.youtube.com/watch?v=CLqvVOaQxEQ",
-      "warnings": 2
     }
   ],
   "failed": []
