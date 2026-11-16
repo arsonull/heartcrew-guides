@@ -9,9 +9,26 @@
   "introduction": "These questions are designed to help Crews discuss the weekend teaching while building relationships with each other and applying God's Word to our lives.",
   "sections": [
     {
+      "id": "sec-message-notes",
+      "title": "MESSAGE NOTES",
+      "order": 1,
+      "questions": [
+        {
+          "id": "q-message-notes-1",
+          "order": 1,
+          "segments": [
+            {
+              "type": "text",
+              "text": "We are praising God for His goodness as we step into the final week of the Fall Heart Crew Semester. Coming up: Please join us for our Winter Discipleship Classes starting the first week of December."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "sec-warm-up",
       "title": "WARM UP",
-      "order": 1,
+      "order": 2,
       "questions": [
         {
           "id": "q-warm-up-1",
@@ -19,7 +36,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "What's something you've invested a lot of time, money, or attention into recently? What made it worth investing in?"
+              "text": "Do you have any fun plans for the holidays? What brings you joy during this season?"
             }
           ]
         }
@@ -28,7 +45,7 @@
     {
       "id": "sec-know-it",
       "title": "KNOW IT",
-      "order": 2,
+      "order": 3,
       "questions": [
         {
           "id": "q-know-it-1",
@@ -40,23 +57,27 @@
             },
             {
               "type": "scripture",
-              "displayText": "Matthew 6:19-21",
+              "displayText": "Matthew 6:25-34",
               "reference": {
                 "book": "Matthew",
                 "bookId": "MAT",
                 "chapter": 6,
-                "verseStart": 19,
-                "verseEnd": 21
+                "verseStart": 25,
+                "verseEnd": 34
               },
               "references": [
                 {
                   "book": "Matthew",
                   "bookId": "MAT",
                   "chapter": 6,
-                  "verseStart": 19,
-                  "verseEnd": 21
+                  "verseStart": 25,
+                  "verseEnd": 34
                 }
               ]
+            },
+            {
+              "type": "text",
+              "text": "."
             }
           ]
         }
@@ -65,7 +86,7 @@
     {
       "id": "sec-share-it",
       "title": "SHARE IT",
-      "order": 3,
+      "order": 4,
       "questions": [
         {
           "id": "q-share-it-1",
@@ -77,35 +98,21 @@
             },
             {
               "type": "scripture",
-              "displayText": "Numbers 11:4-6, 18-20, 31-34",
+              "displayText": "Philippians 4:6-9",
               "reference": {
-                "book": "Numbers",
-                "bookId": "NUM",
-                "chapter": 11,
-                "verseStart": 4,
-                "verseEnd": 6
+                "book": "Philippians",
+                "bookId": "PHP",
+                "chapter": 4,
+                "verseStart": 6,
+                "verseEnd": 9
               },
               "references": [
                 {
-                  "book": "Numbers",
-                  "bookId": "NUM",
-                  "chapter": 11,
-                  "verseStart": 4,
-                  "verseEnd": 6
-                },
-                {
-                  "book": "Numbers",
-                  "bookId": "NUM",
-                  "chapter": 11,
-                  "verseStart": 18,
-                  "verseEnd": 20
-                },
-                {
-                  "book": "Numbers",
-                  "bookId": "NUM",
-                  "chapter": 11,
-                  "verseStart": 31,
-                  "verseEnd": 34
+                  "book": "Philippians",
+                  "bookId": "PHP",
+                  "chapter": 4,
+                  "verseStart": 6,
+                  "verseEnd": 9
                 }
               ]
             },
@@ -120,7 +127,7 @@
     {
       "id": "sec-live-it",
       "title": "LIVE IT",
-      "order": 4,
+      "order": 5,
       "questions": [
         {
           "id": "q-live-it-1",
@@ -132,56 +139,41 @@
             },
             {
               "type": "scripture",
-              "displayText": "Proverbs 3:4-5, 9-10",
+              "displayText": "Matthew 6:28-30, 8:23-26, 14:28-31",
               "reference": {
-                "book": "Proverbs",
-                "bookId": "PRO",
-                "chapter": 3,
-                "verseStart": 4,
-                "verseEnd": 5
+                "book": "Matthew",
+                "bookId": "MAT",
+                "chapter": 6,
+                "verseStart": 28,
+                "verseEnd": 30
               },
               "references": [
                 {
-                  "book": "Proverbs",
-                  "bookId": "PRO",
-                  "chapter": 3,
-                  "verseStart": 4,
-                  "verseEnd": 5
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 6,
+                  "verseStart": 28,
+                  "verseEnd": 30
                 },
                 {
-                  "book": "Proverbs",
-                  "bookId": "PRO",
-                  "chapter": 3,
-                  "verseStart": 9,
-                  "verseEnd": 10
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": " and "
-            },
-            {
-              "type": "scripture",
-              "displayText": "2 Samuel 24:24",
-              "reference": {
-                "book": "2 Samuel",
-                "bookId": "2SA",
-                "chapter": 24,
-                "verseStart": 24
-              },
-              "references": [
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 8,
+                  "verseStart": 23,
+                  "verseEnd": 26
+                },
                 {
-                  "book": "2 Samuel",
-                  "bookId": "2SA",
-                  "chapter": 24,
-                  "verseStart": 24
+                  "book": "Matthew",
+                  "bookId": "MAT",
+                  "chapter": 14,
+                  "verseStart": 28,
+                  "verseEnd": 31
                 }
               ]
             },
             {
               "type": "text",
-              "text": ". Our generosity is about more than money. God invites us to give Him our trust, our time, our resources, our attention, and our lives. David understood that an offering to God should cost him something."
+              "text": ", & 16:5-12."
             }
           ]
         },
@@ -191,7 +183,7 @@
           "segments": [
             {
               "type": "text",
-              "text": "What are you afraid of losing most? Whether it's money, comfort, time, security, recognition, or control, what is something you struggle to surrender to God? How might that fear be influencing the way you live?"
+              "text": "What do you notice about the way Jesus responds to His disciples in these moments? What does this reveal about where He wants their attention and trust to be?"
             }
           ]
         },
@@ -201,7 +193,17 @@
           "segments": [
             {
               "type": "text",
-              "text": "What would it look like to make generosity the first line of your budget instead of the last? God has already placed things in your hands that can bless others. Beyond money, consider your time, gifts, experiences, and even your words. Are you using them to make deposits into the lives of others or withdrawals? What is one practical way you can be generous this week?"
+              "text": "Which of these moments do you relate to most right now: worry about provision, fear of circumstances, doubt in the middle of uncertainty, or forgetting what God has already done? Why? What do you think is your next step?"
+            }
+          ]
+        },
+        {
+          "id": "q-live-it-4",
+          "order": 4,
+          "segments": [
+            {
+              "type": "text",
+              "text": "Who is one person you can reach out to this week, either to check in on or to ask for prayer and support?"
             }
           ]
         }
